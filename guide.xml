@@ -21865,19 +21865,6 @@
     <category>Series</category>
     <category>Variety Show</category>
   </programme>
-  <programme channel="LEGOKidsTV.us@SD" start="20261008182700 +0000" stop="20261008185300 +0000">
-    <title>LEGO Dreamzzz</title>
-    <episode-num system="onscreen">S03E17</episode-num>
-    <episode-num system="pluto">69a7459bd29cc97de79801a5</episode-num>
-    <episode-num system="original-air-date">20250101000000 +0000</episode-num>
-    <desc>Nova sends out an S.O.S. that has the dream chasers rushing to her rescue and straight into a trap!</desc>
-    <icon src="https://images.pluto.tv/series/6453e68f54afb6001ad6d0c3/tile_1775688481387.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20250101</date>
-    <series-id system="pluto">6453e68f54afb6001ad6d0c3</series-id>
-    <sub-title>School Spirit</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
   <programme channel="LEGOKidsTV.us@SD" start="20261008185300 +0000" stop="20261008191900 +0000">
     <title>LEGO Dreamzzz</title>
     <episode-num system="onscreen">S03E18</episode-num>
@@ -102548,7 +102535,7 @@
     <title>Live programming — Lego Channel (1080p)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
-  <programme channel="LEGOKidsTV.us@SD" start="20261008180000 +0000" stop="20261008182700 +0000">
+  <programme channel="LEGOKidsTV.us@SD" start="20261008180000 +0000" stop="20261008185300 +0000">
     <title>Live programming — LEGO Kids TV</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
