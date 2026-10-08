@@ -6,6 +6,42 @@ from urllib.request import urlopen
 from collections import Counter
 import base64
 import time
+import copy
+import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
+
+def build_guide(kept, mappings):
+    source = ET.fromstring(fetch('https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml'))
+    output = ET.Element('tv', {'generator-info-name': 'jellyfin-iptv curated from matthuisman/i.mjh.nz'})
+    available = {c.get('id'): c for c in source.findall('channel')}
+    matched = {key: ids for key, ids in mappings.items() if key in available}
+    for key, ids in matched.items():
+        for channel_id in sorted(ids):
+            channel = copy.deepcopy(available[key])
+            channel.set('id', channel_id)
+            output.append(channel)
+    programmes = 0
+    future = 0
+    latest = datetime.now(timezone.utc)
+    for programme in source.findall('programme'):
+        ids = matched.get(programme.get('channel'), ())
+        if not ids:
+            continue
+        stop = datetime.strptime(programme.get('stop'), '%Y%m%d%H%M%S %z')
+        if stop <= datetime.now(timezone.utc):
+            continue
+        latest = max(latest, stop)
+        future += 1
+        for channel_id in sorted(ids):
+            item = copy.deepcopy(programme)
+            item.set('channel', channel_id)
+            output.append(item)
+            programmes += 1
+    if len(matched) < 50 or future < 100 or (latest - datetime.now(timezone.utc)).total_seconds() < 3600:
+        raise ValueError('Guide incomplete or stale; preserving published files')
+    ET.indent(output)
+    xml = ET.tostring(output, encoding='utf-8', xml_declaration=True)
+    return xml, {'matched_playlist_ids': sum(map(len, matched.values())), 'programmes': programmes, 'schedule_through_utc': latest.isoformat(), 'source': 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml'}
 
 ROOT = Path(__file__).resolve().parent
 def fetch(url):
@@ -41,6 +77,7 @@ def main():
     blocks = re.split(r'(?=^#EXTINF:)', playlist, flags=re.M)[1:]
     kept, removed, stats, local, anime = [], [], Counter(), [], []
     refreshed_pluto, unmatched_pluto = 0, []
+    guide_mappings = {}
     for block in blocks:
         header = block.splitlines()[0]
         match = re.search(r'tvg-id="([^"]+)"', header)
@@ -73,6 +110,7 @@ def main():
         else:
             old_url = re.search(r'https://jmp2\.uk/plu-([a-f0-9]{24})\.m3u8', block)
             if old_url:
+                guide_mappings.setdefault(old_url.group(1), set()).add(key)
                 replacement = pluto_urls.get(old_url.group(1))
                 if replacement:
                     block = block.replace(old_url.group(0), replacement)
@@ -86,6 +124,9 @@ def main():
     assert not any('3ABNFrench.us' in b for b in kept)
     assert not any(re.search(r'group-title="[^"]*Religious', b, re.I) for b in kept)
     assert len(kept) >= 400, 'Refusing unexpectedly small lineup'
+    guide, guide_report = build_guide(kept, guide_mappings)
+    (ROOT / 'guide.xml').write_bytes(guide)
+    (ROOT / 'guide-report.json').write_text(json.dumps(guide_report, indent=2) + '\n', encoding='utf-8')
     (ROOT / 'us-curated.m3u').write_text('#EXTM3U\n' + ''.join(kept), encoding='utf-8')
     report = {'source_entries': len(blocks), 'kept_entries': len(kept), 'refreshed_pluto_entries': refreshed_pluto, 'unmatched_pluto_channels': unmatched_pluto, 'removed_by_reason': dict(stats), 'local_channels': local, 'anime_channels': anime, 'removed': removed}
     (ROOT / 'filter-report.json').write_text(json.dumps(report, indent=2) + '\n', encoding='utf-8')

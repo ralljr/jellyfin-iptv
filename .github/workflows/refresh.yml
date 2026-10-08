@@ -18,7 +18,7 @@ jobs:
         run: python3 update.py
       - name: Publish changes
         run: |
-          git add us-curated.m3u filter-report.json
+          git add us-curated.m3u filter-report.json guide.xml guide-report.json
           if git diff --cached --quiet; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
