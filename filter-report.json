@@ -1,0 +1,2987 @@
+{
+  "source_entries": 1457,
+  "kept_entries": 864,
+  "removed_by_reason": {
+    "non-English; English subtitles unverified": 189,
+    "local station outside Iowa/Kansas City": 399,
+    "affiliate location outside selection or unspecified": 5
+  },
+  "local_channels": [
+    "Ace TV KCKS-LD (720p)",
+    "CBS KCCI (720p)",
+    "NBC KSHB-TV (720p)"
+  ],
+  "anime_channels": [
+    "Anime x HIDIVE",
+    "Crunchyroll (720p)",
+    "Pluto TV Anime",
+    "Pluto TV Anime Movies"
+  ],
+  "removed": [
+    {
+      "id": "3ABNFrench.us@SD",
+      "name": "3ABN French",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "3ABNLatino.us@SD",
+      "name": "3ABN Latino (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ABC.us@KAAL",
+      "name": "ABC KAAL (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@KEROTV",
+      "name": "ABC KERO-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@KGTV",
+      "name": "ABC KGTV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@KGUNTV",
+      "name": "ABC KGUN-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@KITV",
+      "name": "ABC KITV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@KMGHTV",
+      "name": "ABC KMGH-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@KOATTV",
+      "name": "ABC KOAT-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@KRGVTV",
+      "name": "ABC KRGV-TV",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@KSTPTV",
+      "name": "ABC KSTP-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@KXXV",
+      "name": "ABC KXXV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WBBJTV",
+      "name": "ABC WBBJ-TV (432p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WBRZTV",
+      "name": "ABC WBRZ-TV (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WDIODT",
+      "name": "ABC WDIO-DT (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WFTV",
+      "name": "ABC WFTV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WISNTV",
+      "name": "ABC WISN-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WJLATV",
+      "name": "ABC WJLA-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WLOS",
+      "name": "ABC WLOS (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WMARTV",
+      "name": "ABC WMAR-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WMURTV",
+      "name": "ABC WMUR-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WPDETV",
+      "name": "ABC WPDE-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WSOCTV",
+      "name": "ABC WSOC-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WSYX",
+      "name": "ABC WSYX (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WTNH",
+      "name": "ABC WTNH (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WTVQDT",
+      "name": "ABC WTVQ-DT (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WTXLTV",
+      "name": "ABC WTXL-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WWAY",
+      "name": "ABC WWAY",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABHPTV.us@HD",
+      "name": "ABHP TV (480p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ABNAfghanistan.us@SD",
+      "name": "ABN Afghanistan (540p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ABNChina.us@SD",
+      "name": "ABN China (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ABNTVIndia.us@SD",
+      "name": "ABN TV India (540p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ABNUrdu.us@SD",
+      "name": "ABN Urdu (540p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Access4PAC.us@SD",
+      "name": "Access 4 PAC",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Access19.us@SD",
+      "name": "Access 19",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "AccessHumboldt.us@SD",
+      "name": "Access Humboldt (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "AccessNashua.us@SD",
+      "name": "Access Nashua (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "AccessSacramentoChannel17.us@SD",
+      "name": "Access Sacramento Channel 17",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "AccessTuolumne.us@SD",
+      "name": "Access Tuolumne (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "AccessVisionChannel16.us@SD",
+      "name": "AccessVision Channel 16 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "AccessVisionChannel17.us@SD",
+      "name": "AccessVision Channel 17 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ACECountryRadio.us@KPVMLD",
+      "name": "ACE Country Radio KPVM-LD",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ACTV.us@SD",
+      "name": "ACTV (United States)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "AdrenalinaPuraTV.us@SD",
+      "name": "Adrenalina Pura TV (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AFTV.us@SD",
+      "name": "AFTV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "AFVEspanol.us@SD",
+      "name": "AFV Espanol (720p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Akaku53.us@SD",
+      "name": "Akaku 53 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Akaku54.us@SD",
+      "name": "Akaku 54 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Akaku55.us@SD",
+      "name": "Akaku 55 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "AlHorreyaTV.us@SD",
+      "name": "Al Horreya TV (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AlFadyTV.us@SD",
+      "name": "Al-Fady TV (1080p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AlMahdiTV.us@SD",
+      "name": "Al-Mahdi TV (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AlhurraIraq.us@SD",
+      "name": "Alhurra Iraq (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AlientoVision.us@SD",
+      "name": "Aliento Vision (720p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AlkarmaTVAustralia.us@SD",
+      "name": "Alkarma TV Australia (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AlkarmaTVFamily.us@SD",
+      "name": "Alkarma TV Family (1080p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AlkarmaTVMiddleEast.us@SD",
+      "name": "Alkarma TV Middle East (1080p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AlkarmaTVNorthAmericaCanada.us@SD",
+      "name": "Alkarma TV North America & Canada (1080p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AlkarmaTVPraise.us@SD",
+      "name": "Alkarma TV Praise (720p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AlkarmaTVTalmazaDiscipleship.us@SD",
+      "name": "Alkarma TV Talmaza Discipleship (1080p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AlkarmaTVYouthEnglish.us@SD",
+      "name": "Alkarma TV Youth & English (1080p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AMCenEspanol.us@SD",
+      "name": "AMC en Espanol",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AMP1.us@SD",
+      "name": "AMP 1 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "AMP2.us@SD",
+      "name": "AMP 2 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "AmuTV.us@SD",
+      "name": "Amu TV",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Armenia1.am@America",
+      "name": "Armenia 1 America (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ARTNTV.us@SD",
+      "name": "ARTN TV (1080p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ATL26.us@SD",
+      "name": "ATL 26",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ATXN1.us@SD",
+      "name": "ATXN1 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ATXN2.us@SD",
+      "name": "ATXN2 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ATXN3.us@SD",
+      "name": "ATXN3 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "AuroraTV.us@SD",
+      "name": "AuroraTV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "AvangTV.us@SD",
+      "name": "Avang TV (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AVIRewind.us@SD",
+      "name": "AVI Rewind (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "AWEPlus.us@KPVMLD",
+      "name": "AWE Plus KPVM-LD",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BabyFirst.us@Spanish",
+      "name": "BabyFirst Spanish (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "BabyTV.uk@LatinAmerica",
+      "name": "BabyTV Latin America (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "BATV.us@SD",
+      "name": "BATV (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BATVEducationalChannel.us@SD",
+      "name": "BATV Educational Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BATVGovernmentChannel.us@SD",
+      "name": "BATV Government Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BATVGovernmentTV.us@SD",
+      "name": "BATV Government TV (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BATVPublicChannel.us@SD",
+      "name": "BATV Public Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "beINSPORTSXTRAenEspanol.us@SD",
+      "name": "beIN SPORTS XTRA en Espanol (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "BEKNews.us@SD",
+      "name": "BEK News (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BEKSports.us@West",
+      "name": "BEK Sports West (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BerksCommunityTV.us@SD",
+      "name": "Berks Community TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BestofBATVChannel.us@SD",
+      "name": "Best of BATV Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BHTV10.us@SD",
+      "name": "BHTV10 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BHTV35.us@SD",
+      "name": "BHTV35 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BIGCivicChannel.us@SD",
+      "name": "BIG Civic Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BIGCommunityChannel.us@SD",
+      "name": "BIG Community Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Binge.us@SD",
+      "name": "Binge",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BloombergOriginals.us@SD",
+      "name": "Bloomberg Originals SD (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BMCHDTV.us@SD",
+      "name": "BMC-HD TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BPTV.us@SD",
+      "name": "BPTV (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BPXTVRadio.us@SD",
+      "name": "BPX TV Radio",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "BrevardGovernmentAccessTV.us@SD",
+      "name": "Brevard Government Access TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BUTV10.us@SD",
+      "name": "BUTV10 (1080p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BXArts.us@SD",
+      "name": "BX Arts (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BXCulture.us@SD",
+      "name": "BX Culture (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BXInform.us@SD",
+      "name": "BX Inform (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BXInspire.us@SD",
+      "name": "BX Inspire (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BXOmni.us@SD",
+      "name": "BX Omni (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CafeTradeTV.ir@SD",
+      "name": "Cafe Trade TV",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "CANTV19.us@SD",
+      "name": "CAN TV19 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CANTV21.us@SD",
+      "name": "CAN TV21 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CANTV27.us@SD",
+      "name": "CAN TV27 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CANTV36.us@SD",
+      "name": "CAN TV36 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CanaldelaFe.us@SD",
+      "name": "Canal de la Fe (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "CanelaTV.us@SD",
+      "name": "Canela TV (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "CBNEspanol.us@SD",
+      "name": "CBN Espanol (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "CBS.us@KIROTV",
+      "name": "CBS KIRO-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@KMTVTV",
+      "name": "CBS KMTV-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@KUTV",
+      "name": "CBS KUTV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@KWTVDT",
+      "name": "CBS KWTV-DT (720p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@KZTV",
+      "name": "CBS KZTV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@WCBITV",
+      "name": "CBS WCBI-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@WDEFTV",
+      "name": "CBS WDEF-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@WHIOTV",
+      "name": "CBS WHIO-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@WJAXTV",
+      "name": "CBS WJAX-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@WKRCTV",
+      "name": "CBS WKRC-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@WPEC",
+      "name": "CBS WPEC (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@WTVRTV",
+      "name": "CBS WTVR-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@WWMT",
+      "name": "CBS WWMT (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CCX1.us@SD",
+      "name": "CCX1 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CerritosTV3.us@SD",
+      "name": "Cerritos TV3 (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CFMTVChannel98.us@SD",
+      "name": "CFM TV Channel 98 (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CGTV.us@SD",
+      "name": "CGTV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Channel18GAC.us@SD",
+      "name": "Channel 18 GAC",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ChannelOne.us@SD",
+      "name": "Channel One (United States)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "CineAdrenalina.us@SD",
+      "name": "Cine Adrenalina",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "CineAmor.us@SD",
+      "name": "Cine Amor",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "CinePremiere.us@SD",
+      "name": "Cine Premiere",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "CineTerror.us@US",
+      "name": "Cine Terror",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "CinePride.us@SD",
+      "name": "CinePride (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "CityofFairfieldChannel26.us@SD",
+      "name": "City of Fairfield Channel 26 (720p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CityofFortPierce.us@SD",
+      "name": "City of Fort Pierce (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CityofLovelandTV.us@SD",
+      "name": "City of Loveland TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CityofMonroeGovernmentChannel.us@SD",
+      "name": "City of Monroe Government Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CityofPompanoBeach.us@SD",
+      "name": "City of Pompano Beach (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CityTVCarlsbad.us@SD",
+      "name": "City TV Carlsbad (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CityTVChannel341.us@SD",
+      "name": "City TV Channel 3/41 (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CityTV20SantaMonica.us@SD",
+      "name": "CityTV 20 Santa Monica (360p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CityTVLakewood.us@SD",
+      "name": "CityTV Lakewood (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CityTVSanDiego.us@SD",
+      "name": "CityTV San Diego (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CityTVWhittier.us@SD",
+      "name": "CityTV Whittier (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CMAC1.us@SD",
+      "name": "CMAC 1 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CMAC2.us@SD",
+      "name": "CMAC 2 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CMAC3.us@SD",
+      "name": "CMAC 3 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CMAPChannel17.us@SD",
+      "name": "CMAP Channel 17 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CMAPChannel18.us@SD",
+      "name": "CMAP Channel 18 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CMAPChannel19.us@SD",
+      "name": "CMAP Channel 19 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CMAPChannel20.us@SD",
+      "name": "CMAP Channel 20 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CMTV.us@SD",
+      "name": "CMTV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CollierTV.us@SD",
+      "name": "Collier TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ComedyCentralenEspanol.us@SD",
+      "name": "Comedy Central en Espanol",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ComercioTV.us@SD",
+      "name": "Comercio TV (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Community12TV.us@SD",
+      "name": "Community 12TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CommunityTVChannel189.us@SD",
+      "name": "CommunityTV Channel 189 (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ConcordTV.us@SD",
+      "name": "Concord TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ContraCostaTV.us@SD",
+      "name": "Contra Costa TV [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "COStv.us@SD",
+      "name": "COStv",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Create.us@WMPT",
+      "name": "Create WMPT",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CreaTVChannel15.us@SD",
+      "name": "CreaTV Channel 15 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CreaTVChannel27.us@SD",
+      "name": "CreaTV Channel 27 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CreaTVChannel28.us@SD",
+      "name": "CreaTV Channel 28 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CreaTVChannel30.us@SD",
+      "name": "CreaTV Channel 30 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CruzTV.us@SD",
+      "name": "Cruz TV",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CSIenespanol.us@SD",
+      "name": "CSI en espanol",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "CTV.us@SD",
+      "name": "CTV (United States) (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CVCEducation.us@SD",
+      "name": "CVC Education (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CVCGovernment.us@SD",
+      "name": "CVC Government (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CVCPublic.us@SD",
+      "name": "CVC Public (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CVTVChannel192.us@SD",
+      "name": "CVTV Channel 192 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CVTVChannel194.us@SD",
+      "name": "CVTV Channel 194 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CypressChannel36.us@SD",
+      "name": "Cypress Channel 36 (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "DareToDreamNetwork.us@SD",
+      "name": "Dare To Dream Network",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "DaystarTV.us@WSLFLD",
+      "name": "Daystar TV WSLF-LD (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "DaystarTVEspanol.us@SD",
+      "name": "Daystar TV Espanol (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "DCCouncilHearingRoom120.us@SD",
+      "name": "DC Council Hearing Room 120 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "DCC.us@SD",
+      "name": "DCC (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "DePeliculaUS.us@SD",
+      "name": "De Pelicula US (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "DegaTV.us@SD",
+      "name": "Dega TV (720p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Denver8TV.us@SD",
+      "name": "Denver 8 TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "DerryTV17.us@SD",
+      "name": "DerryTV 17 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "DerryTV23.us@SD",
+      "name": "DerryTV 23 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "DetroitChannel10.us@SD",
+      "name": "Detroit Channel 10",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "DetroitChannel21.us@SD",
+      "name": "Detroit Channel 21",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "DetroitChannel22.us@SD",
+      "name": "Detroit Channel 22",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "DetroitChannel68.us@SD",
+      "name": "Detroit Channel 68",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "DidgahTV.us@SD",
+      "name": "Didgah TV (576p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "DKN.us@SD",
+      "name": "DKN (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "EBSCinema.us@SD",
+      "name": "EBS Cinema (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "EBSMusika.us@SD",
+      "name": "EBS Musika (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ElSembradorNuevaEvangelizacionESNE.us@SD",
+      "name": "El Sembrador Nueva Evangelizacion ESNE",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ElbesharaGTV.us@SD",
+      "name": "Elbeshara GTV (1080p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ESNETV.us@SD",
+      "name": "ESNE TV (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ESPNDeportes.us@HD",
+      "name": "ESPN Deportes HD (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "EstrellaGames.us@SD",
+      "name": "Estrella Games (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "EstrellaNews.us@SD",
+      "name": "Estrella News (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "EstrellaTV.us@SD",
+      "name": "Estrella TV (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "EstrellaTV.us@WMBCTV",
+      "name": "Estrella TV WMBC-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "EWTN.us@Spanish",
+      "name": "EWTN (United States) Spanish (720p) [Geo-blocked]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "FashionFinds.us@SD",
+      "name": "Fashion Finds (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "FCPublicMedia.us@SD",
+      "name": "FC Public Media (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "FCTV.us@SD",
+      "name": "FCTV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "FernandinaBeachChannel.us@SD",
+      "name": "Fernandina Beach Channel (720p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "FGTV.us@SD",
+      "name": "FGTV (United States)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "FierroaFondoTV.us@SD",
+      "name": "Fierro a Fondo TV (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "FNX.us@KVCRDT",
+      "name": "FNX KVCR-DT [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ForensicFiles.us@SD",
+      "name": "Forensic Files",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Fox.us@East",
+      "name": "Fox (United States) (720p)",
+      "reason": "affiliate location outside selection or unspecified"
+    },
+    {
+      "id": "Fox.us@KBSI",
+      "name": "Fox (United States) KBSI (720p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@KCPQ",
+      "name": "Fox (United States) KCPQ (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@KDFW",
+      "name": "Fox (United States) KDFW (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@KMPHTV",
+      "name": "Fox (United States) KMPH-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@KOKHTV",
+      "name": "Fox (United States) KOKH-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@KRIV",
+      "name": "Fox (United States) KRIV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@KSAZTV",
+      "name": "Fox (United States) KSAZ-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@KTBC",
+      "name": "Fox (United States) KTBC (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@KTTV",
+      "name": "Fox (United States) KTTV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WBFF",
+      "name": "Fox (United States) WBFF (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@West",
+      "name": "Fox (United States) West (720p)",
+      "reason": "affiliate location outside selection or unspecified"
+    },
+    {
+      "id": "Fox.us@WFTXTV",
+      "name": "Fox (United States) WFTX-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WFXT",
+      "name": "Fox (United States) WFXT (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WHBQTV",
+      "name": "Fox (United States) WHBQ-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WITI",
+      "name": "Fox (United States) WITI (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WJBK",
+      "name": "Fox (United States) WJBK (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WNYW",
+      "name": "Fox (United States) WNYW (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WSVN",
+      "name": "Fox (United States) WSVN (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WTTG",
+      "name": "Fox (United States) WTTG (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WTVT",
+      "name": "Fox (United States) WTVT (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WTXFTV",
+      "name": "Fox (United States) WTXF-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WXXVTV",
+      "name": "Fox (United States) WXXV-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "G10TV.us@SD",
+      "name": "G10TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Galavision.us@EastHD",
+      "name": "Galavision East HD (1080p) [Geo-blocked]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Galavision.us@West",
+      "name": "Galavision West (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Galavision.us@WestHD",
+      "name": "Galavision West HD (1080p) [Geo-blocked]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "GalvestonCountyTV.us@SD",
+      "name": "Galveston County TV (720p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "GanjeHozourTV.us@SD",
+      "name": "Ganj e Hozour TV (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "GCOtv.us@SD",
+      "name": "GCO.tv (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "GEBNetwork.us@KBPXLD",
+      "name": "GEB Network KBPX-LD (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "GillettePublicAccessTelevisionChannel189.us@SD",
+      "name": "Gillette Public Access Television Channel 189",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "GillettePublicAccessTelevisionChannel190.us@SD",
+      "name": "Gillette Public Access Television Channel 190",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "GillettePublicAccessTelevisionChannel192.us@SD",
+      "name": "Gillette Public Access Television Channel 192",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Glendale11AZ.us@SD",
+      "name": "Glendale 11 AZ (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "GlendaleTV.us@SD",
+      "name": "Glendale TV (720p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "GlobalBuddhistNetwork.us@SD",
+      "name": "Global Buddhist Network (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "GodsLearningChannel.us@KPCBDT",
+      "name": "God's Learning Channel KPCB-DT (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "GovernmentTV16.us@SD",
+      "name": "Government TV 16 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "GuangdongTVAmerica.us@SD",
+      "name": "Guangdong TV America",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "GunAzTV.us@SD",
+      "name": "GunAz TV",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "HarmonyGospelMusicTV.us@SD",
+      "name": "Harmony Gospel Music TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "HarPalGeo.pk@SD",
+      "name": "HarPal Geo (360p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "HBTV.us@SD",
+      "name": "HBTV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "HCTVEducationalAccessChannel.us@SD",
+      "name": "HCTV Educational Access Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "HCTVGovernmentChannel.us@SD",
+      "name": "HCTV Government Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "HCTVPublicAccessChannel.us@SD",
+      "name": "HCTV Public Access Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "HighVisionTV.us@SD",
+      "name": "High Vision TV (1080p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "HillsboroughTV.us@SD",
+      "name": "Hillsborough TV (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "HKTV.us@SD",
+      "name": "HKTV (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "HMIPROMZNEWS.us@SD",
+      "name": "HMI PROMZ NEWS (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "HmongStarTV.us@SD",
+      "name": "Hmong Star TV (720p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "HmongTVNetwork.us@SD",
+      "name": "Hmong TV Network (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "HopeChannelInterAmerica.us@SD",
+      "name": "Hope Channel Inter-America",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "iHolyfieldTV.us@WHPSCD",
+      "name": "iHolyfield TV WHPS-CD",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ImanTV.us@SD",
+      "name": "Iman TV (480p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "IntheKitchen.us@SD",
+      "name": "In the Kitchen (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "InstantSaga.us@US",
+      "name": "Instant Saga",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "IraneFardaTV.uk@SD",
+      "name": "IraneFarda TV",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "JusHindi.us@SD",
+      "name": "Jus Hindi (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "JusOne.us@SD",
+      "name": "Jus One (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "JusPunjabi.us@SD",
+      "name": "Jus Punjabi (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "KajouTV.us@SD",
+      "name": "Kajou TV (720p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "KBEV.us@SD",
+      "name": "KBEV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KBRI8.us@SD",
+      "name": "KBRI-8 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KBSV231.us@SD",
+      "name": "KBSV 23.1 (720p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KCAT.us@SD",
+      "name": "KCAT (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KentuckyEducationalTelevision.us@WKMJTV",
+      "name": "Kentucky Educational Television WKMJ-TV (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KentuckyEducationalTelevision.us@WKPCTV",
+      "name": "Kentucky Educational Television WKPC-TV (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KernCountyTV.us@SD",
+      "name": "Kern County TV",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KetchupTV.us@SD",
+      "name": "Ketchup TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KFONTV.us@SD",
+      "name": "KFON TV (720p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KidOO.us@SD",
+      "name": "KidOO (1080p) [Geo-blocked]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "KIIOLD101.us@HD",
+      "name": "KIIO-LD 10.1",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KIIOLD104.us@SD",
+      "name": "KIIO-LD 10.4 (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KMCTTV391.us@HD",
+      "name": "KMCT-TV 39.1",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KNino.us@SD",
+      "name": "KNino (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "KNOVCD411.us@HD",
+      "name": "KNOV-CD 41.1 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KNXVTV611.us@HD",
+      "name": "KNXV-TV 61.1 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KOCTChannel18.us@SD",
+      "name": "KOCT Channel 18 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KOCTChannel19.us@SD",
+      "name": "KOCT Channel 19 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KPVMLD251.us@HD",
+      "name": "KPVM-LD 25.1",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KRGVTV52.us@HD",
+      "name": "KRGV-TV 5.2 [Geo-blocked]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "KSCE381.us@HD",
+      "name": "KSCE 38.1 (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KSCE383.us@HD",
+      "name": "KSCE 38.3 (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KTOO360TV.us@KTOOTV",
+      "name": "KTOO 360TV KTOO-TV",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "KVTNDT251.us@HD",
+      "name": "KVTN-DT 25.1 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "LA36.us@SD",
+      "name": "LA36 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "LACityView35.us@SD",
+      "name": "LA CityView 35 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "LaQueBuenaAtlanta.us@SD",
+      "name": "La Que Buena Atlanta",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "LakeHavasuCity4.us@SD",
+      "name": "Lake Havasu City 4",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "LakeFrontTV.us@SD",
+      "name": "LakeFront TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "LakewoodChannel8.us@SD",
+      "name": "Lakewood Channel 8 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "LBCInternational.lb@SD",
+      "name": "LBC International (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "LeominsterTVEducational.us@SD",
+      "name": "Leominster TV Educational (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "LeominsterTVGovernment.us@SD",
+      "name": "Leominster TV Government (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "LeominsterTVPublic.us@SD",
+      "name": "Leominster TV Public (720p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "LexTV.us@SD",
+      "name": "Lex TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "LGTV.us@SD",
+      "name": "LGTV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "LifevisionTV.us@SD",
+      "name": "LifevisionTV (406p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Littleton8TV.us@SD",
+      "name": "Littleton 8 TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "LLBNTVArabic.us@SD",
+      "name": "LLBN TV Arabic (480p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "LLBNTVChinese.us@SD",
+      "name": "LLBN TV Chinese (480p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "LLBNTVKorean.us@SD",
+      "name": "LLBN TV Korean (480p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "LLBNTVLatino.us@SD",
+      "name": "LLBN TV Latino (480p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "LLBNTVRomanian.us@SD",
+      "name": "LLBN TV Romanian (480p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "LLBNTVSouthAsia.us@SD",
+      "name": "LLBN TV South Asia (480p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "LogosTV.es@SD",
+      "name": "Logos TV (Spain) (1080p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "LogosTV.us@SD",
+      "name": "Logos TV (United States) (1080p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "LogosTVEstudio.es@SD",
+      "name": "Logos TV Estudio (720p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "LogosTVKids.es@SD",
+      "name": "Logos TV Kids (720p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "LogosTVSalud.es@SD",
+      "name": "Logos TV Salud (720p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "LoneStar.us@SD",
+      "name": "Lone Star (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MajestadTV.us@SD",
+      "name": "Majestad TV (480p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "MartinCountyTV.us@SD",
+      "name": "Martin County TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Maxcine2.us@HD",
+      "name": "Maxcine 2 (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Maxcine.us@HD",
+      "name": "Maxcine (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "MaxcineComedy.us@HD",
+      "name": "Maxcine Comedy (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "MaxcineFamily.us@HD",
+      "name": "Maxcine Family (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "MaxcineKids.us@HD",
+      "name": "Maxcine Kids (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "MBCDramaUSA.us@SD",
+      "name": "MBC Drama USA (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "MBCMasrUSA.us@SD",
+      "name": "MBC Masr USA (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "MBTV.us@SD",
+      "name": "MBTV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MCN6ArtsChannel.us@SD",
+      "name": "MCN6 Arts Channel (1080p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MCN6MainChannel.us@SD",
+      "name": "MCN6 Main Channel (1080p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MCN6MusicChannel.us@SD",
+      "name": "MCN6 Music Channel (1080p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MCPSSTV.us@SD",
+      "name": "MCPSS TV",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MediasetItalia.it@USA",
+      "name": "Mediaset Italia USA (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "MegaTV.us@WSBSTV",
+      "name": "Mega TV (United States) WSBS-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MetaleitorTV.us@SD",
+      "name": "Metaleitor TV",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "MidpenMediaCenterChannel26.us@SD",
+      "name": "Midpen Media Center Channel 26 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MidpenMediaCenterChannel28.us@SD",
+      "name": "Midpen Media Center Channel 28 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MidpenMediaCenterChannel29.us@SD",
+      "name": "Midpen Media Center Channel 29 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MidpenMediaCenterChannel30.us@SD",
+      "name": "Midpen Media Center Channel 30 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MidpenMediaCenterChannel75.us@SD",
+      "name": "Midpen Media Center Channel 75 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MinisterioLaVozDeUnRemanenteTV.us@SD",
+      "name": "Ministerio La Voz De Un Remanente TV",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Misteriossinresolver.us@SD",
+      "name": "Misterios sin resolver",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "MNT.us@WCIV",
+      "name": "MNT WCIV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MNT.us@WFLD",
+      "name": "MNT WFLD (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MNT.us@WWORTV",
+      "name": "MNT WWOR-TV",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MohabatTV.us@SD",
+      "name": "Mohabat TV (United States) (540p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "MonroeCommunityMediaEducationChannel.us@SD",
+      "name": "Monroe Community Media Education Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MonroeCommunityMediaPublicAccessChannel.us@SD",
+      "name": "Monroe Community Media Public Access Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MonroeCountyTV.us@SD",
+      "name": "Monroe County TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MontgomeryChannel.us@SD",
+      "name": "Montgomery Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Movies.us@KPVMLD",
+      "name": "Movies! KPVM-LD",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MovieSphereGold.us@WFXT",
+      "name": "MovieSphere Gold WFXT (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MRVTVChannel44.us@SD",
+      "name": "MRVTV Channel 44 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MRVTVChannel45.us@SD",
+      "name": "MRVTV Channel 45 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MSTV.us@SD",
+      "name": "MSTV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "MTC.us@SD",
+      "name": "MTC",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Narutoenespanol.us@SD",
+      "name": "Naruto en espanol",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "NashuaETV.us@SD",
+      "name": "Nashua ETV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NATTV.us@SD",
+      "name": "NAT TV (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "NatickEducationChannel.us@SD",
+      "name": "Natick Education Channel (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NatickGovernmentChannel.us@SD",
+      "name": "Natick Government Channel (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NatickPublicAccessChannel.us@SD",
+      "name": "Natick Public Access Channel (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@East",
+      "name": "NBC (1080p)",
+      "reason": "affiliate location outside selection or unspecified"
+    },
+    {
+      "id": "NBC.us@KNTV",
+      "name": "NBC KNTV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@KRISTV",
+      "name": "NBC KRIS-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@KSBW",
+      "name": "NBC KSBW (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@KSBY",
+      "name": "NBC KSBY (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@KSNV",
+      "name": "NBC KSNV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@KXASTV",
+      "name": "NBC KXAS-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WBALTV",
+      "name": "NBC WBAL-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WBTSCD",
+      "name": "NBC WBTS-CD (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@West",
+      "name": "NBC West (720p)",
+      "reason": "affiliate location outside selection or unspecified"
+    },
+    {
+      "id": "NBC.us@WGAL",
+      "name": "NBC WGAL (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WGBATV",
+      "name": "NBC WGBA-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WHECTV",
+      "name": "NBC WHEC-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WJACTV",
+      "name": "NBC WJAC-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WJAR",
+      "name": "NBC WJAR (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WLIO",
+      "name": "NBC WLIO (720p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WMAQTV",
+      "name": "NBC WMAQ-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WMGTTV",
+      "name": "NBC WMGT-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WNYT",
+      "name": "NBC WNYT (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WOAITV",
+      "name": "NBC WOAI-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WPTVTV",
+      "name": "NBC WPTV-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WPXI",
+      "name": "NBC WPXI (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WRDELD",
+      "name": "NBC WRDE-LD (720p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WTLV",
+      "name": "NBC WTLV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WTMJTV",
+      "name": "NBC WTMJ-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WTOVTV",
+      "name": "NBC WTOV-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WTVJ",
+      "name": "NBC WTVJ (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@WVIT",
+      "name": "NBC WVIT (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NCMEducationalKidsChannel.us@SD",
+      "name": "NCM Educational & Kids Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NCMGovernmentPoliticsChannel.us@SD",
+      "name": "NCM Government & Politics Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NCMMainChannel.us@SD",
+      "name": "NCM Main Channel",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NCTV79.us@SD",
+      "name": "NCTV79 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "News12PlusConnecticut.us@HD",
+      "name": "News12+ Connecticut (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "News12PlusHudsonValley.us@HD",
+      "name": "News12+ Hudson Valley (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "News12PlusLongIsland.us@HD",
+      "name": "News12+ Long Island (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "News12PlusNewJersey.us@HD",
+      "name": "News12+ New Jersey (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "News12PlusNewYork.us@HD",
+      "name": "News12+ New York (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NewsoftheWorld.us@Arabic",
+      "name": "News of the World Arabic (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "NewsoftheWorld.us@Spanish",
+      "name": "News of the World Spanish (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Newsmax2.us@KPVMLD",
+      "name": "Newsmax 2 KPVM-LD",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NewsmaxSpanish.us@SD",
+      "name": "Newsmax Spanish (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "NMBTV.us@SD",
+      "name": "NMBTV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Novelisima.us@SD",
+      "name": "Novelisima (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "OANPlus.us@KPVMLD",
+      "name": "OAN Plus KPVM-LD",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "OnePiece.us@US",
+      "name": "One Piece",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "OntarioPublicAccessChannel.us@SD",
+      "name": "Ontario Public Access Channel (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "OrangeGovernmentAccessTV.us@SD",
+      "name": "Orange Government Access TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Outlaw.us@WGGSTV",
+      "name": "Outlaw WGGS-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ParsTV.us@SD",
+      "name": "Pars TV",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PascoTV.us@SD",
+      "name": "Pasco TV (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PayamJavanTV.us@SD",
+      "name": "Payam Javan TV (720p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PayameAfghanTV.us@SD",
+      "name": "Payam-e-Afghan TV (480p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PayameArameshTV.us@SD",
+      "name": "Payame Aramesh TV (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PBCTapeshTV.us@SD",
+      "name": "PBC Tapesh TV (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PBCTVChannel20.us@SD",
+      "name": "PBC TV Channel 20 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PBS.us@East",
+      "name": "PBS (1080p) [Geo-blocked]",
+      "reason": "affiliate location outside selection or unspecified"
+    },
+    {
+      "id": "PBS.us@KETS",
+      "name": "PBS KETS [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PBS.us@KHET",
+      "name": "PBS KHET (1080p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PBS.us@KMOSTV",
+      "name": "PBS KMOS-TV (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PBS.us@KQED",
+      "name": "PBS KQED (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PBS.us@KUONTV",
+      "name": "PBS KUON-TV (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PBS.us@KVIE",
+      "name": "PBS KVIE (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PBS.us@WEDQ",
+      "name": "PBS WEDQ (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PBS.us@WJXT",
+      "name": "PBS WJXT (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PBS.us@WNJT",
+      "name": "PBS WNJT (1080p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PBSKidsAlaska.us@SD",
+      "name": "PBS Kids Alaska (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PBSKidsHawaii.us@SD",
+      "name": "PBS Kids Hawaii (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PCTChannel26.us@SD",
+      "name": "PCT Channel 26 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PCTChannel27.us@SD",
+      "name": "PCT Channel 27 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PCTV26.us@SD",
+      "name": "PCTV 26 (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PCTV28.us@SD",
+      "name": "PCTV 28 (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PhillyCAM.us@SD",
+      "name": "PhillyCAM (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PHLgovTV.us@SD",
+      "name": "PHLgovTV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PHXTV.us@SD",
+      "name": "PHXTV",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PlutoTVCineComedia.us@US",
+      "name": "Pluto TV Cine Comedia (United States)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PlutoTVDogelcazarrecompensas.us@SD",
+      "name": "Pluto TV Dog el cazarrecompensas",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PlutoTVElReinoInfantil.us@SD",
+      "name": "Pluto TV El Reino Infantil",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PlutoTVEstrellasdeAccion.us@SD",
+      "name": "Pluto TV Estrellas de Accion",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PlutoTVLosnuevosdetectives.us@SD",
+      "name": "Pluto TV Los nuevos detectives",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PlutoTVMinutoParaGanar.us@SD",
+      "name": "Pluto TV Minuto Para Ganar",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PlutoTVMisteriosMedicos.us@SD",
+      "name": "Pluto TV Misterios Medicos",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PlutoTVNovelas.us@US",
+      "name": "Pluto TV Novelas",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PlutoTVSciFi.us@US",
+      "name": "Pluto TV Sci-Fi (United States)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PomonaInternetStreamingChannel.us@SD",
+      "name": "Pomona Internet Streaming Channel (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PottaDivineTVUSA.us@SD",
+      "name": "Potta-Divine TV USA (480p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "PSDTV.us@SD",
+      "name": "PSD TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "PSLTV.us@SD",
+      "name": "PSL TV (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "RadioTeleKajou.us@SD",
+      "name": "Radio Tele Kajou (480p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "RadioTeleSentinel.us@SD",
+      "name": "Radio Tele Sentinel",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "RadioTeleWisdom.us@SD",
+      "name": "Radio Tele Wisdom (360p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "RadioyTelevisionMarti.us@SD",
+      "name": "Radio y Television Marti (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "RadioMensajeTV.us@SD",
+      "name": "RadioMensaje TV (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "RaiWorldPremium.it@SD",
+      "name": "Rai World Premium (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "RCTV3.us@SD",
+      "name": "RCTV3 (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "RCTV.us@SD",
+      "name": "RCTV (United States) (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "RealAmericasVoice.us@KPVMLD",
+      "name": "Real America's Voice KPVM-LD",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "RedADvenirTV.bo@KSCE",
+      "name": "RedADvenir TV KSCE (360p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Roar.us@KCWX",
+      "name": "Roar KCWX (720p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Roar.us@KOKITV",
+      "name": "Roar KOKI-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Roar.us@WKEF",
+      "name": "Roar WKEF (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Roar.us@WSBTTV",
+      "name": "Roar WSBT-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "RockyHillChannel16.us@SD",
+      "name": "Rocky Hill Channel 16 (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "RTenEspanol.ru@SD",
+      "name": "RT en Espanol (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "RTHTV1.us@SD",
+      "name": "RTH-TV1 (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "RTN.us@SD",
+      "name": "RTN (United States)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "RTViUS.us@SD",
+      "name": "RTVi US (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "RuntimeEspanol.us@SD",
+      "name": "Runtime Espanol (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "RVTVCivic.us@SD",
+      "name": "RVTV Civic (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "RVTVGrantsPass.us@SD",
+      "name": "RVTV Grants Pass (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "RVTVPrime.us@SD",
+      "name": "RVTV Prime (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "RVTVVoices.us@SD",
+      "name": "RVTV Voices (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "SanskarUSA.in@SD",
+      "name": "Sanskar USA (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "SCCurrents.us@SD",
+      "name": "SC Currents",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ScientologyNetwork.us@KSCNTV",
+      "name": "Scientology Network KSCN-TV",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ScientologyNetwork.us@WFTTTV",
+      "name": "Scientology Network WFTT-TV",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ScottsdaleChannel11.us@SD",
+      "name": "Scottsdale Channel 11",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "SCVTV.us@SD",
+      "name": "SCVTV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "SemillitasTV.us@SD",
+      "name": "Semillitas TV (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "SFCommons29.us@SD",
+      "name": "SF Commons 29 (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "SFCommons76.us@SD",
+      "name": "SF Commons 76 (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "SFGovTV2.us@SD",
+      "name": "SFGovTV2 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "SFGovTV.us@SD",
+      "name": "SFGovTV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "SGTV.us@SD",
+      "name": "SGTV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Shabakeh7.us@SD",
+      "name": "Shabakeh 7",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ShalomAmerica.us@SD",
+      "name": "Shalom America (720p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "SLOCountyChannel21.us@SD",
+      "name": "SLO County Channel 21 (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "SMCTVChannel23.us@SD",
+      "name": "SMCTV Channel 23 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "SMCTVChannel24.us@SD",
+      "name": "SMCTV Channel 24 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "SMCTVChannel25.us@SD",
+      "name": "SMCTV Channel 25 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "SonyCanalNovelas.us@SD",
+      "name": "Sony Canal Novelas",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "SonyKALHindi.us@SD",
+      "name": "Sony KAL Hindi (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "SoundViewCommunityMedia.us@SD",
+      "name": "Sound View Community Media (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "SPTV.us@SD",
+      "name": "SPTV (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "StLuciePublicSchools.us@SD",
+      "name": "St Lucie Public Schools",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "StarChannelInternational.gr@HD",
+      "name": "Star Channel International (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "StocktonGovTV.us@SD",
+      "name": "Stockton Gov TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "StoryTelevision.us@KPVMLD",
+      "name": "Story Television KPVM-LD",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "StoryTelevision.us@WCIUTV",
+      "name": "Story Television WCIU-TV",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "SUMtvLatino.us@SD",
+      "name": "SUMtv Latino (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TAPTVChannel23.us@SD",
+      "name": "TAP TV Channel 23 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TAPTVChannel24.us@SD",
+      "name": "TAP TV Channel 24 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TAPTVChannel25.us@SD",
+      "name": "TAP TV Channel 25 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Tapesh2.us@SD",
+      "name": "Tapesh 2",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TBCN.us@SD",
+      "name": "TBCN (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TeleBoston.us@SD",
+      "name": "Tele Boston (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TeleMIX.us@SD",
+      "name": "TeleMIX (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Telemundo.us@KNSD",
+      "name": "Telemundo KNSD (1080p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Telemundo.us@WCAU",
+      "name": "Telemundo WCAU (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Telemundo.us@WTMOCD",
+      "name": "Telemundo WTMO-CD (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TelemundoAlDia.us@HD",
+      "name": "Telemundo Al Dia (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TelemundoCorpusChristi.us@SD",
+      "name": "Telemundo Corpus Christi (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TeleXitos.us@SD",
+      "name": "TeleXitos (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TemeculaTV.us@SD",
+      "name": "Temecula TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Tempe11.us@SD",
+      "name": "Tempe 11",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TeveVidaNetwork.us@SD",
+      "name": "Teve Vida Network (480p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TheBurbankChannel.us@SD",
+      "name": "The Burbank Channel (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TheCityofMarina.us@SD",
+      "name": "The City of Marina (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TheLoop.us@SD",
+      "name": "The Loop (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TheMontereyChannel.us@SD",
+      "name": "The Monterey Channel (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ThePeninsulaChannel.us@SD",
+      "name": "The Peninsula Channel (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ThePointTelevsionNetwork.us@SD",
+      "name": "The Point Televsion Network (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TheWalkingDeadenEspanol.us@SD",
+      "name": "The Walking Dead en Espanol (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Thornton8.us@SD",
+      "name": "Thornton 8 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TinTV.us@SD",
+      "name": "Tin TV (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TLN.ca@KQSL",
+      "name": "TLN KQSL (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TNTInternational.ru@SD",
+      "name": "TNT International SD (480p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TrueCrimeNetwork.us@WCVBTV",
+      "name": "True Crime Network WCVB-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TUDN.us@SD",
+      "name": "TUDN (United States) (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TUTV.us@SD",
+      "name": "TUTV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TV4.us@SD",
+      "name": "TV4 (United States) (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TVDaja.do@SD",
+      "name": "TV Daja (1080p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TVHispanic.us@SD",
+      "name": "TV Hispanic [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TVQuisqueya.us@SD",
+      "name": "TV Quisqueya (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TVEInternacionalAmerica.es@SD",
+      "name": "TVE Internacional America (576p) [Geo-blocked]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TVEInternacionalAmerica.es@HD",
+      "name": "TVE Internacional America HD (1080p) [Geo-blocked]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "TVSAGovernmentChannel.us@SD",
+      "name": "TVSA Government Channel (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TVSAPublicChannel.us@SD",
+      "name": "TVSA Public Channel (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TyCSportsUSA.ar@SD",
+      "name": "TyC Sports USA",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "UniMas.us@KFTRDT",
+      "name": "UniMas KFTR-DT [Geo-blocked]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "UniMas.us@KUVNDT",
+      "name": "UniMas KUVN-DT",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "UniMas.us@Mountain",
+      "name": "UniMas Mountain (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "UniMas.us@WAMIDT",
+      "name": "UniMas WAMI-DT (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "UniMas.us@WFUTDT",
+      "name": "UniMas WFUT-DT (720p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "UniMas.us@WXTVDT",
+      "name": "UniMas WXTV-DT",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Univision.us@KMEXDT",
+      "name": "Univision KMEX-DT [Geo-blocked]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "Univision.us@WGBODT",
+      "name": "Univision WGBO-DT (2160p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Univision.us@WLTVDT",
+      "name": "Univision WLTV-DT (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "UnivisionTlnovelas.us@SD",
+      "name": "Univision Tlnovelas (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "VallenatoInternacional.us@SD",
+      "name": "Vallenato Internacional (720p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "VBSTV.us@SD",
+      "name": "VBS TV (480p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "VCAT.us@SD",
+      "name": "VCAT (480p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "VelayatTVNetwork.us@SD",
+      "name": "Velayat TV Network (480p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "VenevisionInternacional.ve@SD",
+      "name": "Venevision Internacional (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "VidaMejorTV.us@SD",
+      "name": "Vida Mejor TV (480p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "VisionLatinaNetwork.us@SD",
+      "name": "Vision Latina Network (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "VoATVPersian.us@SD",
+      "name": "VoA TV Persian (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "VSCTV.us@SD",
+      "name": "VSCTV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "W14DKD141.us@HD",
+      "name": "W14DK-D 14.1",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "W14DKD142.us@SD",
+      "name": "W14DK-D 14.2",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WACX551.us@SD",
+      "name": "WACX 55.1 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WATCDT571.us@HD",
+      "name": "WATC-DT 57.1 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WATCDT572.us@HD",
+      "name": "WATC-DT 57.2 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WBTV641.us@HD",
+      "name": "WBTV 64.1 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WCETVDigitalChannel318.us@SD",
+      "name": "WCETV Digital Channel 31.8",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "WCOT.us@SD",
+      "name": "WCOT (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WeHoTV.us@SD",
+      "name": "WeHoTV (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WGGSTV161.us@HD",
+      "name": "WGGS-TV 16.1",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WHOHTV.us@SD",
+      "name": "WHOH-TV (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WITN22.us@SD",
+      "name": "WITN22 (1080p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WLMB.us@SD",
+      "name": "WLMB (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WorldChannel.us@WGTV",
+      "name": "World Channel WGTV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WPLG101.us@HD",
+      "name": "WPLG 10.1 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WPSTV.us@SD",
+      "name": "WPS-TV (360p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WVVHCD181.us@HD",
+      "name": "WVVH-CD 18.1 (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "WWONTVChannel48.us@SD",
+      "name": "WWON-TV Channel 48",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "XITENuevoLatino.us@SD",
+      "name": "XITE Nuevo Latino (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "XITESiempreLatino.us@SD",
+      "name": "XITE Siempre Latino (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "YouDotGov.us@SD",
+      "name": "YouDotGov",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "YoutooAmerica.us@KVVBLD",
+      "name": "Youtoo America KVVB-LD (1080p) [Not 24/7]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Yuma77.us@SD",
+      "name": "Yuma77",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "YumaChannel72.us@SD",
+      "name": "Yuma Channel 72 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "YumaChannel73.us@SD",
+      "name": "Yuma Channel 73 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ZarinTV.us@SD",
+      "name": "Zarin TV (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ZoomNews.us@SD",
+      "name": "Zoom News (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "ZTV.us@SD",
+      "name": "ZTV (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    }
+  ]
+}
