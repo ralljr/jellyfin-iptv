@@ -28,8 +28,12 @@ def main():
         key = match.group(1) if match else ''
         name = header.rsplit(',', 1)[-1]
         feed = lookup.get(key)
+        groups = re.search(r'group-title="([^"]*)"', header)
+        religious = groups and 'religious' in groups.group(1).lower().split(';')
         reason = None
-        if not feed:
+        if religious:
+            reason = 'religious channel'
+        elif not feed:
             reason = 'unknown language/location metadata'
         elif 'eng' not in feed.get('languages', []) and key not in subtitle_exceptions:
             reason = 'non-English; English subtitles unverified'
