@@ -1,10 +1,10 @@
 {
   "matched_playlist_ids": 174,
-  "programmes": 3021,
-  "placeholder_programmes": 35961,
+  "programmes": 2824,
+  "placeholder_programmes": 36137,
   "placeholder_channels": 802,
   "total_guide_channels": 802,
-  "placeholder_through_utc": "2026-10-10T20:00:00+00:00",
+  "placeholder_through_utc": "2026-10-10T21:00:00+00:00",
   "schedule_through_utc": "2026-10-09T16:30:00+00:00",
   "source": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml"
 }
