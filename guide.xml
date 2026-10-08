@@ -2328,20 +2328,6 @@
     <category>Reality</category>
     <category>Human Interest</category>
   </programme>
-  <programme channel="PlutoTVAnime.us@US" start="20261008180024 +0000" stop="20261008183024 +0000">
-    <title>HUNTERxHUNTER</title>
-    <episode-num system="onscreen">S02E53</episode-num>
-    <episode-num system="pluto">5a96f974d0761bf6d3ba8e09</episode-num>
-    <episode-num system="original-air-date">20121028070000 +0000</episode-num>
-    <desc>Kurapika heads to the auction site to confirm the death of the Phantom Troupe's leader for himself.</desc>
-    <icon src="https://images.pluto.tv/series/5a96f901d0761bf6d3ba8562/tile_1775759401135.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20121028</date>
-    <series-id system="pluto">5a96f901d0761bf6d3ba8562</series-id>
-    <sub-title>Fake x And x Psyche</sub-title>
-    <category>Series</category>
-    <category>Anime Action &amp; Adventure</category>
-    <category>Anime</category>
-  </programme>
   <programme channel="PlutoTVAnime.us@US" start="20261008183024 +0000" stop="20261008190024 +0000">
     <title>HUNTERxHUNTER</title>
     <episode-num system="onscreen">S02E54</episode-num>
@@ -3139,16 +3125,6 @@
     <sub-title>Derrick Todd Lee - the Baton Rouge Serial Killer</sub-title>
     <category>Series</category>
     <category>Documentary</category>
-  </programme>
-  <programme channel="LiveMusic.us@SD" start="20261008170057 +0000" stop="20261008183057 +0000">
-    <title>The Art of McCartney</title>
-    <episode-num system="original-air-date">20141001000000 +0000</episode-num>
-    <desc>This documentary explores the making of a remarkable album: The Art of McCartney, features the finest artist of today paying their respect to the greatest.</desc>
-    <icon src="https://images.pluto.tv/episodes/58ab8b6cad4ae02d1ac50fbc/poster_1750082762144.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20141001</date>
-    <series-id system="pluto">58ab8b6cad4ae02d1ac50f33</series-id>
-    <category>Documentary</category>
-    <category>Movie</category>
   </programme>
   <programme channel="LiveMusic.us@SD" start="20261008183057 +0000" stop="20261008200057 +0000">
     <title>Michael Jackson: Life, Death, and Legacy</title>
@@ -13781,18 +13757,6 @@
     <category>Western</category>
     <category>Drama</category>
   </programme>
-  <programme channel="AmericasTestKitchen.us@SD" start="20261008180234 +0000" stop="20261008183130 +0000">
-    <title>America's Test Kitchen</title>
-    <live />
-    <episode-num system="original-air-date">20261008180234 +0000</episode-num>
-    <desc>Chinese-Style Barbecued Pork, Mapo Tofu; review of wire racks and rimmed baking sheets</desc>
-    <icon src="https://images.pluto.tv/series/6a94f08fff94431f8b9d8218/tile_1788145808555.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">6a94f08fff94431f8b9d8218</series-id>
-    <sub-title>Chinese Classics</sub-title>
-    <category>Series</category>
-    <category>Food &amp; Cooking</category>
-  </programme>
   <programme channel="AmericasTestKitchen.us@SD" start="20261008183130 +0000" stop="20261008190049 +0000">
     <title>America's Test Kitchen</title>
     <live />
@@ -15724,19 +15688,6 @@
     <category>Series</category>
     <category>Classic Sci-Fi &amp; Fantasy</category>
     <category>Science fiction</category>
-  </programme>
-  <programme channel="ClassicTVComedy.us@SD" start="20261008180048 +0000" stop="20261008183048 +0000">
-    <title>The Dick Van Dyke Show</title>
-    <episode-num system="onscreen">S02E05</episode-num>
-    <episode-num system="pluto">61bbbd3604ff25001a43c171</episode-num>
-    <episode-num system="original-air-date">19621024000000 +0000</episode-num>
-    <desc>Rob doesn't know what he's in for when he invites Buddy's charming, pool hustling brother over for a friendly game of billiards.</desc>
-    <icon src="https://images.pluto.tv/series/61ba35904b12ef001494687b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19621024</date>
-    <series-id system="pluto">61ba35904b12ef001494687b</series-id>
-    <sub-title>Hustling the Hustler</sub-title>
-    <category>Series</category>
-    <category>Comedy</category>
   </programme>
   <programme channel="ClassicTVComedy.us@SD" start="20261008183048 +0000" stop="20261008190048 +0000">
     <title>The Dick Van Dyke Show</title>
