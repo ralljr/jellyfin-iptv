@@ -9,10 +9,15 @@ match the playlist's existing tvg-id values. No channel playback is required.
 Source: https://github.com/matthuisman/i.mjh.nz/tree/master/PlutoTV
 
 guide-report.json records coverage and the last scheduled programme time.
-Channels outside this source (including local affiliates) remain in the playlist
-but do not yet have programme listings. Short or stale guide downloads fail the
+Channels outside this source (including local affiliates) receive placeholders
+rather than real programme listings. Short or stale guide downloads fail the
 update before publishing, preserving the previous published files.
 
 Every curated channel receives clearly labeled "Live programming" placeholders
 in hourly blocks wherever real schedules are absent, covering the next 48 hours.
 These blocks never overlap real programmes and make no claims about show titles.
+
+The WSL user crontab runs run-refresh.sh at minute 23 of every hour. Cron is
+enabled under systemd. WSL and the Windows computer must remain running and
+online for scheduled updates. GitHub Actions remains available for manual runs
+but no longer has a recurring schedule. Jellyfin reloads the guide hourly.
