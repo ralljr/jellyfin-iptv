@@ -12,11 +12,16 @@ Anime x HIDIVE, Crunchyroll, Pluto TV Anime, and Pluto TV Anime Movies are retai
 
 ## Update
 
-Run `python3 update.py`, review `filter-report.json` and the playlist diff, then commit and push. This downloads the current US playlist plus iptv-org feed and city metadata. Updates are manual; this repository does not promise continuous synchronization or stream availability.
+Run `python3 update.py`, review `filter-report.json` and the playlist diff, then commit and push. This downloads the current US playlist plus iptv-org feed and city metadata. GitHub Actions checks hourly at minute 23 and commits changed output. It also supports a manual run from the Actions page. GitHub may delay scheduled jobs and may disable schedules after prolonged repository inactivity. The updater retains the last published version on source errors, incomplete data, or Pluto tokens with less than two hours remaining. Stream availability is not guaranteed.
 
 The playlist contains public stream references, not hosted media. Source data comes from iptv-org; the upstream playlist license is included in LICENSE. The report records every excluded entry and its reason.
 
 ## Pluto playback check (2026-10-08)
 
 00s Replay, 80s Rewind, and Pluto TV Anime returned HTTP 403 with channel not permitted for partner through the current jmp2.uk links. 00s Replay also failed in Jellyfin. These channels are retained pending a working source; changing Jellyfin tuner settings cannot fix that upstream refusal. This does not establish that every Pluto channel is unavailable.
+
+
+## Refreshed Pluto sources
+
+Matching Pluto channel IDs are refreshed from OwnerPlugins/pluto-tv-m3u public US playlist. No personal login, cookies, or account credentials are used. Original channel IDs, names and filtering are preserved. Unmatched Pluto entries retain their existing source and are listed in filter-report.json. Jellyfin must refresh its guide/channel data regularly to ingest refreshed URLs.
 

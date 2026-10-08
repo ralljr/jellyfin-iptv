@@ -1,6 +1,27 @@
 {
   "source_entries": 1457,
   "kept_entries": 802,
+  "refreshed_pluto_entries": 174,
+  "unmatched_pluto_channels": [
+    "Best of Dr Phil",
+    "CBS News 24/7 (720p)",
+    "Comedy Central Animation",
+    "Concert Channel (720p)",
+    "Crime 360 (720p)",
+    "Farscape",
+    "Garfield and Friends",
+    "Girlfriends Films",
+    "Iron Chef",
+    "Nash Bridges (720p)",
+    "Pluto TV Sanctuary",
+    "Pluto TV Wipeout",
+    "Runtime (720p)",
+    "The Conners",
+    "The Price Is Right: The Barker Era (720p)",
+    "Tiny House Nation (720p)",
+    "Transformers TV (720p)",
+    "Weeds & Nurse Jackie (720p)"
+  ],
   "removed_by_reason": {
     "religious channel": 128,
     "local station outside Iowa/Kansas City": 386,
