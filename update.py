@@ -78,6 +78,8 @@ def build_guide(kept, mappings):
                 placeholders += 1
                 placeholder_channels.add(channel_id)
                 start = finish
+    # XMLTV requires every channel declaration before the programme elements.
+    output[:] = output.findall('channel') + output.findall('programme')
     ET.indent(output)
     xml = ET.tostring(output, encoding='utf-8', xml_declaration=True)
     return xml, {'matched_playlist_ids': sum(map(len, matched.values())), 'programmes': programmes, 'placeholder_programmes': placeholders, 'placeholder_channels': len(placeholder_channels), 'total_guide_channels': len(names), 'placeholder_through_utc': ending.isoformat(), 'schedule_through_utc': latest.isoformat(), 'source': 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml'}

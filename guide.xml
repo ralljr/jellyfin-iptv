@@ -696,6 +696,1890 @@
     <display-name>Yo! MTV</display-name>
     <icon src="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" />
   </channel>
+  <channel id="24HourFreeMovies.us@SD">
+    <display-name>24 Hour Free Movies (720p)</display-name>
+  </channel>
+  <channel id="30ADarcizzleOffshore.us@SD">
+    <display-name>30A Darcizzle Offshore (720p)</display-name>
+  </channel>
+  <channel id="30AGeorgiaHollywoodReview.us@SD">
+    <display-name>30A Georgia Hollywood Review (720p)</display-name>
+  </channel>
+  <channel id="30AGolfKingdom.us@SD">
+    <display-name>30A Golf Kingdom (720p)</display-name>
+  </channel>
+  <channel id="30AInvestmentPitch.us@SD">
+    <display-name>30A Investment Pitch (720p)</display-name>
+  </channel>
+  <channel id="30ALionelNation.us@SD">
+    <display-name>30A Lionel Nation</display-name>
+  </channel>
+  <channel id="30ALoomeredTV.us@SD">
+    <display-name>30A Loomered TV</display-name>
+  </channel>
+  <channel id="30ALuxeLifeDiscovered.us@SD">
+    <display-name>30A Luxe Life Discovered (720p)</display-name>
+  </channel>
+  <channel id="30AMusic.us@SD">
+    <display-name>30A Music (720p)</display-name>
+  </channel>
+  <channel id="30ARidiculousTV.us@SD">
+    <display-name>30A Ridiculous TV (720p)</display-name>
+  </channel>
+  <channel id="30ASidewalks.us@SD">
+    <display-name>30A Sidewalks (720p)</display-name>
+  </channel>
+  <channel id="30ATelevisionChannel.us@SD">
+    <display-name>30A Television Channel (720p)</display-name>
+  </channel>
+  <channel id="30ATheBeachShow.us@SD">
+    <display-name>30A The Beach Show (720p)</display-name>
+  </channel>
+  <channel id="30ATVClassicMovies.us@SD">
+    <display-name>30A TV Classic Movies (720p)</display-name>
+  </channel>
+  <channel id="30AWeLoveCars.us@SD">
+    <display-name>30A We Love Cars (720p)</display-name>
+  </channel>
+  <channel id="48Hours.us@US">
+    <display-name>48 Hours (1080p)</display-name>
+  </channel>
+  <channel id="AE.us@East">
+    <display-name>A&amp;E (720p)</display-name>
+  </channel>
+  <channel id="ABCNewsLive1.us@SD">
+    <display-name>ABC News Live 1 (720p)</display-name>
+  </channel>
+  <channel id="ABCNewsLive2.us@SD">
+    <display-name>ABC News Live 2 (720p)</display-name>
+  </channel>
+  <channel id="ABCNewsLive3.us@SD">
+    <display-name>ABC News Live 3 (720p)</display-name>
+  </channel>
+  <channel id="ABCNewsLive4.us@SD">
+    <display-name>ABC News Live 4 (720p)</display-name>
+  </channel>
+  <channel id="ABCNewsLive5.us@SD">
+    <display-name>ABC News Live 5 (720p)</display-name>
+  </channel>
+  <channel id="ABCNewsLive6.us@SD">
+    <display-name>ABC News Live 6 (720p)</display-name>
+  </channel>
+  <channel id="ABCNewsLive7.us@SD">
+    <display-name>ABC News Live 7 (720p)</display-name>
+  </channel>
+  <channel id="ABCNewsLive8.us@SD">
+    <display-name>ABC News Live 8 (720p)</display-name>
+  </channel>
+  <channel id="ABCNewsLive9.us@SD">
+    <display-name>ABC News Live 9 (720p)</display-name>
+  </channel>
+  <channel id="ABCNewsLive10.us@SD">
+    <display-name>ABC News Live 10 (720p)</display-name>
+  </channel>
+  <channel id="AbsoluteRealitybyWETV.us@SD">
+    <display-name>Absolute Reality by WE TV</display-name>
+  </channel>
+  <channel id="ACCDigitalNetwork.us@SD">
+    <display-name>ACC Digital Network (1080p)</display-name>
+  </channel>
+  <channel id="ACCNetwork.us@SD">
+    <display-name>ACC Network (720p)</display-name>
+  </channel>
+  <channel id="AccuWeatherNOW.us@SD">
+    <display-name>AccuWeather NOW (1080p)</display-name>
+  </channel>
+  <channel id="AceTV.us@SD">
+    <display-name>Ace TV (480p)</display-name>
+  </channel>
+  <channel id="AceTV.us@KCKSLD">
+    <display-name>Ace TV KCKS-LD (720p)</display-name>
+  </channel>
+  <channel id="AfroLandTV.us@SD">
+    <display-name>AfroLandTV (1080p)</display-name>
+  </channel>
+  <channel id="AFV.us@SD">
+    <display-name>AFV (720p)</display-name>
+  </channel>
+  <channel id="AKCTV.us@SD">
+    <display-name>AKC TV (1080p)</display-name>
+  </channel>
+  <channel id="AKCTVMeettheBreeds.us@SD">
+    <display-name>AKC TV Meet the Breeds</display-name>
+  </channel>
+  <channel id="AKCTVPuppies.us@SD">
+    <display-name>AKC TV Puppies</display-name>
+  </channel>
+  <channel id="AlabamaWeatherNetwork.us@SD">
+    <display-name>Alabama Weather Network (720p)</display-name>
+  </channel>
+  <channel id="AllWeddingsWEtv.us@SD">
+    <display-name>All Weddings WE tv</display-name>
+  </channel>
+  <channel id="ALLBLKGems.us@SD">
+    <display-name>ALLBLK Gems (720p)</display-name>
+  </channel>
+  <channel id="AlwaysFunnyVideos.us@SD">
+    <display-name>Always Funny Videos (720p)</display-name>
+  </channel>
+  <channel id="AMC.us@EastHD">
+    <display-name>AMC (United States) (720p)</display-name>
+  </channel>
+  <channel id="AmericasVoice.us@SD">
+    <display-name>America's Voice (720p)</display-name>
+  </channel>
+  <channel id="AmericanHorrors.us@SD">
+    <display-name>American Horrors (480p)</display-name>
+  </channel>
+  <channel id="Ameritrade.us@SD">
+    <display-name>Ameritrade (1080p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="AMGTV.us@SD">
+    <display-name>AMG TV (1080p)</display-name>
+  </channel>
+  <channel id="AMGATV.us@SD">
+    <display-name>AMGA TV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="AngerManagementChannel.us@SD">
+    <display-name>Anger Management Channel (1080p)</display-name>
+  </channel>
+  <channel id="AnimationPlus.us@SD">
+    <display-name>Animation+ (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="AntiquesRoadTrip.us@SD">
+    <display-name>Antiques Road Trip (1080p)</display-name>
+  </channel>
+  <channel id="AntiquesRoadshowUK.us@SD">
+    <display-name>Antiques Roadshow UK (1080p)</display-name>
+  </channel>
+  <channel id="AreWeThereYet.us@SD">
+    <display-name>Are We There Yet? (1080p)</display-name>
+  </channel>
+  <channel id="ARTFLIXMovieClassics.us@SD">
+    <display-name>ARTFLIX Movie Classics (720p)</display-name>
+  </channel>
+  <channel id="AsianCultureTV.us@HD">
+    <display-name>Asian Culture TV (1080p)</display-name>
+  </channel>
+  <channel id="AsianCrush.us@SD">
+    <display-name>AsianCrush (1080p)</display-name>
+  </channel>
+  <channel id="AspireTVLife.us@SD">
+    <display-name>Aspire TV Life (1080p)</display-name>
+  </channel>
+  <channel id="AtHomewithFamilyHandyman.us@SD">
+    <display-name>At Home with Family Handyman (720p)</display-name>
+  </channel>
+  <channel id="AtlantaChannel.us@SD">
+    <display-name>Atlanta Channel (720p)</display-name>
+  </channel>
+  <channel id="Atlas.us@SD">
+    <display-name>Atlas (480p)</display-name>
+  </channel>
+  <channel id="AutenticHistory.de@SD">
+    <display-name>Autentic History (1080p)</display-name>
+  </channel>
+  <channel id="AutenticTravel.de@SD">
+    <display-name>Autentic Travel (1080p)</display-name>
+  </channel>
+  <channel id="AWE.us@SD">
+    <display-name>AWE (720p)</display-name>
+  </channel>
+  <channel id="AWEInternational.us@SD">
+    <display-name>AWE International (720p)</display-name>
+  </channel>
+  <channel id="AWEPlus.us@SD">
+    <display-name>AWE Plus (720p)</display-name>
+  </channel>
+  <channel id="AXSTV.us@SD">
+    <display-name>AXS TV (720p)</display-name>
+  </channel>
+  <channel id="BabySharkTV.us@SD">
+    <display-name>Baby Shark TV (1080p)</display-name>
+  </channel>
+  <channel id="BabyFirst.us@US">
+    <display-name>BabyFirst (720p)</display-name>
+  </channel>
+  <channel id="Backstage.us@SD">
+    <display-name>Backstage (1080p)</display-name>
+  </channel>
+  <channel id="BarkTV.us@SD">
+    <display-name>Bark TV (1080p)</display-name>
+  </channel>
+  <channel id="Baywatch.us@US">
+    <display-name>Baywatch (1080p)</display-name>
+  </channel>
+  <channel id="BBCAmerica.us@East">
+    <display-name>BBC America (720p)</display-name>
+  </channel>
+  <channel id="BBCEarth.uk@US">
+    <display-name>BBC Earth US (1080p)</display-name>
+  </channel>
+  <channel id="BBCFood.us@SD">
+    <display-name>BBC Food (1080p)</display-name>
+  </channel>
+  <channel id="BBCHomeGarden.us@SD">
+    <display-name>BBC Home &amp; Garden (1080p)</display-name>
+  </channel>
+  <channel id="BBCKids.us@SD">
+    <display-name>BBC Kids (720p)</display-name>
+  </channel>
+  <channel id="BeachTVFloridaAlabama.us@SD">
+    <display-name>Beach TV Florida &amp; Alabama (720p)</display-name>
+  </channel>
+  <channel id="BeachTVKeyWestFloridaKeys.us@SD">
+    <display-name>Beach TV Key West &amp; Florida Keys (720p)</display-name>
+  </channel>
+  <channel id="BeachTVMyrtleBeachTheGrandStrand.us@SD">
+    <display-name>Beach TV Myrtle Beach &amp; The Grand Strand (720p)</display-name>
+  </channel>
+  <channel id="BeachTVPanamaCity.us@SD">
+    <display-name>Beach TV Panama City (720p)</display-name>
+  </channel>
+  <channel id="beINSPORTSXTRA.us@SD">
+    <display-name>beIN SPORTS XTRA (1080p)</display-name>
+  </channel>
+  <channel id="BestofDrPhil.us@SD">
+    <display-name>Best of Dr Phil</display-name>
+  </channel>
+  <channel id="BetterHealthTV.us@SD">
+    <display-name>Better Health TV (480p)</display-name>
+  </channel>
+  <channel id="BetterLifeNatureChannel.us@SD">
+    <display-name>Better Life Nature Channel (480p)</display-name>
+  </channel>
+  <channel id="BigTenNetwork.us@SD">
+    <display-name>Big Ten Network (720p)</display-name>
+  </channel>
+  <channel id="BilliardTV.us@SD">
+    <display-name>Billiard TV (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="BizTV.us@SD">
+    <display-name>Biz TV (1080p)</display-name>
+  </channel>
+  <channel id="BlackNewsChannel.us@SD">
+    <display-name>Black News Channel (1080p)</display-name>
+  </channel>
+  <channel id="BloombergOriginals.us@US">
+    <display-name>Bloomberg Originals (1080p)</display-name>
+  </channel>
+  <channel id="BloombergTV.us@US">
+    <display-name>Bloomberg TV (1080p)</display-name>
+  </channel>
+  <channel id="BloombergTV.us@LiveEvent">
+    <display-name>Bloomberg TV Live Event (720p)</display-name>
+  </channel>
+  <channel id="BloombergTV.us@PoliticsLiveEvent">
+    <display-name>Bloomberg TV Politics Live Event (720p)</display-name>
+  </channel>
+  <channel id="bonappetit.us@SD">
+    <display-name>bon appetit (1080p)</display-name>
+  </channel>
+  <channel id="Bounce.us@SD">
+    <display-name>Bounce (720p)</display-name>
+  </channel>
+  <channel id="BounceXL.us@SD">
+    <display-name>Bounce XL (1080p)</display-name>
+  </channel>
+  <channel id="BratTV.us@SD">
+    <display-name>Brat TV (1080p)</display-name>
+  </channel>
+  <channel id="Bravo.us@East">
+    <display-name>Bravo (720p)</display-name>
+  </channel>
+  <channel id="BritBoxMysteries.us@SD">
+    <display-name>BritBox Mysteries (1080p)</display-name>
+  </channel>
+  <channel id="BusinessRockstars.us@SD">
+    <display-name>Business Rockstars (720p)</display-name>
+  </channel>
+  <channel id="Buzzr.us@SD">
+    <display-name>Buzzr (1080p)</display-name>
+  </channel>
+  <channel id="BYUTV.us@SD">
+    <display-name>BYU TV (1080p)</display-name>
+  </channel>
+  <channel id="CaliforniaMusicChannel.us@SD">
+    <display-name>California Music Channel (1080p)</display-name>
+  </channel>
+  <channel id="CameraSmileTV.us@SD">
+    <display-name>Camera Smile TV (480p)</display-name>
+  </channel>
+  <channel id="CampSpoopy.us@SD">
+    <display-name>Camp Spoopy (576p)</display-name>
+  </channel>
+  <channel id="CapitalCityConnectionMontgomery.us@SD">
+    <display-name>Capital City Connection Montgomery [Not 24/7]</display-name>
+  </channel>
+  <channel id="CBS.us@KCCI">
+    <display-name>CBS KCCI (720p)</display-name>
+  </channel>
+  <channel id="CBSNews247.us@SD">
+    <display-name>CBS News 24/7 (720p)</display-name>
+  </channel>
+  <channel id="CBSNewsBaltimore.us@SD">
+    <display-name>CBS News Baltimore (720p)</display-name>
+  </channel>
+  <channel id="CBSNewsBayArea.us@SD">
+    <display-name>CBS News Bay Area (720p)</display-name>
+  </channel>
+  <channel id="CBSNewsBoston.us@SD">
+    <display-name>CBS News Boston (720p)</display-name>
+  </channel>
+  <channel id="CBSNewsChicago.us@SD">
+    <display-name>CBS News Chicago (720p)</display-name>
+  </channel>
+  <channel id="CBSNewsColorado.us@SD">
+    <display-name>CBS News Colorado (720p)</display-name>
+  </channel>
+  <channel id="CBSNewsDetroit.us@SD">
+    <display-name>CBS News Detroit (720p)</display-name>
+  </channel>
+  <channel id="CBSNewsLosAngeles.us@SD">
+    <display-name>CBS News Los Angeles (720p)</display-name>
+  </channel>
+  <channel id="CBSNewsMiami.us@SD">
+    <display-name>CBS News Miami (720p)</display-name>
+  </channel>
+  <channel id="CBSNewsMinnesota.us@SD">
+    <display-name>CBS News Minnesota (720p)</display-name>
+  </channel>
+  <channel id="CBSNewsNewYork.us@SD">
+    <display-name>CBS News New York (720p)</display-name>
+  </channel>
+  <channel id="CBSNewsPhilly.us@SD">
+    <display-name>CBS News Philly (720p)</display-name>
+  </channel>
+  <channel id="CBSNewsPittsburgh.us@SD">
+    <display-name>CBS News Pittsburgh (720p)</display-name>
+  </channel>
+  <channel id="CBSNewsSacramento.us@SD">
+    <display-name>CBS News Sacramento (720p)</display-name>
+  </channel>
+  <channel id="CBSSportsGolazoNetwork.us@SD">
+    <display-name>CBS Sports Golazo Network (720p)</display-name>
+  </channel>
+  <channel id="CCTV.us@SD">
+    <display-name>CC-TV (720p)</display-name>
+  </channel>
+  <channel id="CelebrityNameGame.us@SD">
+    <display-name>Celebrity Name Game (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="CelebritySceneTV.us@SD">
+    <display-name>Celebrity Scene TV (720p)</display-name>
+  </channel>
+  <channel id="Channel10.us@SD">
+    <display-name>Channel 10 (United States) (720p)</display-name>
+  </channel>
+  <channel id="Charge.us@SD">
+    <display-name>Charge! (1080p)</display-name>
+  </channel>
+  <channel id="CheddarNews.us@SD">
+    <display-name>Cheddar News (1080p)</display-name>
+  </channel>
+  <channel id="ChefChampion.us@SD">
+    <display-name>Chef Champion (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="ChefRocShow.us@SD">
+    <display-name>Chef Roc Show (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="Choppertown.us@SD">
+    <display-name>Choppertown (720p)</display-name>
+  </channel>
+  <channel id="CineRomantico.us@SD">
+    <display-name>Cine Romantico (720p)</display-name>
+  </channel>
+  <channel id="CineSony.us@SD">
+    <display-name>Cine Sony (720p)</display-name>
+  </channel>
+  <channel id="Cinemax.us@West">
+    <display-name>Cinemax West (720p)</display-name>
+  </channel>
+  <channel id="CinemaxClassics.us@East">
+    <display-name>Cinemax Classics (1080p)</display-name>
+  </channel>
+  <channel id="CinemaxHits.us@East">
+    <display-name>Cinemax Hits (1080p)</display-name>
+  </channel>
+  <channel id="Cinevault80s.us@SD">
+    <display-name>Cinevault 80s (720p)</display-name>
+  </channel>
+  <channel id="CinevaultWesterns.us@SD">
+    <display-name>Cinevault Westerns (540p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="Circle.us@SD">
+    <display-name>Circle (1080p)</display-name>
+  </channel>
+  <channel id="Clarity4K.us@SD">
+    <display-name>Clarity 4K (2160p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="ClassicCinema.us@SD">
+    <display-name>Classic Cinema (240p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="CloudflareTV.us@SD">
+    <display-name>Cloudflare TV (720p)</display-name>
+  </channel>
+  <channel id="CMCUSACountryMusicChannel.us@SD">
+    <display-name>CMC-USA Country Music Channel (720p)</display-name>
+  </channel>
+  <channel id="CMT.us@East">
+    <display-name>CMT (720p)</display-name>
+  </channel>
+  <channel id="CNBC.us@SD">
+    <display-name>CNBC (720p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="ColdCaseFiles.us@SD">
+    <display-name>Cold Case Files (1080p)</display-name>
+  </channel>
+  <channel id="ComedyCentralAnimation.us@SD">
+    <display-name>Comedy Central Animation</display-name>
+  </channel>
+  <channel id="ComedyDynamics.us@SD">
+    <display-name>Comedy Dynamics (1080p)</display-name>
+  </channel>
+  <channel id="Comet.us@SD">
+    <display-name>Comet (1080p)</display-name>
+  </channel>
+  <channel id="ConcertChannel.us@SD">
+    <display-name>Concert Channel (720p)</display-name>
+  </channel>
+  <channel id="CookingPanda.us@SD">
+    <display-name>Cooking Panda (576p)</display-name>
+  </channel>
+  <channel id="Cops.us@SD">
+    <display-name>Cops (720p)</display-name>
+  </channel>
+  <channel id="CourtTV.us@SD">
+    <display-name>Court TV (1080p)</display-name>
+  </channel>
+  <channel id="Create.us@SD">
+    <display-name>Create (1080p)</display-name>
+  </channel>
+  <channel id="Crime360.us@SD">
+    <display-name>Crime 360 (720p)</display-name>
+  </channel>
+  <channel id="CrimePlusInvestigation.us@SD">
+    <display-name>Crime + Investigation (720p)</display-name>
+  </channel>
+  <channel id="CTNCourtFeed.us@SD">
+    <display-name>CT-N Court Feed (360p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="CTNLiveStream2.us@SD">
+    <display-name>CT-N Live Stream 2 (360p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="CTNTVConneticut.us@SD">
+    <display-name>CT-N TV Conneticut (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="CuriosityNOW.de@EN">
+    <display-name>Curiosity NOW EN (1080p)</display-name>
+  </channel>
+  <channel id="DangerTV.us@SD">
+    <display-name>Danger TV (720p)</display-name>
+  </channel>
+  <channel id="DarkMatterTV.us@SD">
+    <display-name>Dark Matter TV (720p)</display-name>
+  </channel>
+  <channel id="Dateline247.us@SD">
+    <display-name>Dateline 24/7 (1080p)</display-name>
+  </channel>
+  <channel id="DealorNoDeal.us@SD">
+    <display-name>Deal or No Deal (1080p)</display-name>
+  </channel>
+  <channel id="Degrassi.us@US">
+    <display-name>Degrassi (720p)</display-name>
+  </channel>
+  <channel id="DesignatedSurvivor.us@SD">
+    <display-name>Designated Survivor (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="DestinationAmerica.us@SD">
+    <display-name>Destination America (720p)</display-name>
+  </channel>
+  <channel id="DiscoveryTurbo.us@SD">
+    <display-name>Discovery Turbo (720p)</display-name>
+  </channel>
+  <channel id="DisneyChannel.us@East">
+    <display-name>Disney Channel (United States) (720p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="DisneyJunior.us@East">
+    <display-name>Disney Junior (United States) (480p)</display-name>
+  </channel>
+  <channel id="DisneyXD.us@East">
+    <display-name>Disney XD (United States) (720p)</display-name>
+  </channel>
+  <channel id="DistrictofColumbiaNetwork.us@SD">
+    <display-name>District of Columbia Network (1080p)</display-name>
+  </channel>
+  <channel id="DiyaTV.us@SD">
+    <display-name>Diya TV (1080p)</display-name>
+  </channel>
+  <channel id="DoctorWhoClassic.us@US">
+    <display-name>Doctor Who Classic (1080p)</display-name>
+  </channel>
+  <channel id="DocumentaryPlus.us@US">
+    <display-name>Documentary+ (1080p)</display-name>
+  </channel>
+  <channel id="Docurama.us@SD">
+    <display-name>Docurama (1080p)</display-name>
+  </channel>
+  <channel id="DogtheBountyHunter.us@US">
+    <display-name>Dog the Bounty Hunter (1080p)</display-name>
+  </channel>
+  <channel id="DontTellTheBride.uk@SD">
+    <display-name>Don't Tell The Bride (1080p)</display-name>
+  </channel>
+  <channel id="DoveChannel.us@SD">
+    <display-name>Dove Channel (1080p)</display-name>
+  </channel>
+  <channel id="DraftKingsNetwork.us@SD">
+    <display-name>DraftKings Network (1080p)</display-name>
+  </channel>
+  <channel id="DryBarComedyPlus.us@SD">
+    <display-name>Dry Bar Comedy+ (720p)</display-name>
+  </channel>
+  <channel id="DuckHuntingTV.us@SD">
+    <display-name>Duck Hunting TV (1080p)</display-name>
+  </channel>
+  <channel id="DungeonTV.us@SD">
+    <display-name>Dungeon TV (720p)</display-name>
+  </channel>
+  <channel id="E.us@East">
+    <display-name>E! (United States) East (1080p)</display-name>
+  </channel>
+  <channel id="EKeepingUp.us@SD">
+    <display-name>E! Keeping Up (1080p)</display-name>
+  </channel>
+  <channel id="EbonyTVbyLionsgate.us@SD">
+    <display-name>Ebony TV by Lionsgate (1080p)</display-name>
+  </channel>
+  <channel id="ElRey.us@SD">
+    <display-name>El Rey</display-name>
+  </channel>
+  <channel id="ElectricNow.us@SD">
+    <display-name>Electric Now (720p)</display-name>
+  </channel>
+  <channel id="EntertainmentTonight.us@SD">
+    <display-name>Entertainment Tonight (1080p)</display-name>
+  </channel>
+  <channel id="EntrepreneurTV.us@SD">
+    <display-name>EntrepreneurTV (720p)</display-name>
+  </channel>
+  <channel id="EscambiaCountyTV.us@SD">
+    <display-name>Escambia County TV (720p)</display-name>
+  </channel>
+  <channel id="ESPNU.us@SD">
+    <display-name>ESPNU (720p)</display-name>
+  </channel>
+  <channel id="ESPNU.us@HD">
+    <display-name>ESPNU HD (720p)</display-name>
+  </channel>
+  <channel id="ExtremaTV.us@SD">
+    <display-name>Extrema TV (United States) (720p)</display-name>
+  </channel>
+  <channel id="F1Channel.ie@US">
+    <display-name>F1 Channel (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="FailArmy.us@US">
+    <display-name>FailArmy (720p)</display-name>
+  </channel>
+  <channel id="Farscape.us@SD">
+    <display-name>Farscape</display-name>
+  </channel>
+  <channel id="FastTV.us@SD">
+    <display-name>Fast TV (720p)</display-name>
+  </channel>
+  <channel id="FearFactor.us@US">
+    <display-name>Fear Factor (1080p)</display-name>
+  </channel>
+  <channel id="FIFAPlus.uk@UnitedStates">
+    <display-name>FIFA+ United States (720p)</display-name>
+  </channel>
+  <channel id="FilAmTVNetwork.us@HD">
+    <display-name>FilAmTV Network (1080p)</display-name>
+  </channel>
+  <channel id="FilmRiseForensicFiles.us@SD">
+    <display-name>FilmRise Forensic Files (720p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="FITE247.us@SD">
+    <display-name>FITE 24/7 (1080p)</display-name>
+  </channel>
+  <channel id="FlowersTVUSA.us@SD">
+    <display-name>Flowers TV USA</display-name>
+  </channel>
+  <channel id="FNX.us@SD">
+    <display-name>FNX (1080p)</display-name>
+  </channel>
+  <channel id="FoxBusinessNetwork.us@SD">
+    <display-name>Fox Business Network (576p)</display-name>
+  </channel>
+  <channel id="FoxDeportes.us@SD">
+    <display-name>Fox Deportes (720p)</display-name>
+  </channel>
+  <channel id="FoxNewsChannel.us@SD">
+    <display-name>Fox News Channel (720p)</display-name>
+  </channel>
+  <channel id="FoxNewsRadio.us@SD">
+    <display-name>Fox News Radio (720p)</display-name>
+  </channel>
+  <channel id="FoxSoul.us@SD">
+    <display-name>Fox Soul (1080p)</display-name>
+  </channel>
+  <channel id="FoxSports1.us@HD">
+    <display-name>Fox Sports 1 (720p)</display-name>
+  </channel>
+  <channel id="FoxWeather.us@SD">
+    <display-name>Fox Weather (720p)</display-name>
+  </channel>
+  <channel id="FreeSpeechTV.us@SD">
+    <display-name>Free Speech TV (720p)</display-name>
+  </channel>
+  <channel id="FreebieTV.us@SD">
+    <display-name>Freebie TV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="FrightFlix.us@SD">
+    <display-name>FrightFlix (720p)</display-name>
+  </channel>
+  <channel id="FTFSports.us@SD">
+    <display-name>FTF Sports (720p)</display-name>
+  </channel>
+  <channel id="FuboSportsNetwork.us@SD">
+    <display-name>Fubo Sports Network (1080p)</display-name>
+  </channel>
+  <channel id="FunRoads.us@SD">
+    <display-name>Fun Roads (720p)</display-name>
+  </channel>
+  <channel id="Fuse.us@East">
+    <display-name>Fuse (1080p)</display-name>
+  </channel>
+  <channel id="Gagsnetwork.us@SD">
+    <display-name>Gagsnetwork (576p)</display-name>
+  </channel>
+  <channel id="GalxyTV.us@SD">
+    <display-name>Galxy TV (720p)</display-name>
+  </channel>
+  <channel id="GameShowNetwork.us@East">
+    <display-name>Game Show Network (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="GarfieldandFriends.us@US">
+    <display-name>Garfield and Friends</display-name>
+  </channel>
+  <channel id="GemShoppingNetwork.us@SD">
+    <display-name>Gem Shopping Network (720p)</display-name>
+  </channel>
+  <channel id="GiggleMug.us@SD">
+    <display-name>Giggle Mug (576p)</display-name>
+  </channel>
+  <channel id="GirlfriendsFilms.us@SD">
+    <display-name>Girlfriends Films</display-name>
+  </channel>
+  <channel id="GlobalFashionChannel.us@SD">
+    <display-name>Global Fashion Channel (1080p)</display-name>
+  </channel>
+  <channel id="GlobalWorldTV.us@SD">
+    <display-name>GlobalWorldTV (720p)</display-name>
+  </channel>
+  <channel id="GMTV.us@SD">
+    <display-name>GMTV (1080p)</display-name>
+  </channel>
+  <channel id="GordonRamsaysHellsKitchen.us@SD">
+    <display-name>Gordon Ramsay's Hell's Kitchen (720p)</display-name>
+  </channel>
+  <channel id="GoTraveler.us@SD">
+    <display-name>GoTraveler (720p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="GravitasMovies.us@SD">
+    <display-name>Gravitas Movies (1080p)</display-name>
+  </channel>
+  <channel id="GreatEntertainmentTelevision.us@SD">
+    <display-name>Great Entertainment Television (720p)</display-name>
+  </channel>
+  <channel id="GreensboroTV.us@SD">
+    <display-name>Greensboro TV (720p)</display-name>
+  </channel>
+  <channel id="GritXtra.us@SD">
+    <display-name>Grit Xtra (1080p)</display-name>
+  </channel>
+  <channel id="GrjngoWesternMovies.de@SD">
+    <display-name>Grjngo Western Movies (720p)</display-name>
+  </channel>
+  <channel id="HallmarkChannel.us@East">
+    <display-name>Hallmark Channel (1080p)</display-name>
+  </channel>
+  <channel id="HallmarkMoviesMore.us@SD">
+    <display-name>Hallmark Movies &amp; More (1080p)</display-name>
+  </channel>
+  <channel id="HappyKids.us@SD">
+    <display-name>HappyKids (1080p)</display-name>
+  </channel>
+  <channel id="HasbroLegends.us@SD">
+    <display-name>Hasbro Legends (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="HauntTV.ca@SD">
+    <display-name>HauntTV (1080p)</display-name>
+  </channel>
+  <channel id="HBOMovies.us@East">
+    <display-name>HBO Movies (720p)</display-name>
+  </channel>
+  <channel id="Heartland.us@Eastern">
+    <display-name>Heartland (720p)</display-name>
+  </channel>
+  <channel id="HiYAH.us@SD">
+    <display-name>Hi-YAH! (1080p)</display-name>
+  </channel>
+  <channel id="HisGloryTV.us@SD">
+    <display-name>His Glory TV (1080p)</display-name>
+  </channel>
+  <channel id="History.us@East">
+    <display-name>History (United States) (720p)</display-name>
+  </channel>
+  <channel id="HistoryHit.uk@SD">
+    <display-name>History Hit (1080p)</display-name>
+  </channel>
+  <channel id="HollyWire.us@SD">
+    <display-name>HollyWire (720p)</display-name>
+  </channel>
+  <channel id="Homeful.ca@US">
+    <display-name>Homeful US (1080p)</display-name>
+  </channel>
+  <channel id="HSN2.us@SD">
+    <display-name>HSN2 (720p)</display-name>
+  </channel>
+  <channel id="HSN.us@East">
+    <display-name>HSN (720p)</display-name>
+  </channel>
+  <channel id="HSN.us@West">
+    <display-name>HSN West (720p)</display-name>
+  </channel>
+  <channel id="HTV1HoustonTelevision.us@SD">
+    <display-name>HTV 1 Houston Television (720p)</display-name>
+  </channel>
+  <channel id="HTV2HoustonTelevision.us@SD">
+    <display-name>HTV 2 Houston Television (720p)</display-name>
+  </channel>
+  <channel id="HumorMill.us@SD">
+    <display-name>Humor Mill (1080p)</display-name>
+  </channel>
+  <channel id="Hungry.us@SD">
+    <display-name>Hungry (720p)</display-name>
+  </channel>
+  <channel id="IFC.us@East">
+    <display-name>IFC (1080p)</display-name>
+  </channel>
+  <channel id="ImpactNetwork.us@SD">
+    <display-name>Impact Network (720p)</display-name>
+  </channel>
+  <channel id="ImpossibleQuizShow.us@SD">
+    <display-name>Impossible Quiz Show (1080p)</display-name>
+  </channel>
+  <channel id="INFAST.nl@SD">
+    <display-name>INFAST (1080p)</display-name>
+  </channel>
+  <channel id="InfoWars.us@SD">
+    <display-name>InfoWars (1080p)</display-name>
+  </channel>
+  <channel id="INWILD.nl@SD">
+    <display-name>INWILD (1080p)</display-name>
+  </channel>
+  <channel id="IONPlus.us@East">
+    <display-name>ION Plus (1080p)</display-name>
+  </channel>
+  <channel id="IONTV.us@East">
+    <display-name>ION TV (720p)</display-name>
+  </channel>
+  <channel id="IronChef.us@US">
+    <display-name>Iron Chef</display-name>
+  </channel>
+  <channel id="JewelryTV2.us@SD">
+    <display-name>Jewelry TV 2 (720p)</display-name>
+  </channel>
+  <channel id="JewelryTV.us@SD">
+    <display-name>Jewelry TV (720p)</display-name>
+  </channel>
+  <channel id="JohnnyCarsonTV.us@SD">
+    <display-name>Johnny Carson TV (720p)</display-name>
+  </channel>
+  <channel id="Journy.us@SD">
+    <display-name>Journy (720p)</display-name>
+  </channel>
+  <channel id="JudgeNosey.us@US">
+    <display-name>Judge Nosey (1080p)</display-name>
+  </channel>
+  <channel id="JustforLaughsGags.us@SD">
+    <display-name>Just for Laughs Gags (1080p)</display-name>
+  </channel>
+  <channel id="KContentbyCJENM.us@SD">
+    <display-name>K-Content by CJ ENM (1080p)</display-name>
+  </channel>
+  <channel id="KaloopyTV.us@SD">
+    <display-name>Kaloopy TV (1080p)</display-name>
+  </channel>
+  <channel id="KartoonChannel.us@SD">
+    <display-name>Kartoon Channel! (1080p)</display-name>
+  </channel>
+  <channel id="KevinHartsLOLNetwork.us@SD">
+    <display-name>Kevin Hart's LOL! Network (720p)</display-name>
+  </channel>
+  <channel id="KidsFlix.us@SD">
+    <display-name>KidsFlix (1080p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="LacrosseTV.us@SD">
+    <display-name>Lacrosse TV (720p)</display-name>
+  </channel>
+  <channel id="Laff.us@SD">
+    <display-name>Laff (576p)</display-name>
+  </channel>
+  <channel id="LasVegasTonightwithDaleDavidson.us@HD">
+    <display-name>Las Vegas Tonight with Dale Davidson (1080p)</display-name>
+  </channel>
+  <channel id="LatinoChannelTV.us@HD">
+    <display-name>Latino Channel TV (1080p)</display-name>
+  </channel>
+  <channel id="LATV.us@SD">
+    <display-name>LATV (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="LawCrime.us@SD">
+    <display-name>Law &amp; Crime (720p)</display-name>
+  </channel>
+  <channel id="LegoChannel.us@SD">
+    <display-name>Lego Channel (1080p)</display-name>
+  </channel>
+  <channel id="LifetimeMovies.us@East">
+    <display-name>Lifetime Movies (1080p)</display-name>
+  </channel>
+  <channel id="LindellTV.us@SD">
+    <display-name>Lindell TV (720p)</display-name>
+  </channel>
+  <channel id="LittleGuyanaTV.us@SD">
+    <display-name>Little Guyana TV (1080p)</display-name>
+  </channel>
+  <channel id="LiveNOWfromFOX.us@SD">
+    <display-name>LiveNOW from FOX (720p)</display-name>
+  </channel>
+  <channel id="LIVExLIVE.us@SD">
+    <display-name>LIVExLIVE (1080p)</display-name>
+  </channel>
+  <channel id="Localish.us@SD">
+    <display-name>Localish (1080p)</display-name>
+  </channel>
+  <channel id="LoveNatureenEspanol.us@SD">
+    <display-name>Love Nature en Espanol (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="LovePets.ca@US">
+    <display-name>Love Pets (1080p)</display-name>
+  </channel>
+  <channel id="LoveThePlanet.es@EN">
+    <display-name>Love The Planet (1080p)</display-name>
+  </channel>
+  <channel id="LuckyDog.us@SD">
+    <display-name>Lucky Dog (720p)</display-name>
+  </channel>
+  <channel id="MadDogandMerrill.us@SD">
+    <display-name>Mad Dog and Merrill (540p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="MadeInHollywood.us@SD">
+    <display-name>Made In Hollywood</display-name>
+  </channel>
+  <channel id="MagellanTVNow.us@SD">
+    <display-name>MagellanTV Now (1080p)</display-name>
+  </channel>
+  <channel id="MagnificentMoviesNetwork.us@SD">
+    <display-name>Magnificent Movies Network</display-name>
+  </channel>
+  <channel id="MaverickBlackCinema.us@SD">
+    <display-name>Maverick Black Cinema (1080p)</display-name>
+  </channel>
+  <channel id="MBC1USA.us@SD">
+    <display-name>MBC 1 USA</display-name>
+  </channel>
+  <channel id="MBC3USA.us@SD">
+    <display-name>MBC 3 USA (1080p)</display-name>
+  </channel>
+  <channel id="MBCAmerica.us@SD">
+    <display-name>MBC America (1080p)</display-name>
+  </channel>
+  <channel id="MeritStreet.us@SD">
+    <display-name>Merit Street (1080p)</display-name>
+  </channel>
+  <channel id="MeTV.us@SD">
+    <display-name>MeTV (720p)</display-name>
+  </channel>
+  <channel id="MidnightPulp.us@SD">
+    <display-name>Midnight Pulp (1080p)</display-name>
+  </channel>
+  <channel id="MidsomerMurders.us@SD">
+    <display-name>Midsomer Murders (1080p)</display-name>
+  </channel>
+  <channel id="MilitaryHistory.us@SD">
+    <display-name>Military History (720p)</display-name>
+  </channel>
+  <channel id="MLBStrikeZone.us@SD">
+    <display-name>MLB Strike Zone (720p)</display-name>
+  </channel>
+  <channel id="MMATV.us@SD">
+    <display-name>MMA TV (576p)</display-name>
+  </channel>
+  <channel id="Movies.us@SD">
+    <display-name>Movies! (480p)</display-name>
+  </channel>
+  <channel id="MovieSphere.us@US">
+    <display-name>MovieSphere (1080p)</display-name>
+  </channel>
+  <channel id="MrBeanAnimated.uk@English">
+    <display-name>Mr Bean Animated (1080p)</display-name>
+  </channel>
+  <channel id="MSG.us@SD">
+    <display-name>MSG (720p)</display-name>
+  </channel>
+  <channel id="MST3K.us@US">
+    <display-name>MST3K (1080p)</display-name>
+  </channel>
+  <channel id="MTV2.us@East">
+    <display-name>MTV2 (720p)</display-name>
+  </channel>
+  <channel id="MTV.us@East">
+    <display-name>MTV (United States) (1080p)</display-name>
+  </channel>
+  <channel id="MTVLive.us@SD">
+    <display-name>MTV Live (720p)</display-name>
+  </channel>
+  <channel id="MysteryScienceTheater3000.us@SD">
+    <display-name>Mystery Science Theater 3000 (1080p)</display-name>
+  </channel>
+  <channel id="MyTimeMovieNetworkEast.us@SD">
+    <display-name>MyTime Movie Network East (1080p)</display-name>
+  </channel>
+  <channel id="Naruto.us@US">
+    <display-name>Naruto (1080p)</display-name>
+  </channel>
+  <channel id="NashBridges.us@SD">
+    <display-name>Nash Bridges (720p)</display-name>
+  </channel>
+  <channel id="NationalGeographic.us@East">
+    <display-name>National Geographic (United States) (720p)</display-name>
+  </channel>
+  <channel id="NationalGeographic.us@HDEast">
+    <display-name>National Geographic (United States) HD East (720p)</display-name>
+  </channel>
+  <channel id="NationalGeographicWild.us@HDEast">
+    <display-name>National Geographic Wild (United States) HD East (720p)</display-name>
+  </channel>
+  <channel id="NBATV.us@SD">
+    <display-name>NBA TV (720p)</display-name>
+  </channel>
+  <channel id="NBC.us@KSHBTV">
+    <display-name>NBC KSHB-TV (720p)</display-name>
+  </channel>
+  <channel id="NBCComedyVault.us@SD">
+    <display-name>NBC Comedy Vault (1080p)</display-name>
+  </channel>
+  <channel id="NBCLXHome.us@HD">
+    <display-name>NBC LX Home (1080p)</display-name>
+  </channel>
+  <channel id="NBCNewsNOW.us@SD">
+    <display-name>NBC News NOW (1080p)</display-name>
+  </channel>
+  <channel id="NBCSportsNOW.us@SD">
+    <display-name>NBC Sports NOW (1080p)</display-name>
+  </channel>
+  <channel id="NBCUniverso.us@West">
+    <display-name>NBC Universo West (720p)</display-name>
+  </channel>
+  <channel id="NBCLX.us@SD">
+    <display-name>NBCLX (1080p)</display-name>
+  </channel>
+  <channel id="NewChannel.ca@SD">
+    <display-name>New Channel (480p)</display-name>
+  </channel>
+  <channel id="NewChannelPop.ca@SD">
+    <display-name>New Channel Pop! (480p)</display-name>
+  </channel>
+  <channel id="NEWKPOP.us@SD">
+    <display-name>NEW K-POP (1080p)</display-name>
+  </channel>
+  <channel id="NEWKMOVIES.us@SD">
+    <display-name>NEW K.MOVIES (1080p)</display-name>
+  </channel>
+  <channel id="News12Bronx.us@SD">
+    <display-name>News12 Bronx [Geo-blocked]</display-name>
+  </channel>
+  <channel id="News12Brooklyn.us@SD">
+    <display-name>News12 Brooklyn [Geo-blocked]</display-name>
+  </channel>
+  <channel id="News12Conneticut.us@SD">
+    <display-name>News12 Conneticut [Geo-blocked]</display-name>
+  </channel>
+  <channel id="News12HudsonValley.us@SD">
+    <display-name>News12 Hudson Valley [Geo-blocked]</display-name>
+  </channel>
+  <channel id="News12LongIsland.us@SD">
+    <display-name>News12 Long Island (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="News12NewJersey.us@SD">
+    <display-name>News12 New Jersey [Geo-blocked]</display-name>
+  </channel>
+  <channel id="News12NewYork.us@SD">
+    <display-name>News12 New York (1080p)</display-name>
+  </channel>
+  <channel id="News12Westchester.us@SD">
+    <display-name>News12 Westchester [Geo-blocked]</display-name>
+  </channel>
+  <channel id="NewsoftheWorld.us@USA">
+    <display-name>News of the World USA (1080p)</display-name>
+  </channel>
+  <channel id="Newsmax2.us@SD">
+    <display-name>Newsmax 2 (1080p)</display-name>
+  </channel>
+  <channel id="NewsmaxTV.us@SD">
+    <display-name>Newsmax TV (720p)</display-name>
+  </channel>
+  <channel id="Newsy.us@SD">
+    <display-name>Newsy (1080p)</display-name>
+  </channel>
+  <channel id="NHLNetwork.us@SD">
+    <display-name>NHL Network (1080p)</display-name>
+  </channel>
+  <channel id="NHRATV.us@SD">
+    <display-name>NHRA TV (1080p)</display-name>
+  </channel>
+  <channel id="NickJr.us@East">
+    <display-name>Nick Jr. (United States) (720p)</display-name>
+  </channel>
+  <channel id="NickJr.us@EastHD">
+    <display-name>Nick Jr. (United States) East HD (720p)</display-name>
+  </channel>
+  <channel id="Nickelodeon.us@East">
+    <display-name>Nickelodeon (United States) (720p)</display-name>
+  </channel>
+  <channel id="Nicktoons.us@East">
+    <display-name>Nicktoons (United States) (720p)</display-name>
+  </channel>
+  <channel id="NinjaKidzTV.us@SD">
+    <display-name>Ninja Kidz TV (720p)</display-name>
+  </channel>
+  <channel id="NorCastWeather.us@HD">
+    <display-name>NorCast Weather (1080p)</display-name>
+  </channel>
+  <channel id="Nosey.us@US">
+    <display-name>Nosey (1080p)</display-name>
+  </channel>
+  <channel id="NOST.us@SD">
+    <display-name>NOST (720p)</display-name>
+  </channel>
+  <channel id="NTDTV.us@East">
+    <display-name>NTD TV (1080p)</display-name>
+  </channel>
+  <channel id="NTDTV.us@West">
+    <display-name>NTD TV West (720p)</display-name>
+  </channel>
+  <channel id="NTDTVEnglish.us@USA">
+    <display-name>NTD TV English (1080p)</display-name>
+  </channel>
+  <channel id="NYXT.us@SD">
+    <display-name>NYXT (1080p)</display-name>
+  </channel>
+  <channel id="OANPlus.us@SD">
+    <display-name>OAN Plus (1080p)</display-name>
+  </channel>
+  <channel id="Olelo49.us@SD">
+    <display-name>Olelo 49 (720p)</display-name>
+  </channel>
+  <channel id="Olelo53.us@SD">
+    <display-name>Olelo 53 (720p)</display-name>
+  </channel>
+  <channel id="Olelo54.us@SD">
+    <display-name>Olelo 54 (720p)</display-name>
+  </channel>
+  <channel id="Olelo55.us@SD">
+    <display-name>Olelo 55 (720p)</display-name>
+  </channel>
+  <channel id="OmideIranTV.us@SD">
+    <display-name>Omid e Iran TV</display-name>
+  </channel>
+  <channel id="OneAmericaNewsNetwork.us@SD">
+    <display-name>One America News Network (720p)</display-name>
+  </channel>
+  <channel id="OnTV4U.us@SD">
+    <display-name>OnTV4U (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="OutdoorAmerica.us@SD">
+    <display-name>Outdoor America (1080p)</display-name>
+  </channel>
+  <channel id="OutdoorChannel.us@SD">
+    <display-name>Outdoor Channel (1080p)</display-name>
+  </channel>
+  <channel id="OutdoorChannel.us@HD">
+    <display-name>Outdoor Channel HD (720p)</display-name>
+  </channel>
+  <channel id="OuterSphere.us@SD">
+    <display-name>OuterSphere (1080p)</display-name>
+  </channel>
+  <channel id="OutsideTV.us@SD">
+    <display-name>Outside TV (1080p)</display-name>
+  </channel>
+  <channel id="OvercomersTV.us@SD">
+    <display-name>Overcomers TV (720p)</display-name>
+  </channel>
+  <channel id="Overtime.us@SD">
+    <display-name>Overtime (1080p)</display-name>
+  </channel>
+  <channel id="Pac12Insider.us@SD">
+    <display-name>Pac-12 Insider (1080p)</display-name>
+  </channel>
+  <channel id="PacificIslandNetwork.us@HD">
+    <display-name>Pacific Island Network (1080p)</display-name>
+  </channel>
+  <channel id="PalmBeachesTV.us@SD">
+    <display-name>Palm Beaches TV (720p)</display-name>
+  </channel>
+  <channel id="ParamountNetwork.us@East">
+    <display-name>Paramount Network (432p)</display-name>
+  </channel>
+  <channel id="PayvandTV.us@SD">
+    <display-name>Payvand TV (United States) (720p)</display-name>
+  </channel>
+  <channel id="PBSAntiquesRoadshow.us@SD">
+    <display-name>PBS Antiques Roadshow (1080p)</display-name>
+  </channel>
+  <channel id="PBSKids.us@SD">
+    <display-name>PBS Kids (720p)</display-name>
+  </channel>
+  <channel id="PBSKidsEasternCentral.us@SD">
+    <display-name>PBS Kids Eastern/Central (720p)</display-name>
+  </channel>
+  <channel id="PBSKidsMountain.us@SD">
+    <display-name>PBS Kids Mountain (1080p)</display-name>
+  </channel>
+  <channel id="PBSKidsPacific.us@SD">
+    <display-name>PBS Kids Pacific (1080p)</display-name>
+  </channel>
+  <channel id="PBSNature.us@SD">
+    <display-name>PBS Nature (1080p)</display-name>
+  </channel>
+  <channel id="PBSTravel.us@SD">
+    <display-name>PBS Travel (1080p)</display-name>
+  </channel>
+  <channel id="PeopleAreAwesome.us@SD">
+    <display-name>People Are Awesome (1080p)</display-name>
+  </channel>
+  <channel id="PGATour.us@SD">
+    <display-name>PGA Tour (1080p)</display-name>
+  </channel>
+  <channel id="PixLTV.us@SD">
+    <display-name>PixL TV</display-name>
+  </channel>
+  <channel id="Placid.us@EastHD">
+    <display-name>Placid (1080p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="PlutoTVSanctuary.us@SD">
+    <display-name>Pluto TV Sanctuary</display-name>
+  </channel>
+  <channel id="PlutoTVWipeout.us@SD">
+    <display-name>Pluto TV Wipeout</display-name>
+  </channel>
+  <channel id="pocketwatch.us@SD">
+    <display-name>pocket.watch (1080p)</display-name>
+  </channel>
+  <channel id="PoconoTelevisionNetwork.us@HD">
+    <display-name>Pocono Television Network (1080p)</display-name>
+  </channel>
+  <channel id="PopstarTV.us@SD">
+    <display-name>Popstar! TV (1080p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="Portlandia.us@SD">
+    <display-name>Portlandia (720p)</display-name>
+  </channel>
+  <channel id="PositivTV.us@SD">
+    <display-name>Positiv TV (1080p)</display-name>
+  </channel>
+  <channel id="PowerNationTV.us@SD">
+    <display-name>PowerNation TV (1080p)</display-name>
+  </channel>
+  <channel id="PursuitChannel.us@SD">
+    <display-name>Pursuit Channel (720p)</display-name>
+  </channel>
+  <channel id="PursuitUP.us@SD">
+    <display-name>PursuitUP (1080p)</display-name>
+  </channel>
+  <channel id="QVC2.us@SD">
+    <display-name>QVC2 (720p)</display-name>
+  </channel>
+  <channel id="QVC3.us@SD">
+    <display-name>QVC3 (1080p)</display-name>
+  </channel>
+  <channel id="QVC.us@SD">
+    <display-name>QVC (United States) (720p)</display-name>
+  </channel>
+  <channel id="RainbowRuby.us@SD">
+    <display-name>Rainbow Ruby (720p)</display-name>
+  </channel>
+  <channel id="RallyTV.us@SD">
+    <display-name>Rally TV (1080p)</display-name>
+  </channel>
+  <channel id="RealAmericasVoice.us@SD">
+    <display-name>Real America's Voice (1080p)</display-name>
+  </channel>
+  <channel id="RealWild.uk@SD">
+    <display-name>Real Wild (1080p)</display-name>
+  </channel>
+  <channel id="RedApple21.us@SD">
+    <display-name>Red Apple 21 (480p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="RedBullTV.at@US">
+    <display-name>Red Bull TV US (1080p)</display-name>
+  </channel>
+  <channel id="Reelz.us@SD">
+    <display-name>Reelz (720p)</display-name>
+  </channel>
+  <channel id="RetroTV.us@East">
+    <display-name>Retro TV (720p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="RetroCrush.us@SD">
+    <display-name>RetroCrush (1080p)</display-name>
+  </channel>
+  <channel id="ReutersTV.us@SD">
+    <display-name>Reuters TV (1080p)</display-name>
+  </channel>
+  <channel id="RevandRoll.us@SD">
+    <display-name>Rev and Roll (720p)</display-name>
+  </channel>
+  <channel id="REVNAction.us@SD">
+    <display-name>REV'N Action (720p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="Revolt.us@SD">
+    <display-name>Revolt (720p)</display-name>
+  </channel>
+  <channel id="Revry.us@SD">
+    <display-name>Revry (1080p)</display-name>
+  </channel>
+  <channel id="RevryLatinX.us@SD">
+    <display-name>Revry LatinX (720p)</display-name>
+  </channel>
+  <channel id="RevryNews.us@SD">
+    <display-name>Revry News (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="RevryQueer.us@SD">
+    <display-name>Revry Queer (720p)</display-name>
+  </channel>
+  <channel id="RFDTV.us@SD">
+    <display-name>RFD-TV</display-name>
+  </channel>
+  <channel id="RiffTrax.us@US">
+    <display-name>RiffTrax (720p)</display-name>
+  </channel>
+  <channel id="RightNowTV.us@SD">
+    <display-name>Right Now TV (720p)</display-name>
+  </channel>
+  <channel id="Roar.us@SD">
+    <display-name>Roar (1080p)</display-name>
+  </channel>
+  <channel id="RTRPlaneta.ru@US">
+    <display-name>RTR-Planeta US (720p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="Runtime.us@SD">
+    <display-name>Runtime (720p)</display-name>
+  </channel>
+  <channel id="RVTV.us@HD">
+    <display-name>RVTV (1080p)</display-name>
+  </channel>
+  <channel id="RyanandFriends.us@SD">
+    <display-name>Ryan and Friends (1080p)</display-name>
+  </channel>
+  <channel id="SCorbyTV.us@HD">
+    <display-name>S Corby TV (480p)</display-name>
+  </channel>
+  <channel id="SFree.us@HD">
+    <display-name>S Free! (360p)</display-name>
+  </channel>
+  <channel id="SKPop.us@HD">
+    <display-name>S KPop! (480p)</display-name>
+  </channel>
+  <channel id="SMetroTV.us@HD">
+    <display-name>S Metro TV (360p)</display-name>
+  </channel>
+  <channel id="SPlayEvent.us@HD">
+    <display-name>S Play Event (1080p)</display-name>
+  </channel>
+  <channel id="SPremium.us@HD">
+    <display-name>S Premium! HD (360p)</display-name>
+  </channel>
+  <channel id="SalemNewsChannel.us@SD">
+    <display-name>Salem News Channel (1080p)</display-name>
+  </channel>
+  <channel id="SamsungWildlife.us@SD">
+    <display-name>Samsung Wildlife (720p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="SchwabNetwork.us@SD">
+    <display-name>Schwab Network (1080p)</display-name>
+  </channel>
+  <channel id="ScientologyNetwork.us@SD">
+    <display-name>Scientology Network (1080p)</display-name>
+  </channel>
+  <channel id="ScreenDreams.us@SD">
+    <display-name>Screen Dreams (720p)</display-name>
+  </channel>
+  <channel id="ScrippsNews.us@SD">
+    <display-name>Scripps News (1080p)</display-name>
+  </channel>
+  <channel id="SECNetwork.us@SD">
+    <display-name>SEC Network (1080p)</display-name>
+  </channel>
+  <channel id="SGTN49.us@SD">
+    <display-name>SGTN-49 (720p)</display-name>
+  </channel>
+  <channel id="ShemarooBollywood.us@SD">
+    <display-name>Shemaroo Bollywood (1080p)</display-name>
+  </channel>
+  <channel id="ShopLC.us@SD">
+    <display-name>Shop LC (1080p)</display-name>
+  </channel>
+  <channel id="ShoutFactoryTV.us@SD">
+    <display-name>Shout! Factory TV (1080p)</display-name>
+  </channel>
+  <channel id="ShowtimeFamilyZone.us@East">
+    <display-name>Showtime Family Zone (720p)</display-name>
+  </channel>
+  <channel id="SkwadPlay.us@SD">
+    <display-name>Skwad Play (1080p)</display-name>
+  </channel>
+  <channel id="SlopesTV.us@SD">
+    <display-name>Slopes TV (720p)</display-name>
+  </channel>
+  <channel id="SmartLifeStyleTV.us@SD">
+    <display-name>Smart LifeStyle TV (720p)</display-name>
+  </channel>
+  <channel id="SmurfTV.us@SD">
+    <display-name>Smurf TV (480p)</display-name>
+  </channel>
+  <channel id="SNLVault.us@SD">
+    <display-name>SNL Vault (1080p)</display-name>
+  </channel>
+  <channel id="SonicTV.us@SD">
+    <display-name>Sonic TV (720p)</display-name>
+  </channel>
+  <channel id="SportsGrid.us@SD">
+    <display-name>SportsGrid (1080p)</display-name>
+  </channel>
+  <channel id="Stadium.us@SD">
+    <display-name>Stadium (720p)</display-name>
+  </channel>
+  <channel id="StarzCinema.us@East">
+    <display-name>Starz Cinema (720p)</display-name>
+  </channel>
+  <channel id="StarzComedy.us@East">
+    <display-name>Starz Comedy (1080p)</display-name>
+  </channel>
+  <channel id="StarzEncoreSpanish.us@East">
+    <display-name>Starz Encore Spanish (720p)</display-name>
+  </channel>
+  <channel id="StarzKidsFamily.us@East">
+    <display-name>Starz Kids &amp; Family (1080p)</display-name>
+  </channel>
+  <channel id="StingrayGreatestHolidayHits.us@SD">
+    <display-name>Stingray Greatest Holiday Hits</display-name>
+  </channel>
+  <channel id="StoriesbyAMC.us@SD">
+    <display-name>Stories by AMC</display-name>
+  </channel>
+  <channel id="StrykTV.us@HD">
+    <display-name>Stryk TV (1080p)</display-name>
+  </channel>
+  <channel id="STV.us@HD">
+    <display-name>STV (United States) (360p)</display-name>
+  </channel>
+  <channel id="SuperSimpleSongs.us@SD">
+    <display-name>Super Simple Songs (1080p)</display-name>
+  </channel>
+  <channel id="Survivor.us@SD">
+    <display-name>Survivor (1080p)</display-name>
+  </channel>
+  <channel id="SwamijiTVAmerican.at@SD">
+    <display-name>Swamiji TV American (1080p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="SwerveCombat.us@SD">
+    <display-name>Swerve Combat (1080p)</display-name>
+  </channel>
+  <channel id="SwerveSports.us@SD">
+    <display-name>Swerve Sports (720p)</display-name>
+  </channel>
+  <channel id="SYFY.us@East">
+    <display-name>SYFY (720p)</display-name>
+  </channel>
+  <channel id="TaiwanPlusTV.tw@SD">
+    <display-name>Taiwan Plus TV (1080p)</display-name>
+  </channel>
+  <channel id="TalkinLiveClassicsTV.us@SD">
+    <display-name>Talkin Live Classics TV (480p)</display-name>
+  </channel>
+  <channel id="Tastemade.us@US">
+    <display-name>Tastemade (1080p)</display-name>
+  </channel>
+  <channel id="TastemadeTravel.us@SD">
+    <display-name>Tastemade Travel (1080p)</display-name>
+  </channel>
+  <channel id="TBNArmenia.us@SD">
+    <display-name>TBN Armenia</display-name>
+  </channel>
+  <channel id="TBNPacific.us@SD">
+    <display-name>TBN Pacific</display-name>
+  </channel>
+  <channel id="TBNUkraine.us@SD">
+    <display-name>TBN Ukraine (720p)</display-name>
+  </channel>
+  <channel id="TBS.us@East">
+    <display-name>TBS (720p)</display-name>
+  </channel>
+  <channel id="TCT.us@SD">
+    <display-name>TCT (1080p)</display-name>
+  </channel>
+  <channel id="TED.us@SD">
+    <display-name>TED (1080p)</display-name>
+  </channel>
+  <channel id="TelePam.us@SD">
+    <display-name>Tele Pam (1080p)</display-name>
+  </channel>
+  <channel id="Telemundo.us@East">
+    <display-name>Telemundo (720p)</display-name>
+  </channel>
+  <channel id="Telemundo.us@EastHD">
+    <display-name>Telemundo East HD (1080p)</display-name>
+  </channel>
+  <channel id="Telemundo.us@West">
+    <display-name>Telemundo West (2160p)</display-name>
+  </channel>
+  <channel id="TennisChannel2.us@SD">
+    <display-name>Tennis Channel 2 (1080p)</display-name>
+  </channel>
+  <channel id="TennisChannel.us@SD">
+    <display-name>Tennis Channel (1080p)</display-name>
+  </channel>
+  <channel id="TerraMaterWILD.de@English">
+    <display-name>Terra Mater WILD English (1080p)</display-name>
+  </channel>
+  <channel id="TGJunior.us@SD">
+    <display-name>TG Junior (720p)</display-name>
+  </channel>
+  <channel id="TheArchive.us@SD">
+    <display-name>The Archive (1080p)</display-name>
+  </channel>
+  <channel id="TheAsylum.us@US">
+    <display-name>The Asylum (1080p)</display-name>
+  </channel>
+  <channel id="TheBobRossChannel.us@SD">
+    <display-name>The Bob Ross Channel (720p)</display-name>
+  </channel>
+  <channel id="TheCarolBurnettShow.us@SD">
+    <display-name>The Carol Burnett Show (1080p)</display-name>
+  </channel>
+  <channel id="TheChatShowChannel.uk@SD">
+    <display-name>The Chat Show Channel (1080p)</display-name>
+  </channel>
+  <channel id="TheConners.us@SD">
+    <display-name>The Conners</display-name>
+  </channel>
+  <channel id="TheCountryNetwork.us@SD">
+    <display-name>The Country Network (1080p)</display-name>
+  </channel>
+  <channel id="TheDesignNetwork.us@SD">
+    <display-name>The Design Network (1080p)</display-name>
+  </channel>
+  <channel id="TheDoctors.us@HD">
+    <display-name>The Doctors (720p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="TheFilmDetective.us@SD">
+    <display-name>The Film Detective (720p)</display-name>
+  </channel>
+  <channel id="TheFirstTV.us@SD">
+    <display-name>The First TV (1080p)</display-name>
+  </channel>
+  <channel id="TheGrahamNortonShow.uk@SD">
+    <display-name>The Graham Norton Show (1080p)</display-name>
+  </channel>
+  <channel id="TheHillTV.us@SD">
+    <display-name>The Hill TV (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="TheJamieOliverChannel.us@SD">
+    <display-name>The Jamie Oliver Channel (1080p)</display-name>
+  </channel>
+  <channel id="TheNest.us@SD">
+    <display-name>The Nest (1080p)</display-name>
+  </channel>
+  <channel id="ThePetCollective.us@US">
+    <display-name>The Pet Collective (720p)</display-name>
+  </channel>
+  <channel id="ThePriceIsRightTheBarkerEra.us@SD">
+    <display-name>The Price Is Right: The Barker Era (720p)</display-name>
+  </channel>
+  <channel id="TheWalkTV.us@SD">
+    <display-name>The Walk TV</display-name>
+  </channel>
+  <channel id="TheYoungTurks.us@SD">
+    <display-name>The Young Turks (720p)</display-name>
+  </channel>
+  <channel id="ThisOldHouse.us@SD">
+    <display-name>This Old House (1080p)</display-name>
+  </channel>
+  <channel id="TimelessTV.us@SD">
+    <display-name>Timeless TV</display-name>
+  </channel>
+  <channel id="TinyHouseNation.us@SD">
+    <display-name>Tiny House Nation (720p)</display-name>
+  </channel>
+  <channel id="TMZ.us@SD">
+    <display-name>TMZ (720p)</display-name>
+  </channel>
+  <channel id="TNT.us@East">
+    <display-name>TNT (United States) (720p)</display-name>
+  </channel>
+  <channel id="TODAYAllDay.us@SD">
+    <display-name>TODAY All Day (1080p)</display-name>
+  </channel>
+  <channel id="TomAndJerry.do@HD">
+    <display-name>Tom And Jerry (720p)</display-name>
+  </channel>
+  <channel id="ToonamiAftermath.us@East">
+    <display-name>Toonami Aftermath (480p)</display-name>
+  </channel>
+  <channel id="ToonamiAftermath.us@West">
+    <display-name>Toonami Aftermath West (480p)</display-name>
+  </channel>
+  <channel id="Tooncast.us@SD">
+    <display-name>Tooncast (1080p)</display-name>
+  </channel>
+  <channel id="ToonGoggles.us@SD">
+    <display-name>ToonGoggles (720p)</display-name>
+  </channel>
+  <channel id="TopStoriesbyNewsy.us@SD">
+    <display-name>Top Stories by Newsy (720p)</display-name>
+  </channel>
+  <channel id="TransformersTV.us@SD">
+    <display-name>Transformers TV (720p)</display-name>
+  </channel>
+  <channel id="TribecaChannel.us@SD">
+    <display-name>Tribeca Channel (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="TrueCrimeNetwork.us@SD">
+    <display-name>True Crime Network (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="TrueCrimeNow.us@SD">
+    <display-name>True Crime Now (1080p)</display-name>
+  </channel>
+  <channel id="TrueHistory.us@SD">
+    <display-name>True History (720p)</display-name>
+  </channel>
+  <channel id="truTV.us@East">
+    <display-name>truTV (720p)</display-name>
+  </channel>
+  <channel id="TSTV.us@SD">
+    <display-name>TSTV (720p)</display-name>
+  </channel>
+  <channel id="TurismoHD.do@HD">
+    <display-name>Turismo HD (720p)</display-name>
+  </channel>
+  <channel id="TVPanou.ht@SD">
+    <display-name>TV Panou (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="TVSBowlingNetwork.us@SD">
+    <display-name>TVS Bowling Network (720p)</display-name>
+  </channel>
+  <channel id="TVSBoxing.us@SD">
+    <display-name>TVS Boxing (360p)</display-name>
+  </channel>
+  <channel id="TVSCipherNetwork.us@SD">
+    <display-name>TVS Cipher Network (360p)</display-name>
+  </channel>
+  <channel id="TVSClassicMovies.us@SD">
+    <display-name>TVS Classic Movies (288p)</display-name>
+  </channel>
+  <channel id="TVSClassicSports.us@SD">
+    <display-name>TVS Classic Sports (360p)</display-name>
+  </channel>
+  <channel id="TVSComedyNetwork.us@SD">
+    <display-name>TVS Comedy Network (720p)</display-name>
+  </channel>
+  <channel id="TVSConsumerDirect.us@SD">
+    <display-name>TVS Consumer Direct (720p)</display-name>
+  </channel>
+  <channel id="TVSDriveInMovie.us@SD">
+    <display-name>TVS Drive In Movie (360p)</display-name>
+  </channel>
+  <channel id="TVSFamilyChannel.us@SD">
+    <display-name>TVS Family Channel (360p)</display-name>
+  </channel>
+  <channel id="TVSFilmNoirNetwork.us@SD">
+    <display-name>TVS Film Noir Network (720p)</display-name>
+  </channel>
+  <channel id="TVSFlashbackNetwork.us@SD">
+    <display-name>TVS Flashback Network (360p)</display-name>
+  </channel>
+  <channel id="TVSHiTops.us@SD">
+    <display-name>TVS Hi Tops (720p)</display-name>
+  </channel>
+  <channel id="TVSHollywoodHistory.us@SD">
+    <display-name>TVS Hollywood History (582p)</display-name>
+  </channel>
+  <channel id="TVSMainstreet.us@SD">
+    <display-name>TVS Mainstreet (360p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="TVSMusicNetwork.us@SD">
+    <display-name>TVS Music Network (720p)</display-name>
+  </channel>
+  <channel id="TVSNostalgia.us@SD">
+    <display-name>TVS Nostalgia (472p)</display-name>
+  </channel>
+  <channel id="TVSNostalgiaMovies.us@SD">
+    <display-name>TVS Nostalgia Movies (480p)</display-name>
+  </channel>
+  <channel id="TVSPetParadeNetwork.us@SD">
+    <display-name>TVS Pet Parade Network (360p)</display-name>
+  </channel>
+  <channel id="TVSPinballNetwork.us@SD">
+    <display-name>TVS Pinball Network (480p)</display-name>
+  </channel>
+  <channel id="TVSQuizShowNetwork.us@SD">
+    <display-name>TVS Quiz Show Network (720p)</display-name>
+  </channel>
+  <channel id="TVSSelectNetwork.us@SD">
+    <display-name>TVS Select Network (720p)</display-name>
+  </channel>
+  <channel id="TVSSports.us@SD">
+    <display-name>TVS Sports (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="TVSSportsBureau.us@SD">
+    <display-name>TVS Sports Bureau (720p)</display-name>
+  </channel>
+  <channel id="TVSTalkNetwork.us@SD">
+    <display-name>TVS Talk Network (360p)</display-name>
+  </channel>
+  <channel id="TVSTallyHo.us@SD">
+    <display-name>TVS Tally Ho (360p)</display-name>
+  </channel>
+  <channel id="TVSTavern.us@SD">
+    <display-name>TVS Tavern (480p)</display-name>
+  </channel>
+  <channel id="TVSTelevisionNetwork.us@SD">
+    <display-name>TVS Television Network (480p)</display-name>
+  </channel>
+  <channel id="TVSTravelNetwork.us@SD">
+    <display-name>TVS Travel Network (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="TVSTurbo.us@SD">
+    <display-name>TVS Turbo (360p)</display-name>
+  </channel>
+  <channel id="TVSVintageNetwork.us@SD">
+    <display-name>TVS Vintage Network (360p)</display-name>
+  </channel>
+  <channel id="TVSWesternMovie.us@SD">
+    <display-name>TVS Western Movie (270p)</display-name>
+  </channel>
+  <channel id="TVSWomenSports.us@SD">
+    <display-name>TVS Women Sports (720p)</display-name>
+  </channel>
+  <channel id="UCTV.us@SD">
+    <display-name>UCTV (720p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="Unbeaten.us@SD">
+    <display-name>Unbeaten (1080p)</display-name>
+  </channel>
+  <channel id="Unidentified.us@SD">
+    <display-name>Unidentified (1080p)</display-name>
+  </channel>
+  <channel id="UniMas.us@Central">
+    <display-name>UniMas Central (720p)</display-name>
+  </channel>
+  <channel id="UniversalCinema.us@SD">
+    <display-name>Universal Cinema (1080p)</display-name>
+  </channel>
+  <channel id="UniversalComedy.us@SD">
+    <display-name>Universal Comedy (1080p)</display-name>
+  </channel>
+  <channel id="UniversalCrime.us@East">
+    <display-name>Universal Crime (1080p)</display-name>
+  </channel>
+  <channel id="Univision.us@East">
+    <display-name>Univision (1080p)</display-name>
+  </channel>
+  <channel id="Univision.us@EastHD">
+    <display-name>Univision East HD (1080p)</display-name>
+  </channel>
+  <channel id="Univision.us@West">
+    <display-name>Univision West (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="UnsolvedMysteries.us@US">
+    <display-name>Unsolved Mysteries (720p)</display-name>
+  </channel>
+  <channel id="USANetwork.us@East">
+    <display-name>USA Network (720p)</display-name>
+  </channel>
+  <channel id="USATODAY.us@SD">
+    <display-name>USA TODAY (1080p)</display-name>
+  </channel>
+  <channel id="VegasLifeTV.us@HD">
+    <display-name>Vegas Life TV (1080p)</display-name>
+  </channel>
+  <channel id="Vevo2K.us@SD">
+    <display-name>Vevo 2K (1080p)</display-name>
+  </channel>
+  <channel id="Vevo70s.us@SD">
+    <display-name>Vevo '70s (1080p)</display-name>
+  </channel>
+  <channel id="Vevo80s.us@SD">
+    <display-name>Vevo '80s (1080p)</display-name>
+  </channel>
+  <channel id="Vevo90s.us@SD">
+    <display-name>Vevo '90s (1080p)</display-name>
+  </channel>
+  <channel id="VevoCountry.us@SD">
+    <display-name>Vevo Country (1080p)</display-name>
+  </channel>
+  <channel id="VevoHipHop.us@SD">
+    <display-name>Vevo Hip Hop (1080p)</display-name>
+  </channel>
+  <channel id="VevoLatino.us@SD">
+    <display-name>Vevo Latino (1080p)</display-name>
+  </channel>
+  <channel id="VevoPop.us@SD">
+    <display-name>Vevo Pop (1080p)</display-name>
+  </channel>
+  <channel id="VevoRB.us@SD">
+    <display-name>Vevo R&amp;B (1080p)</display-name>
+  </channel>
+  <channel id="VevoRetroRock.us@SD">
+    <display-name>Vevo Retro Rock (1080p)</display-name>
+  </channel>
+  <channel id="VH1.us@East">
+    <display-name>VH1 (432p)</display-name>
+  </channel>
+  <channel id="VICETV.us@SD">
+    <display-name>VICE TV (1080p)</display-name>
+  </channel>
+  <channel id="VideoMixTV.us@SD">
+    <display-name>Video Mix TV</display-name>
+  </channel>
+  <channel id="VoATV.us@SD">
+    <display-name>VoA TV (1080p)</display-name>
+  </channel>
+  <channel id="VSiN.us@SD">
+    <display-name>VSiN (720p)</display-name>
+  </channel>
+  <channel id="WantedDeadorAlive.us@SD">
+    <display-name>Wanted: Dead or Alive (720p)</display-name>
+  </channel>
+  <channel id="WatchitKID.us@SD">
+    <display-name>Watch it KID! (720p)</display-name>
+  </channel>
+  <channel id="WatchitScream.us@SD">
+    <display-name>Watch it Scream! (720p)</display-name>
+  </channel>
+  <channel id="WaypointTV.us@SD">
+    <display-name>Waypoint TV (1080p)</display-name>
+  </channel>
+  <channel id="WeTV.us@East">
+    <display-name>We TV (1080p)</display-name>
+  </channel>
+  <channel id="WeatherNation.us@SD">
+    <display-name>WeatherNation (1080p)</display-name>
+  </channel>
+  <channel id="WeatherSpy.us@SD">
+    <display-name>WeatherSpy (United States) (720p)</display-name>
+  </channel>
+  <channel id="WeedsNurseJackie.us@SD">
+    <display-name>Weeds &amp; Nurse Jackie (720p)</display-name>
+  </channel>
+  <channel id="Westerns4U.us@SD">
+    <display-name>Westerns 4U (1080p)</display-name>
+  </channel>
+  <channel id="Whiplash.us@HD">
+    <display-name>Whiplash (720p)</display-name>
+  </channel>
+  <channel id="WhiplashCinema.us@SD">
+    <display-name>Whiplash Cinema (480p)</display-name>
+  </channel>
+  <channel id="WhiplashII.us@SD">
+    <display-name>Whiplash II (480p)</display-name>
+  </channel>
+  <channel id="WhitePlainsCommunityMedia.us@SD">
+    <display-name>White Plains Community Media (360p)</display-name>
+  </channel>
+  <channel id="Willow.us@SD">
+    <display-name>Willow (720p)</display-name>
+  </channel>
+  <channel id="WillowSports.us@SD">
+    <display-name>Willow Sports (1080p)</display-name>
+  </channel>
+  <channel id="WindowTV.us@SD">
+    <display-name>Window TV (720p)</display-name>
+  </channel>
+  <channel id="WineWatchesWhiskey.us@HD">
+    <display-name>Wine Watches &amp; Whiskey (1080p)</display-name>
+  </channel>
+  <channel id="WipeoutXtra.us@SD">
+    <display-name>Wipeout Xtra (1080p)</display-name>
+  </channel>
+  <channel id="Wired2FishTV.us@SD">
+    <display-name>Wired2FishTV (720p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="WLNGRadio.us@SD">
+    <display-name>WLNG Radio (410p) [Not 24/7]</display-name>
+  </channel>
+  <channel id="WomensSportsNetwork.us@SD">
+    <display-name>Women's Sports Network (1080p)</display-name>
+  </channel>
+  <channel id="WorldChannel.us@SD">
+    <display-name>World Channel (1080p)</display-name>
+  </channel>
+  <channel id="WorldHarvestTV.us@SD">
+    <display-name>World Harvest TV (360p)</display-name>
+  </channel>
+  <channel id="WorldPokerTour.us@US">
+    <display-name>World Poker Tour (1080p)</display-name>
+  </channel>
+  <channel id="WSOCNow.us@SD">
+    <display-name>WSOC Now (1080p) [Geo-blocked]</display-name>
+  </channel>
+  <channel id="WuTangCollection.us@SD">
+    <display-name>Wu Tang Collection (720p)</display-name>
+  </channel>
+  <channel id="WVCULP.us@SD">
+    <display-name>WVCU-LP (1080p)</display-name>
+  </channel>
+  <channel id="WWENetwork.us@SD">
+    <display-name>WWE Network (1080p)</display-name>
+  </channel>
+  <channel id="XFCTV.us@SD">
+    <display-name>XFC TV (720p)</display-name>
+  </channel>
+  <channel id="XITE90sThrowback.us@SD">
+    <display-name>XITE 90's Throwback (1080p)</display-name>
+  </channel>
+  <channel id="XITEJustChill.nl@US">
+    <display-name>XITE Just Chill (1080p)</display-name>
+  </channel>
+  <channel id="XITEReggaeVibes.nl@HD">
+    <display-name>XITE Reggae Vibes (1080p)</display-name>
+  </channel>
+  <channel id="XITERockxMetal.nl@US">
+    <display-name>XITE Rock x Metal (1080p)</display-name>
+  </channel>
+  <channel id="XploreTV.us@SD">
+    <display-name>Xplore TV (1080p)</display-name>
+  </channel>
+  <channel id="YahooFinance.us@SD">
+    <display-name>Yahoo! Finance (1080p)</display-name>
+  </channel>
+  <channel id="YesNetwork.us@SD">
+    <display-name>Yes Network (720p)</display-name>
+  </channel>
+  <channel id="YoungHollywood.us@SD">
+    <display-name>Young Hollywood (720p)</display-name>
+  </channel>
+  <channel id="YTATV.us@SD">
+    <display-name>YTA TV (720p)</display-name>
+  </channel>
+  <channel id="YuGiOh.us@SD">
+    <display-name>Yu-Gi-Oh! (1080p)</display-name>
+  </channel>
+  <channel id="YuGiOhenespanol.us@SD">
+    <display-name>Yu-Gi-Oh! en espanol (1080p)</display-name>
+  </channel>
   <programme channel="LittleStarsUniverse.us@SD" start="20261008184900 +0000" stop="20261008191700 +0000">
     <title>The Adventures of Paddington Bear: Paddington at the Wheel/Howdy Paddington/A Shopping Expedition</title>
     <episode-num system="onscreen">S01E07</episode-num>
@@ -1049,20 +2933,6 @@
     <sub-title>Adventure at the Seaside/Paddington and the Pyramid Selling/ Paddington and the Finishing Touch</sub-title>
     <category>Series</category>
     <category>Children</category>
-  </programme>
-  <programme channel="ForeverKids.us@SD" start="20261008182600 +0000" stop="20261008185600 +0000">
-    <title>H2O: Just Add Water: Valentine's Day</title>
-    <episode-num system="onscreen">S03E04</episode-num>
-    <episode-num system="pluto">67b777797d853fea520424ae</episode-num>
-    <episode-num system="original-air-date">20250131000000 +0000</episode-num>
-    <desc>Cleo is forced to put Lewis' plans for romance on hold to restrain Kim's out-of-control love life. During this time, Don meets Samantha, a National Parks manager, and they start dating.</desc>
-    <icon src="https://images.pluto.tv/series/67b6000f96446070bdcad81c/tile_1782258481588.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20250131</date>
-    <series-id system="pluto">67b6000f96446070bdcad81c</series-id>
-    <sub-title>Valentine's Day</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-    <category>Drama</category>
   </programme>
   <programme channel="ForeverKids.us@SD" start="20261008185600 +0000" stop="20261008192600 +0000">
     <title>H2O: Just Add Water: Big Ideas</title>
@@ -36067,1890 +37937,6 @@
     <category>Political Comedies</category>
     <category>Movie</category>
   </programme>
-  <channel id="24HourFreeMovies.us@SD">
-    <display-name>24 Hour Free Movies (720p)</display-name>
-  </channel>
-  <channel id="30ADarcizzleOffshore.us@SD">
-    <display-name>30A Darcizzle Offshore (720p)</display-name>
-  </channel>
-  <channel id="30AGeorgiaHollywoodReview.us@SD">
-    <display-name>30A Georgia Hollywood Review (720p)</display-name>
-  </channel>
-  <channel id="30AGolfKingdom.us@SD">
-    <display-name>30A Golf Kingdom (720p)</display-name>
-  </channel>
-  <channel id="30AInvestmentPitch.us@SD">
-    <display-name>30A Investment Pitch (720p)</display-name>
-  </channel>
-  <channel id="30ALionelNation.us@SD">
-    <display-name>30A Lionel Nation</display-name>
-  </channel>
-  <channel id="30ALoomeredTV.us@SD">
-    <display-name>30A Loomered TV</display-name>
-  </channel>
-  <channel id="30ALuxeLifeDiscovered.us@SD">
-    <display-name>30A Luxe Life Discovered (720p)</display-name>
-  </channel>
-  <channel id="30AMusic.us@SD">
-    <display-name>30A Music (720p)</display-name>
-  </channel>
-  <channel id="30ARidiculousTV.us@SD">
-    <display-name>30A Ridiculous TV (720p)</display-name>
-  </channel>
-  <channel id="30ASidewalks.us@SD">
-    <display-name>30A Sidewalks (720p)</display-name>
-  </channel>
-  <channel id="30ATelevisionChannel.us@SD">
-    <display-name>30A Television Channel (720p)</display-name>
-  </channel>
-  <channel id="30ATheBeachShow.us@SD">
-    <display-name>30A The Beach Show (720p)</display-name>
-  </channel>
-  <channel id="30ATVClassicMovies.us@SD">
-    <display-name>30A TV Classic Movies (720p)</display-name>
-  </channel>
-  <channel id="30AWeLoveCars.us@SD">
-    <display-name>30A We Love Cars (720p)</display-name>
-  </channel>
-  <channel id="48Hours.us@US">
-    <display-name>48 Hours (1080p)</display-name>
-  </channel>
-  <channel id="AE.us@East">
-    <display-name>A&amp;E (720p)</display-name>
-  </channel>
-  <channel id="ABCNewsLive1.us@SD">
-    <display-name>ABC News Live 1 (720p)</display-name>
-  </channel>
-  <channel id="ABCNewsLive2.us@SD">
-    <display-name>ABC News Live 2 (720p)</display-name>
-  </channel>
-  <channel id="ABCNewsLive3.us@SD">
-    <display-name>ABC News Live 3 (720p)</display-name>
-  </channel>
-  <channel id="ABCNewsLive4.us@SD">
-    <display-name>ABC News Live 4 (720p)</display-name>
-  </channel>
-  <channel id="ABCNewsLive5.us@SD">
-    <display-name>ABC News Live 5 (720p)</display-name>
-  </channel>
-  <channel id="ABCNewsLive6.us@SD">
-    <display-name>ABC News Live 6 (720p)</display-name>
-  </channel>
-  <channel id="ABCNewsLive7.us@SD">
-    <display-name>ABC News Live 7 (720p)</display-name>
-  </channel>
-  <channel id="ABCNewsLive8.us@SD">
-    <display-name>ABC News Live 8 (720p)</display-name>
-  </channel>
-  <channel id="ABCNewsLive9.us@SD">
-    <display-name>ABC News Live 9 (720p)</display-name>
-  </channel>
-  <channel id="ABCNewsLive10.us@SD">
-    <display-name>ABC News Live 10 (720p)</display-name>
-  </channel>
-  <channel id="AbsoluteRealitybyWETV.us@SD">
-    <display-name>Absolute Reality by WE TV</display-name>
-  </channel>
-  <channel id="ACCDigitalNetwork.us@SD">
-    <display-name>ACC Digital Network (1080p)</display-name>
-  </channel>
-  <channel id="ACCNetwork.us@SD">
-    <display-name>ACC Network (720p)</display-name>
-  </channel>
-  <channel id="AccuWeatherNOW.us@SD">
-    <display-name>AccuWeather NOW (1080p)</display-name>
-  </channel>
-  <channel id="AceTV.us@SD">
-    <display-name>Ace TV (480p)</display-name>
-  </channel>
-  <channel id="AceTV.us@KCKSLD">
-    <display-name>Ace TV KCKS-LD (720p)</display-name>
-  </channel>
-  <channel id="AfroLandTV.us@SD">
-    <display-name>AfroLandTV (1080p)</display-name>
-  </channel>
-  <channel id="AFV.us@SD">
-    <display-name>AFV (720p)</display-name>
-  </channel>
-  <channel id="AKCTV.us@SD">
-    <display-name>AKC TV (1080p)</display-name>
-  </channel>
-  <channel id="AKCTVMeettheBreeds.us@SD">
-    <display-name>AKC TV Meet the Breeds</display-name>
-  </channel>
-  <channel id="AKCTVPuppies.us@SD">
-    <display-name>AKC TV Puppies</display-name>
-  </channel>
-  <channel id="AlabamaWeatherNetwork.us@SD">
-    <display-name>Alabama Weather Network (720p)</display-name>
-  </channel>
-  <channel id="AllWeddingsWEtv.us@SD">
-    <display-name>All Weddings WE tv</display-name>
-  </channel>
-  <channel id="ALLBLKGems.us@SD">
-    <display-name>ALLBLK Gems (720p)</display-name>
-  </channel>
-  <channel id="AlwaysFunnyVideos.us@SD">
-    <display-name>Always Funny Videos (720p)</display-name>
-  </channel>
-  <channel id="AMC.us@EastHD">
-    <display-name>AMC (United States) (720p)</display-name>
-  </channel>
-  <channel id="AmericasVoice.us@SD">
-    <display-name>America's Voice (720p)</display-name>
-  </channel>
-  <channel id="AmericanHorrors.us@SD">
-    <display-name>American Horrors (480p)</display-name>
-  </channel>
-  <channel id="Ameritrade.us@SD">
-    <display-name>Ameritrade (1080p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="AMGTV.us@SD">
-    <display-name>AMG TV (1080p)</display-name>
-  </channel>
-  <channel id="AMGATV.us@SD">
-    <display-name>AMGA TV (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="AngerManagementChannel.us@SD">
-    <display-name>Anger Management Channel (1080p)</display-name>
-  </channel>
-  <channel id="AnimationPlus.us@SD">
-    <display-name>Animation+ (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="AntiquesRoadTrip.us@SD">
-    <display-name>Antiques Road Trip (1080p)</display-name>
-  </channel>
-  <channel id="AntiquesRoadshowUK.us@SD">
-    <display-name>Antiques Roadshow UK (1080p)</display-name>
-  </channel>
-  <channel id="AreWeThereYet.us@SD">
-    <display-name>Are We There Yet? (1080p)</display-name>
-  </channel>
-  <channel id="ARTFLIXMovieClassics.us@SD">
-    <display-name>ARTFLIX Movie Classics (720p)</display-name>
-  </channel>
-  <channel id="AsianCultureTV.us@HD">
-    <display-name>Asian Culture TV (1080p)</display-name>
-  </channel>
-  <channel id="AsianCrush.us@SD">
-    <display-name>AsianCrush (1080p)</display-name>
-  </channel>
-  <channel id="AspireTVLife.us@SD">
-    <display-name>Aspire TV Life (1080p)</display-name>
-  </channel>
-  <channel id="AtHomewithFamilyHandyman.us@SD">
-    <display-name>At Home with Family Handyman (720p)</display-name>
-  </channel>
-  <channel id="AtlantaChannel.us@SD">
-    <display-name>Atlanta Channel (720p)</display-name>
-  </channel>
-  <channel id="Atlas.us@SD">
-    <display-name>Atlas (480p)</display-name>
-  </channel>
-  <channel id="AutenticHistory.de@SD">
-    <display-name>Autentic History (1080p)</display-name>
-  </channel>
-  <channel id="AutenticTravel.de@SD">
-    <display-name>Autentic Travel (1080p)</display-name>
-  </channel>
-  <channel id="AWE.us@SD">
-    <display-name>AWE (720p)</display-name>
-  </channel>
-  <channel id="AWEInternational.us@SD">
-    <display-name>AWE International (720p)</display-name>
-  </channel>
-  <channel id="AWEPlus.us@SD">
-    <display-name>AWE Plus (720p)</display-name>
-  </channel>
-  <channel id="AXSTV.us@SD">
-    <display-name>AXS TV (720p)</display-name>
-  </channel>
-  <channel id="BabySharkTV.us@SD">
-    <display-name>Baby Shark TV (1080p)</display-name>
-  </channel>
-  <channel id="BabyFirst.us@US">
-    <display-name>BabyFirst (720p)</display-name>
-  </channel>
-  <channel id="Backstage.us@SD">
-    <display-name>Backstage (1080p)</display-name>
-  </channel>
-  <channel id="BarkTV.us@SD">
-    <display-name>Bark TV (1080p)</display-name>
-  </channel>
-  <channel id="Baywatch.us@US">
-    <display-name>Baywatch (1080p)</display-name>
-  </channel>
-  <channel id="BBCAmerica.us@East">
-    <display-name>BBC America (720p)</display-name>
-  </channel>
-  <channel id="BBCEarth.uk@US">
-    <display-name>BBC Earth US (1080p)</display-name>
-  </channel>
-  <channel id="BBCFood.us@SD">
-    <display-name>BBC Food (1080p)</display-name>
-  </channel>
-  <channel id="BBCHomeGarden.us@SD">
-    <display-name>BBC Home &amp; Garden (1080p)</display-name>
-  </channel>
-  <channel id="BBCKids.us@SD">
-    <display-name>BBC Kids (720p)</display-name>
-  </channel>
-  <channel id="BeachTVFloridaAlabama.us@SD">
-    <display-name>Beach TV Florida &amp; Alabama (720p)</display-name>
-  </channel>
-  <channel id="BeachTVKeyWestFloridaKeys.us@SD">
-    <display-name>Beach TV Key West &amp; Florida Keys (720p)</display-name>
-  </channel>
-  <channel id="BeachTVMyrtleBeachTheGrandStrand.us@SD">
-    <display-name>Beach TV Myrtle Beach &amp; The Grand Strand (720p)</display-name>
-  </channel>
-  <channel id="BeachTVPanamaCity.us@SD">
-    <display-name>Beach TV Panama City (720p)</display-name>
-  </channel>
-  <channel id="beINSPORTSXTRA.us@SD">
-    <display-name>beIN SPORTS XTRA (1080p)</display-name>
-  </channel>
-  <channel id="BestofDrPhil.us@SD">
-    <display-name>Best of Dr Phil</display-name>
-  </channel>
-  <channel id="BetterHealthTV.us@SD">
-    <display-name>Better Health TV (480p)</display-name>
-  </channel>
-  <channel id="BetterLifeNatureChannel.us@SD">
-    <display-name>Better Life Nature Channel (480p)</display-name>
-  </channel>
-  <channel id="BigTenNetwork.us@SD">
-    <display-name>Big Ten Network (720p)</display-name>
-  </channel>
-  <channel id="BilliardTV.us@SD">
-    <display-name>Billiard TV (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="BizTV.us@SD">
-    <display-name>Biz TV (1080p)</display-name>
-  </channel>
-  <channel id="BlackNewsChannel.us@SD">
-    <display-name>Black News Channel (1080p)</display-name>
-  </channel>
-  <channel id="BloombergOriginals.us@US">
-    <display-name>Bloomberg Originals (1080p)</display-name>
-  </channel>
-  <channel id="BloombergTV.us@US">
-    <display-name>Bloomberg TV (1080p)</display-name>
-  </channel>
-  <channel id="BloombergTV.us@LiveEvent">
-    <display-name>Bloomberg TV Live Event (720p)</display-name>
-  </channel>
-  <channel id="BloombergTV.us@PoliticsLiveEvent">
-    <display-name>Bloomberg TV Politics Live Event (720p)</display-name>
-  </channel>
-  <channel id="bonappetit.us@SD">
-    <display-name>bon appetit (1080p)</display-name>
-  </channel>
-  <channel id="Bounce.us@SD">
-    <display-name>Bounce (720p)</display-name>
-  </channel>
-  <channel id="BounceXL.us@SD">
-    <display-name>Bounce XL (1080p)</display-name>
-  </channel>
-  <channel id="BratTV.us@SD">
-    <display-name>Brat TV (1080p)</display-name>
-  </channel>
-  <channel id="Bravo.us@East">
-    <display-name>Bravo (720p)</display-name>
-  </channel>
-  <channel id="BritBoxMysteries.us@SD">
-    <display-name>BritBox Mysteries (1080p)</display-name>
-  </channel>
-  <channel id="BusinessRockstars.us@SD">
-    <display-name>Business Rockstars (720p)</display-name>
-  </channel>
-  <channel id="Buzzr.us@SD">
-    <display-name>Buzzr (1080p)</display-name>
-  </channel>
-  <channel id="BYUTV.us@SD">
-    <display-name>BYU TV (1080p)</display-name>
-  </channel>
-  <channel id="CaliforniaMusicChannel.us@SD">
-    <display-name>California Music Channel (1080p)</display-name>
-  </channel>
-  <channel id="CameraSmileTV.us@SD">
-    <display-name>Camera Smile TV (480p)</display-name>
-  </channel>
-  <channel id="CampSpoopy.us@SD">
-    <display-name>Camp Spoopy (576p)</display-name>
-  </channel>
-  <channel id="CapitalCityConnectionMontgomery.us@SD">
-    <display-name>Capital City Connection Montgomery [Not 24/7]</display-name>
-  </channel>
-  <channel id="CBS.us@KCCI">
-    <display-name>CBS KCCI (720p)</display-name>
-  </channel>
-  <channel id="CBSNews247.us@SD">
-    <display-name>CBS News 24/7 (720p)</display-name>
-  </channel>
-  <channel id="CBSNewsBaltimore.us@SD">
-    <display-name>CBS News Baltimore (720p)</display-name>
-  </channel>
-  <channel id="CBSNewsBayArea.us@SD">
-    <display-name>CBS News Bay Area (720p)</display-name>
-  </channel>
-  <channel id="CBSNewsBoston.us@SD">
-    <display-name>CBS News Boston (720p)</display-name>
-  </channel>
-  <channel id="CBSNewsChicago.us@SD">
-    <display-name>CBS News Chicago (720p)</display-name>
-  </channel>
-  <channel id="CBSNewsColorado.us@SD">
-    <display-name>CBS News Colorado (720p)</display-name>
-  </channel>
-  <channel id="CBSNewsDetroit.us@SD">
-    <display-name>CBS News Detroit (720p)</display-name>
-  </channel>
-  <channel id="CBSNewsLosAngeles.us@SD">
-    <display-name>CBS News Los Angeles (720p)</display-name>
-  </channel>
-  <channel id="CBSNewsMiami.us@SD">
-    <display-name>CBS News Miami (720p)</display-name>
-  </channel>
-  <channel id="CBSNewsMinnesota.us@SD">
-    <display-name>CBS News Minnesota (720p)</display-name>
-  </channel>
-  <channel id="CBSNewsNewYork.us@SD">
-    <display-name>CBS News New York (720p)</display-name>
-  </channel>
-  <channel id="CBSNewsPhilly.us@SD">
-    <display-name>CBS News Philly (720p)</display-name>
-  </channel>
-  <channel id="CBSNewsPittsburgh.us@SD">
-    <display-name>CBS News Pittsburgh (720p)</display-name>
-  </channel>
-  <channel id="CBSNewsSacramento.us@SD">
-    <display-name>CBS News Sacramento (720p)</display-name>
-  </channel>
-  <channel id="CBSSportsGolazoNetwork.us@SD">
-    <display-name>CBS Sports Golazo Network (720p)</display-name>
-  </channel>
-  <channel id="CCTV.us@SD">
-    <display-name>CC-TV (720p)</display-name>
-  </channel>
-  <channel id="CelebrityNameGame.us@SD">
-    <display-name>Celebrity Name Game (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="CelebritySceneTV.us@SD">
-    <display-name>Celebrity Scene TV (720p)</display-name>
-  </channel>
-  <channel id="Channel10.us@SD">
-    <display-name>Channel 10 (United States) (720p)</display-name>
-  </channel>
-  <channel id="Charge.us@SD">
-    <display-name>Charge! (1080p)</display-name>
-  </channel>
-  <channel id="CheddarNews.us@SD">
-    <display-name>Cheddar News (1080p)</display-name>
-  </channel>
-  <channel id="ChefChampion.us@SD">
-    <display-name>Chef Champion (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="ChefRocShow.us@SD">
-    <display-name>Chef Roc Show (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="Choppertown.us@SD">
-    <display-name>Choppertown (720p)</display-name>
-  </channel>
-  <channel id="CineRomantico.us@SD">
-    <display-name>Cine Romantico (720p)</display-name>
-  </channel>
-  <channel id="CineSony.us@SD">
-    <display-name>Cine Sony (720p)</display-name>
-  </channel>
-  <channel id="Cinemax.us@West">
-    <display-name>Cinemax West (720p)</display-name>
-  </channel>
-  <channel id="CinemaxClassics.us@East">
-    <display-name>Cinemax Classics (1080p)</display-name>
-  </channel>
-  <channel id="CinemaxHits.us@East">
-    <display-name>Cinemax Hits (1080p)</display-name>
-  </channel>
-  <channel id="Cinevault80s.us@SD">
-    <display-name>Cinevault 80s (720p)</display-name>
-  </channel>
-  <channel id="CinevaultWesterns.us@SD">
-    <display-name>Cinevault Westerns (540p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="Circle.us@SD">
-    <display-name>Circle (1080p)</display-name>
-  </channel>
-  <channel id="Clarity4K.us@SD">
-    <display-name>Clarity 4K (2160p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="ClassicCinema.us@SD">
-    <display-name>Classic Cinema (240p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="CloudflareTV.us@SD">
-    <display-name>Cloudflare TV (720p)</display-name>
-  </channel>
-  <channel id="CMCUSACountryMusicChannel.us@SD">
-    <display-name>CMC-USA Country Music Channel (720p)</display-name>
-  </channel>
-  <channel id="CMT.us@East">
-    <display-name>CMT (720p)</display-name>
-  </channel>
-  <channel id="CNBC.us@SD">
-    <display-name>CNBC (720p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="ColdCaseFiles.us@SD">
-    <display-name>Cold Case Files (1080p)</display-name>
-  </channel>
-  <channel id="ComedyCentralAnimation.us@SD">
-    <display-name>Comedy Central Animation</display-name>
-  </channel>
-  <channel id="ComedyDynamics.us@SD">
-    <display-name>Comedy Dynamics (1080p)</display-name>
-  </channel>
-  <channel id="Comet.us@SD">
-    <display-name>Comet (1080p)</display-name>
-  </channel>
-  <channel id="ConcertChannel.us@SD">
-    <display-name>Concert Channel (720p)</display-name>
-  </channel>
-  <channel id="CookingPanda.us@SD">
-    <display-name>Cooking Panda (576p)</display-name>
-  </channel>
-  <channel id="Cops.us@SD">
-    <display-name>Cops (720p)</display-name>
-  </channel>
-  <channel id="CourtTV.us@SD">
-    <display-name>Court TV (1080p)</display-name>
-  </channel>
-  <channel id="Create.us@SD">
-    <display-name>Create (1080p)</display-name>
-  </channel>
-  <channel id="Crime360.us@SD">
-    <display-name>Crime 360 (720p)</display-name>
-  </channel>
-  <channel id="CrimePlusInvestigation.us@SD">
-    <display-name>Crime + Investigation (720p)</display-name>
-  </channel>
-  <channel id="CTNCourtFeed.us@SD">
-    <display-name>CT-N Court Feed (360p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="CTNLiveStream2.us@SD">
-    <display-name>CT-N Live Stream 2 (360p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="CTNTVConneticut.us@SD">
-    <display-name>CT-N TV Conneticut (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="CuriosityNOW.de@EN">
-    <display-name>Curiosity NOW EN (1080p)</display-name>
-  </channel>
-  <channel id="DangerTV.us@SD">
-    <display-name>Danger TV (720p)</display-name>
-  </channel>
-  <channel id="DarkMatterTV.us@SD">
-    <display-name>Dark Matter TV (720p)</display-name>
-  </channel>
-  <channel id="Dateline247.us@SD">
-    <display-name>Dateline 24/7 (1080p)</display-name>
-  </channel>
-  <channel id="DealorNoDeal.us@SD">
-    <display-name>Deal or No Deal (1080p)</display-name>
-  </channel>
-  <channel id="Degrassi.us@US">
-    <display-name>Degrassi (720p)</display-name>
-  </channel>
-  <channel id="DesignatedSurvivor.us@SD">
-    <display-name>Designated Survivor (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="DestinationAmerica.us@SD">
-    <display-name>Destination America (720p)</display-name>
-  </channel>
-  <channel id="DiscoveryTurbo.us@SD">
-    <display-name>Discovery Turbo (720p)</display-name>
-  </channel>
-  <channel id="DisneyChannel.us@East">
-    <display-name>Disney Channel (United States) (720p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="DisneyJunior.us@East">
-    <display-name>Disney Junior (United States) (480p)</display-name>
-  </channel>
-  <channel id="DisneyXD.us@East">
-    <display-name>Disney XD (United States) (720p)</display-name>
-  </channel>
-  <channel id="DistrictofColumbiaNetwork.us@SD">
-    <display-name>District of Columbia Network (1080p)</display-name>
-  </channel>
-  <channel id="DiyaTV.us@SD">
-    <display-name>Diya TV (1080p)</display-name>
-  </channel>
-  <channel id="DoctorWhoClassic.us@US">
-    <display-name>Doctor Who Classic (1080p)</display-name>
-  </channel>
-  <channel id="DocumentaryPlus.us@US">
-    <display-name>Documentary+ (1080p)</display-name>
-  </channel>
-  <channel id="Docurama.us@SD">
-    <display-name>Docurama (1080p)</display-name>
-  </channel>
-  <channel id="DogtheBountyHunter.us@US">
-    <display-name>Dog the Bounty Hunter (1080p)</display-name>
-  </channel>
-  <channel id="DontTellTheBride.uk@SD">
-    <display-name>Don't Tell The Bride (1080p)</display-name>
-  </channel>
-  <channel id="DoveChannel.us@SD">
-    <display-name>Dove Channel (1080p)</display-name>
-  </channel>
-  <channel id="DraftKingsNetwork.us@SD">
-    <display-name>DraftKings Network (1080p)</display-name>
-  </channel>
-  <channel id="DryBarComedyPlus.us@SD">
-    <display-name>Dry Bar Comedy+ (720p)</display-name>
-  </channel>
-  <channel id="DuckHuntingTV.us@SD">
-    <display-name>Duck Hunting TV (1080p)</display-name>
-  </channel>
-  <channel id="DungeonTV.us@SD">
-    <display-name>Dungeon TV (720p)</display-name>
-  </channel>
-  <channel id="E.us@East">
-    <display-name>E! (United States) East (1080p)</display-name>
-  </channel>
-  <channel id="EKeepingUp.us@SD">
-    <display-name>E! Keeping Up (1080p)</display-name>
-  </channel>
-  <channel id="EbonyTVbyLionsgate.us@SD">
-    <display-name>Ebony TV by Lionsgate (1080p)</display-name>
-  </channel>
-  <channel id="ElRey.us@SD">
-    <display-name>El Rey</display-name>
-  </channel>
-  <channel id="ElectricNow.us@SD">
-    <display-name>Electric Now (720p)</display-name>
-  </channel>
-  <channel id="EntertainmentTonight.us@SD">
-    <display-name>Entertainment Tonight (1080p)</display-name>
-  </channel>
-  <channel id="EntrepreneurTV.us@SD">
-    <display-name>EntrepreneurTV (720p)</display-name>
-  </channel>
-  <channel id="EscambiaCountyTV.us@SD">
-    <display-name>Escambia County TV (720p)</display-name>
-  </channel>
-  <channel id="ESPNU.us@SD">
-    <display-name>ESPNU (720p)</display-name>
-  </channel>
-  <channel id="ESPNU.us@HD">
-    <display-name>ESPNU HD (720p)</display-name>
-  </channel>
-  <channel id="ExtremaTV.us@SD">
-    <display-name>Extrema TV (United States) (720p)</display-name>
-  </channel>
-  <channel id="F1Channel.ie@US">
-    <display-name>F1 Channel (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="FailArmy.us@US">
-    <display-name>FailArmy (720p)</display-name>
-  </channel>
-  <channel id="Farscape.us@SD">
-    <display-name>Farscape</display-name>
-  </channel>
-  <channel id="FastTV.us@SD">
-    <display-name>Fast TV (720p)</display-name>
-  </channel>
-  <channel id="FearFactor.us@US">
-    <display-name>Fear Factor (1080p)</display-name>
-  </channel>
-  <channel id="FIFAPlus.uk@UnitedStates">
-    <display-name>FIFA+ United States (720p)</display-name>
-  </channel>
-  <channel id="FilAmTVNetwork.us@HD">
-    <display-name>FilAmTV Network (1080p)</display-name>
-  </channel>
-  <channel id="FilmRiseForensicFiles.us@SD">
-    <display-name>FilmRise Forensic Files (720p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="FITE247.us@SD">
-    <display-name>FITE 24/7 (1080p)</display-name>
-  </channel>
-  <channel id="FlowersTVUSA.us@SD">
-    <display-name>Flowers TV USA</display-name>
-  </channel>
-  <channel id="FNX.us@SD">
-    <display-name>FNX (1080p)</display-name>
-  </channel>
-  <channel id="FoxBusinessNetwork.us@SD">
-    <display-name>Fox Business Network (576p)</display-name>
-  </channel>
-  <channel id="FoxDeportes.us@SD">
-    <display-name>Fox Deportes (720p)</display-name>
-  </channel>
-  <channel id="FoxNewsChannel.us@SD">
-    <display-name>Fox News Channel (720p)</display-name>
-  </channel>
-  <channel id="FoxNewsRadio.us@SD">
-    <display-name>Fox News Radio (720p)</display-name>
-  </channel>
-  <channel id="FoxSoul.us@SD">
-    <display-name>Fox Soul (1080p)</display-name>
-  </channel>
-  <channel id="FoxSports1.us@HD">
-    <display-name>Fox Sports 1 (720p)</display-name>
-  </channel>
-  <channel id="FoxWeather.us@SD">
-    <display-name>Fox Weather (720p)</display-name>
-  </channel>
-  <channel id="FreeSpeechTV.us@SD">
-    <display-name>Free Speech TV (720p)</display-name>
-  </channel>
-  <channel id="FreebieTV.us@SD">
-    <display-name>Freebie TV (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="FrightFlix.us@SD">
-    <display-name>FrightFlix (720p)</display-name>
-  </channel>
-  <channel id="FTFSports.us@SD">
-    <display-name>FTF Sports (720p)</display-name>
-  </channel>
-  <channel id="FuboSportsNetwork.us@SD">
-    <display-name>Fubo Sports Network (1080p)</display-name>
-  </channel>
-  <channel id="FunRoads.us@SD">
-    <display-name>Fun Roads (720p)</display-name>
-  </channel>
-  <channel id="Fuse.us@East">
-    <display-name>Fuse (1080p)</display-name>
-  </channel>
-  <channel id="Gagsnetwork.us@SD">
-    <display-name>Gagsnetwork (576p)</display-name>
-  </channel>
-  <channel id="GalxyTV.us@SD">
-    <display-name>Galxy TV (720p)</display-name>
-  </channel>
-  <channel id="GameShowNetwork.us@East">
-    <display-name>Game Show Network (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="GarfieldandFriends.us@US">
-    <display-name>Garfield and Friends</display-name>
-  </channel>
-  <channel id="GemShoppingNetwork.us@SD">
-    <display-name>Gem Shopping Network (720p)</display-name>
-  </channel>
-  <channel id="GiggleMug.us@SD">
-    <display-name>Giggle Mug (576p)</display-name>
-  </channel>
-  <channel id="GirlfriendsFilms.us@SD">
-    <display-name>Girlfriends Films</display-name>
-  </channel>
-  <channel id="GlobalFashionChannel.us@SD">
-    <display-name>Global Fashion Channel (1080p)</display-name>
-  </channel>
-  <channel id="GlobalWorldTV.us@SD">
-    <display-name>GlobalWorldTV (720p)</display-name>
-  </channel>
-  <channel id="GMTV.us@SD">
-    <display-name>GMTV (1080p)</display-name>
-  </channel>
-  <channel id="GordonRamsaysHellsKitchen.us@SD">
-    <display-name>Gordon Ramsay's Hell's Kitchen (720p)</display-name>
-  </channel>
-  <channel id="GoTraveler.us@SD">
-    <display-name>GoTraveler (720p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="GravitasMovies.us@SD">
-    <display-name>Gravitas Movies (1080p)</display-name>
-  </channel>
-  <channel id="GreatEntertainmentTelevision.us@SD">
-    <display-name>Great Entertainment Television (720p)</display-name>
-  </channel>
-  <channel id="GreensboroTV.us@SD">
-    <display-name>Greensboro TV (720p)</display-name>
-  </channel>
-  <channel id="GritXtra.us@SD">
-    <display-name>Grit Xtra (1080p)</display-name>
-  </channel>
-  <channel id="GrjngoWesternMovies.de@SD">
-    <display-name>Grjngo Western Movies (720p)</display-name>
-  </channel>
-  <channel id="HallmarkChannel.us@East">
-    <display-name>Hallmark Channel (1080p)</display-name>
-  </channel>
-  <channel id="HallmarkMoviesMore.us@SD">
-    <display-name>Hallmark Movies &amp; More (1080p)</display-name>
-  </channel>
-  <channel id="HappyKids.us@SD">
-    <display-name>HappyKids (1080p)</display-name>
-  </channel>
-  <channel id="HasbroLegends.us@SD">
-    <display-name>Hasbro Legends (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="HauntTV.ca@SD">
-    <display-name>HauntTV (1080p)</display-name>
-  </channel>
-  <channel id="HBOMovies.us@East">
-    <display-name>HBO Movies (720p)</display-name>
-  </channel>
-  <channel id="Heartland.us@Eastern">
-    <display-name>Heartland (720p)</display-name>
-  </channel>
-  <channel id="HiYAH.us@SD">
-    <display-name>Hi-YAH! (1080p)</display-name>
-  </channel>
-  <channel id="HisGloryTV.us@SD">
-    <display-name>His Glory TV (1080p)</display-name>
-  </channel>
-  <channel id="History.us@East">
-    <display-name>History (United States) (720p)</display-name>
-  </channel>
-  <channel id="HistoryHit.uk@SD">
-    <display-name>History Hit (1080p)</display-name>
-  </channel>
-  <channel id="HollyWire.us@SD">
-    <display-name>HollyWire (720p)</display-name>
-  </channel>
-  <channel id="Homeful.ca@US">
-    <display-name>Homeful US (1080p)</display-name>
-  </channel>
-  <channel id="HSN2.us@SD">
-    <display-name>HSN2 (720p)</display-name>
-  </channel>
-  <channel id="HSN.us@East">
-    <display-name>HSN (720p)</display-name>
-  </channel>
-  <channel id="HSN.us@West">
-    <display-name>HSN West (720p)</display-name>
-  </channel>
-  <channel id="HTV1HoustonTelevision.us@SD">
-    <display-name>HTV 1 Houston Television (720p)</display-name>
-  </channel>
-  <channel id="HTV2HoustonTelevision.us@SD">
-    <display-name>HTV 2 Houston Television (720p)</display-name>
-  </channel>
-  <channel id="HumorMill.us@SD">
-    <display-name>Humor Mill (1080p)</display-name>
-  </channel>
-  <channel id="Hungry.us@SD">
-    <display-name>Hungry (720p)</display-name>
-  </channel>
-  <channel id="IFC.us@East">
-    <display-name>IFC (1080p)</display-name>
-  </channel>
-  <channel id="ImpactNetwork.us@SD">
-    <display-name>Impact Network (720p)</display-name>
-  </channel>
-  <channel id="ImpossibleQuizShow.us@SD">
-    <display-name>Impossible Quiz Show (1080p)</display-name>
-  </channel>
-  <channel id="INFAST.nl@SD">
-    <display-name>INFAST (1080p)</display-name>
-  </channel>
-  <channel id="InfoWars.us@SD">
-    <display-name>InfoWars (1080p)</display-name>
-  </channel>
-  <channel id="INWILD.nl@SD">
-    <display-name>INWILD (1080p)</display-name>
-  </channel>
-  <channel id="IONPlus.us@East">
-    <display-name>ION Plus (1080p)</display-name>
-  </channel>
-  <channel id="IONTV.us@East">
-    <display-name>ION TV (720p)</display-name>
-  </channel>
-  <channel id="IronChef.us@US">
-    <display-name>Iron Chef</display-name>
-  </channel>
-  <channel id="JewelryTV2.us@SD">
-    <display-name>Jewelry TV 2 (720p)</display-name>
-  </channel>
-  <channel id="JewelryTV.us@SD">
-    <display-name>Jewelry TV (720p)</display-name>
-  </channel>
-  <channel id="JohnnyCarsonTV.us@SD">
-    <display-name>Johnny Carson TV (720p)</display-name>
-  </channel>
-  <channel id="Journy.us@SD">
-    <display-name>Journy (720p)</display-name>
-  </channel>
-  <channel id="JudgeNosey.us@US">
-    <display-name>Judge Nosey (1080p)</display-name>
-  </channel>
-  <channel id="JustforLaughsGags.us@SD">
-    <display-name>Just for Laughs Gags (1080p)</display-name>
-  </channel>
-  <channel id="KContentbyCJENM.us@SD">
-    <display-name>K-Content by CJ ENM (1080p)</display-name>
-  </channel>
-  <channel id="KaloopyTV.us@SD">
-    <display-name>Kaloopy TV (1080p)</display-name>
-  </channel>
-  <channel id="KartoonChannel.us@SD">
-    <display-name>Kartoon Channel! (1080p)</display-name>
-  </channel>
-  <channel id="KevinHartsLOLNetwork.us@SD">
-    <display-name>Kevin Hart's LOL! Network (720p)</display-name>
-  </channel>
-  <channel id="KidsFlix.us@SD">
-    <display-name>KidsFlix (1080p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="LacrosseTV.us@SD">
-    <display-name>Lacrosse TV (720p)</display-name>
-  </channel>
-  <channel id="Laff.us@SD">
-    <display-name>Laff (576p)</display-name>
-  </channel>
-  <channel id="LasVegasTonightwithDaleDavidson.us@HD">
-    <display-name>Las Vegas Tonight with Dale Davidson (1080p)</display-name>
-  </channel>
-  <channel id="LatinoChannelTV.us@HD">
-    <display-name>Latino Channel TV (1080p)</display-name>
-  </channel>
-  <channel id="LATV.us@SD">
-    <display-name>LATV (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="LawCrime.us@SD">
-    <display-name>Law &amp; Crime (720p)</display-name>
-  </channel>
-  <channel id="LegoChannel.us@SD">
-    <display-name>Lego Channel (1080p)</display-name>
-  </channel>
-  <channel id="LifetimeMovies.us@East">
-    <display-name>Lifetime Movies (1080p)</display-name>
-  </channel>
-  <channel id="LindellTV.us@SD">
-    <display-name>Lindell TV (720p)</display-name>
-  </channel>
-  <channel id="LittleGuyanaTV.us@SD">
-    <display-name>Little Guyana TV (1080p)</display-name>
-  </channel>
-  <channel id="LiveNOWfromFOX.us@SD">
-    <display-name>LiveNOW from FOX (720p)</display-name>
-  </channel>
-  <channel id="LIVExLIVE.us@SD">
-    <display-name>LIVExLIVE (1080p)</display-name>
-  </channel>
-  <channel id="Localish.us@SD">
-    <display-name>Localish (1080p)</display-name>
-  </channel>
-  <channel id="LoveNatureenEspanol.us@SD">
-    <display-name>Love Nature en Espanol (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="LovePets.ca@US">
-    <display-name>Love Pets (1080p)</display-name>
-  </channel>
-  <channel id="LoveThePlanet.es@EN">
-    <display-name>Love The Planet (1080p)</display-name>
-  </channel>
-  <channel id="LuckyDog.us@SD">
-    <display-name>Lucky Dog (720p)</display-name>
-  </channel>
-  <channel id="MadDogandMerrill.us@SD">
-    <display-name>Mad Dog and Merrill (540p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="MadeInHollywood.us@SD">
-    <display-name>Made In Hollywood</display-name>
-  </channel>
-  <channel id="MagellanTVNow.us@SD">
-    <display-name>MagellanTV Now (1080p)</display-name>
-  </channel>
-  <channel id="MagnificentMoviesNetwork.us@SD">
-    <display-name>Magnificent Movies Network</display-name>
-  </channel>
-  <channel id="MaverickBlackCinema.us@SD">
-    <display-name>Maverick Black Cinema (1080p)</display-name>
-  </channel>
-  <channel id="MBC1USA.us@SD">
-    <display-name>MBC 1 USA</display-name>
-  </channel>
-  <channel id="MBC3USA.us@SD">
-    <display-name>MBC 3 USA (1080p)</display-name>
-  </channel>
-  <channel id="MBCAmerica.us@SD">
-    <display-name>MBC America (1080p)</display-name>
-  </channel>
-  <channel id="MeritStreet.us@SD">
-    <display-name>Merit Street (1080p)</display-name>
-  </channel>
-  <channel id="MeTV.us@SD">
-    <display-name>MeTV (720p)</display-name>
-  </channel>
-  <channel id="MidnightPulp.us@SD">
-    <display-name>Midnight Pulp (1080p)</display-name>
-  </channel>
-  <channel id="MidsomerMurders.us@SD">
-    <display-name>Midsomer Murders (1080p)</display-name>
-  </channel>
-  <channel id="MilitaryHistory.us@SD">
-    <display-name>Military History (720p)</display-name>
-  </channel>
-  <channel id="MLBStrikeZone.us@SD">
-    <display-name>MLB Strike Zone (720p)</display-name>
-  </channel>
-  <channel id="MMATV.us@SD">
-    <display-name>MMA TV (576p)</display-name>
-  </channel>
-  <channel id="Movies.us@SD">
-    <display-name>Movies! (480p)</display-name>
-  </channel>
-  <channel id="MovieSphere.us@US">
-    <display-name>MovieSphere (1080p)</display-name>
-  </channel>
-  <channel id="MrBeanAnimated.uk@English">
-    <display-name>Mr Bean Animated (1080p)</display-name>
-  </channel>
-  <channel id="MSG.us@SD">
-    <display-name>MSG (720p)</display-name>
-  </channel>
-  <channel id="MST3K.us@US">
-    <display-name>MST3K (1080p)</display-name>
-  </channel>
-  <channel id="MTV2.us@East">
-    <display-name>MTV2 (720p)</display-name>
-  </channel>
-  <channel id="MTV.us@East">
-    <display-name>MTV (United States) (1080p)</display-name>
-  </channel>
-  <channel id="MTVLive.us@SD">
-    <display-name>MTV Live (720p)</display-name>
-  </channel>
-  <channel id="MysteryScienceTheater3000.us@SD">
-    <display-name>Mystery Science Theater 3000 (1080p)</display-name>
-  </channel>
-  <channel id="MyTimeMovieNetworkEast.us@SD">
-    <display-name>MyTime Movie Network East (1080p)</display-name>
-  </channel>
-  <channel id="Naruto.us@US">
-    <display-name>Naruto (1080p)</display-name>
-  </channel>
-  <channel id="NashBridges.us@SD">
-    <display-name>Nash Bridges (720p)</display-name>
-  </channel>
-  <channel id="NationalGeographic.us@East">
-    <display-name>National Geographic (United States) (720p)</display-name>
-  </channel>
-  <channel id="NationalGeographic.us@HDEast">
-    <display-name>National Geographic (United States) HD East (720p)</display-name>
-  </channel>
-  <channel id="NationalGeographicWild.us@HDEast">
-    <display-name>National Geographic Wild (United States) HD East (720p)</display-name>
-  </channel>
-  <channel id="NBATV.us@SD">
-    <display-name>NBA TV (720p)</display-name>
-  </channel>
-  <channel id="NBC.us@KSHBTV">
-    <display-name>NBC KSHB-TV (720p)</display-name>
-  </channel>
-  <channel id="NBCComedyVault.us@SD">
-    <display-name>NBC Comedy Vault (1080p)</display-name>
-  </channel>
-  <channel id="NBCLXHome.us@HD">
-    <display-name>NBC LX Home (1080p)</display-name>
-  </channel>
-  <channel id="NBCNewsNOW.us@SD">
-    <display-name>NBC News NOW (1080p)</display-name>
-  </channel>
-  <channel id="NBCSportsNOW.us@SD">
-    <display-name>NBC Sports NOW (1080p)</display-name>
-  </channel>
-  <channel id="NBCUniverso.us@West">
-    <display-name>NBC Universo West (720p)</display-name>
-  </channel>
-  <channel id="NBCLX.us@SD">
-    <display-name>NBCLX (1080p)</display-name>
-  </channel>
-  <channel id="NewChannel.ca@SD">
-    <display-name>New Channel (480p)</display-name>
-  </channel>
-  <channel id="NewChannelPop.ca@SD">
-    <display-name>New Channel Pop! (480p)</display-name>
-  </channel>
-  <channel id="NEWKPOP.us@SD">
-    <display-name>NEW K-POP (1080p)</display-name>
-  </channel>
-  <channel id="NEWKMOVIES.us@SD">
-    <display-name>NEW K.MOVIES (1080p)</display-name>
-  </channel>
-  <channel id="News12Bronx.us@SD">
-    <display-name>News12 Bronx [Geo-blocked]</display-name>
-  </channel>
-  <channel id="News12Brooklyn.us@SD">
-    <display-name>News12 Brooklyn [Geo-blocked]</display-name>
-  </channel>
-  <channel id="News12Conneticut.us@SD">
-    <display-name>News12 Conneticut [Geo-blocked]</display-name>
-  </channel>
-  <channel id="News12HudsonValley.us@SD">
-    <display-name>News12 Hudson Valley [Geo-blocked]</display-name>
-  </channel>
-  <channel id="News12LongIsland.us@SD">
-    <display-name>News12 Long Island (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="News12NewJersey.us@SD">
-    <display-name>News12 New Jersey [Geo-blocked]</display-name>
-  </channel>
-  <channel id="News12NewYork.us@SD">
-    <display-name>News12 New York (1080p)</display-name>
-  </channel>
-  <channel id="News12Westchester.us@SD">
-    <display-name>News12 Westchester [Geo-blocked]</display-name>
-  </channel>
-  <channel id="NewsoftheWorld.us@USA">
-    <display-name>News of the World USA (1080p)</display-name>
-  </channel>
-  <channel id="Newsmax2.us@SD">
-    <display-name>Newsmax 2 (1080p)</display-name>
-  </channel>
-  <channel id="NewsmaxTV.us@SD">
-    <display-name>Newsmax TV (720p)</display-name>
-  </channel>
-  <channel id="Newsy.us@SD">
-    <display-name>Newsy (1080p)</display-name>
-  </channel>
-  <channel id="NHLNetwork.us@SD">
-    <display-name>NHL Network (1080p)</display-name>
-  </channel>
-  <channel id="NHRATV.us@SD">
-    <display-name>NHRA TV (1080p)</display-name>
-  </channel>
-  <channel id="NickJr.us@East">
-    <display-name>Nick Jr. (United States) (720p)</display-name>
-  </channel>
-  <channel id="NickJr.us@EastHD">
-    <display-name>Nick Jr. (United States) East HD (720p)</display-name>
-  </channel>
-  <channel id="Nickelodeon.us@East">
-    <display-name>Nickelodeon (United States) (720p)</display-name>
-  </channel>
-  <channel id="Nicktoons.us@East">
-    <display-name>Nicktoons (United States) (720p)</display-name>
-  </channel>
-  <channel id="NinjaKidzTV.us@SD">
-    <display-name>Ninja Kidz TV (720p)</display-name>
-  </channel>
-  <channel id="NorCastWeather.us@HD">
-    <display-name>NorCast Weather (1080p)</display-name>
-  </channel>
-  <channel id="Nosey.us@US">
-    <display-name>Nosey (1080p)</display-name>
-  </channel>
-  <channel id="NOST.us@SD">
-    <display-name>NOST (720p)</display-name>
-  </channel>
-  <channel id="NTDTV.us@East">
-    <display-name>NTD TV (1080p)</display-name>
-  </channel>
-  <channel id="NTDTV.us@West">
-    <display-name>NTD TV West (720p)</display-name>
-  </channel>
-  <channel id="NTDTVEnglish.us@USA">
-    <display-name>NTD TV English (1080p)</display-name>
-  </channel>
-  <channel id="NYXT.us@SD">
-    <display-name>NYXT (1080p)</display-name>
-  </channel>
-  <channel id="OANPlus.us@SD">
-    <display-name>OAN Plus (1080p)</display-name>
-  </channel>
-  <channel id="Olelo49.us@SD">
-    <display-name>Olelo 49 (720p)</display-name>
-  </channel>
-  <channel id="Olelo53.us@SD">
-    <display-name>Olelo 53 (720p)</display-name>
-  </channel>
-  <channel id="Olelo54.us@SD">
-    <display-name>Olelo 54 (720p)</display-name>
-  </channel>
-  <channel id="Olelo55.us@SD">
-    <display-name>Olelo 55 (720p)</display-name>
-  </channel>
-  <channel id="OmideIranTV.us@SD">
-    <display-name>Omid e Iran TV</display-name>
-  </channel>
-  <channel id="OneAmericaNewsNetwork.us@SD">
-    <display-name>One America News Network (720p)</display-name>
-  </channel>
-  <channel id="OnTV4U.us@SD">
-    <display-name>OnTV4U (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="OutdoorAmerica.us@SD">
-    <display-name>Outdoor America (1080p)</display-name>
-  </channel>
-  <channel id="OutdoorChannel.us@SD">
-    <display-name>Outdoor Channel (1080p)</display-name>
-  </channel>
-  <channel id="OutdoorChannel.us@HD">
-    <display-name>Outdoor Channel HD (720p)</display-name>
-  </channel>
-  <channel id="OuterSphere.us@SD">
-    <display-name>OuterSphere (1080p)</display-name>
-  </channel>
-  <channel id="OutsideTV.us@SD">
-    <display-name>Outside TV (1080p)</display-name>
-  </channel>
-  <channel id="OvercomersTV.us@SD">
-    <display-name>Overcomers TV (720p)</display-name>
-  </channel>
-  <channel id="Overtime.us@SD">
-    <display-name>Overtime (1080p)</display-name>
-  </channel>
-  <channel id="Pac12Insider.us@SD">
-    <display-name>Pac-12 Insider (1080p)</display-name>
-  </channel>
-  <channel id="PacificIslandNetwork.us@HD">
-    <display-name>Pacific Island Network (1080p)</display-name>
-  </channel>
-  <channel id="PalmBeachesTV.us@SD">
-    <display-name>Palm Beaches TV (720p)</display-name>
-  </channel>
-  <channel id="ParamountNetwork.us@East">
-    <display-name>Paramount Network (432p)</display-name>
-  </channel>
-  <channel id="PayvandTV.us@SD">
-    <display-name>Payvand TV (United States) (720p)</display-name>
-  </channel>
-  <channel id="PBSAntiquesRoadshow.us@SD">
-    <display-name>PBS Antiques Roadshow (1080p)</display-name>
-  </channel>
-  <channel id="PBSKids.us@SD">
-    <display-name>PBS Kids (720p)</display-name>
-  </channel>
-  <channel id="PBSKidsEasternCentral.us@SD">
-    <display-name>PBS Kids Eastern/Central (720p)</display-name>
-  </channel>
-  <channel id="PBSKidsMountain.us@SD">
-    <display-name>PBS Kids Mountain (1080p)</display-name>
-  </channel>
-  <channel id="PBSKidsPacific.us@SD">
-    <display-name>PBS Kids Pacific (1080p)</display-name>
-  </channel>
-  <channel id="PBSNature.us@SD">
-    <display-name>PBS Nature (1080p)</display-name>
-  </channel>
-  <channel id="PBSTravel.us@SD">
-    <display-name>PBS Travel (1080p)</display-name>
-  </channel>
-  <channel id="PeopleAreAwesome.us@SD">
-    <display-name>People Are Awesome (1080p)</display-name>
-  </channel>
-  <channel id="PGATour.us@SD">
-    <display-name>PGA Tour (1080p)</display-name>
-  </channel>
-  <channel id="PixLTV.us@SD">
-    <display-name>PixL TV</display-name>
-  </channel>
-  <channel id="Placid.us@EastHD">
-    <display-name>Placid (1080p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="PlutoTVSanctuary.us@SD">
-    <display-name>Pluto TV Sanctuary</display-name>
-  </channel>
-  <channel id="PlutoTVWipeout.us@SD">
-    <display-name>Pluto TV Wipeout</display-name>
-  </channel>
-  <channel id="pocketwatch.us@SD">
-    <display-name>pocket.watch (1080p)</display-name>
-  </channel>
-  <channel id="PoconoTelevisionNetwork.us@HD">
-    <display-name>Pocono Television Network (1080p)</display-name>
-  </channel>
-  <channel id="PopstarTV.us@SD">
-    <display-name>Popstar! TV (1080p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="Portlandia.us@SD">
-    <display-name>Portlandia (720p)</display-name>
-  </channel>
-  <channel id="PositivTV.us@SD">
-    <display-name>Positiv TV (1080p)</display-name>
-  </channel>
-  <channel id="PowerNationTV.us@SD">
-    <display-name>PowerNation TV (1080p)</display-name>
-  </channel>
-  <channel id="PursuitChannel.us@SD">
-    <display-name>Pursuit Channel (720p)</display-name>
-  </channel>
-  <channel id="PursuitUP.us@SD">
-    <display-name>PursuitUP (1080p)</display-name>
-  </channel>
-  <channel id="QVC2.us@SD">
-    <display-name>QVC2 (720p)</display-name>
-  </channel>
-  <channel id="QVC3.us@SD">
-    <display-name>QVC3 (1080p)</display-name>
-  </channel>
-  <channel id="QVC.us@SD">
-    <display-name>QVC (United States) (720p)</display-name>
-  </channel>
-  <channel id="RainbowRuby.us@SD">
-    <display-name>Rainbow Ruby (720p)</display-name>
-  </channel>
-  <channel id="RallyTV.us@SD">
-    <display-name>Rally TV (1080p)</display-name>
-  </channel>
-  <channel id="RealAmericasVoice.us@SD">
-    <display-name>Real America's Voice (1080p)</display-name>
-  </channel>
-  <channel id="RealWild.uk@SD">
-    <display-name>Real Wild (1080p)</display-name>
-  </channel>
-  <channel id="RedApple21.us@SD">
-    <display-name>Red Apple 21 (480p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="RedBullTV.at@US">
-    <display-name>Red Bull TV US (1080p)</display-name>
-  </channel>
-  <channel id="Reelz.us@SD">
-    <display-name>Reelz (720p)</display-name>
-  </channel>
-  <channel id="RetroTV.us@East">
-    <display-name>Retro TV (720p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="RetroCrush.us@SD">
-    <display-name>RetroCrush (1080p)</display-name>
-  </channel>
-  <channel id="ReutersTV.us@SD">
-    <display-name>Reuters TV (1080p)</display-name>
-  </channel>
-  <channel id="RevandRoll.us@SD">
-    <display-name>Rev and Roll (720p)</display-name>
-  </channel>
-  <channel id="REVNAction.us@SD">
-    <display-name>REV'N Action (720p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="Revolt.us@SD">
-    <display-name>Revolt (720p)</display-name>
-  </channel>
-  <channel id="Revry.us@SD">
-    <display-name>Revry (1080p)</display-name>
-  </channel>
-  <channel id="RevryLatinX.us@SD">
-    <display-name>Revry LatinX (720p)</display-name>
-  </channel>
-  <channel id="RevryNews.us@SD">
-    <display-name>Revry News (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="RevryQueer.us@SD">
-    <display-name>Revry Queer (720p)</display-name>
-  </channel>
-  <channel id="RFDTV.us@SD">
-    <display-name>RFD-TV</display-name>
-  </channel>
-  <channel id="RiffTrax.us@US">
-    <display-name>RiffTrax (720p)</display-name>
-  </channel>
-  <channel id="RightNowTV.us@SD">
-    <display-name>Right Now TV (720p)</display-name>
-  </channel>
-  <channel id="Roar.us@SD">
-    <display-name>Roar (1080p)</display-name>
-  </channel>
-  <channel id="RTRPlaneta.ru@US">
-    <display-name>RTR-Planeta US (720p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="Runtime.us@SD">
-    <display-name>Runtime (720p)</display-name>
-  </channel>
-  <channel id="RVTV.us@HD">
-    <display-name>RVTV (1080p)</display-name>
-  </channel>
-  <channel id="RyanandFriends.us@SD">
-    <display-name>Ryan and Friends (1080p)</display-name>
-  </channel>
-  <channel id="SCorbyTV.us@HD">
-    <display-name>S Corby TV (480p)</display-name>
-  </channel>
-  <channel id="SFree.us@HD">
-    <display-name>S Free! (360p)</display-name>
-  </channel>
-  <channel id="SKPop.us@HD">
-    <display-name>S KPop! (480p)</display-name>
-  </channel>
-  <channel id="SMetroTV.us@HD">
-    <display-name>S Metro TV (360p)</display-name>
-  </channel>
-  <channel id="SPlayEvent.us@HD">
-    <display-name>S Play Event (1080p)</display-name>
-  </channel>
-  <channel id="SPremium.us@HD">
-    <display-name>S Premium! HD (360p)</display-name>
-  </channel>
-  <channel id="SalemNewsChannel.us@SD">
-    <display-name>Salem News Channel (1080p)</display-name>
-  </channel>
-  <channel id="SamsungWildlife.us@SD">
-    <display-name>Samsung Wildlife (720p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="SchwabNetwork.us@SD">
-    <display-name>Schwab Network (1080p)</display-name>
-  </channel>
-  <channel id="ScientologyNetwork.us@SD">
-    <display-name>Scientology Network (1080p)</display-name>
-  </channel>
-  <channel id="ScreenDreams.us@SD">
-    <display-name>Screen Dreams (720p)</display-name>
-  </channel>
-  <channel id="ScrippsNews.us@SD">
-    <display-name>Scripps News (1080p)</display-name>
-  </channel>
-  <channel id="SECNetwork.us@SD">
-    <display-name>SEC Network (1080p)</display-name>
-  </channel>
-  <channel id="SGTN49.us@SD">
-    <display-name>SGTN-49 (720p)</display-name>
-  </channel>
-  <channel id="ShemarooBollywood.us@SD">
-    <display-name>Shemaroo Bollywood (1080p)</display-name>
-  </channel>
-  <channel id="ShopLC.us@SD">
-    <display-name>Shop LC (1080p)</display-name>
-  </channel>
-  <channel id="ShoutFactoryTV.us@SD">
-    <display-name>Shout! Factory TV (1080p)</display-name>
-  </channel>
-  <channel id="ShowtimeFamilyZone.us@East">
-    <display-name>Showtime Family Zone (720p)</display-name>
-  </channel>
-  <channel id="SkwadPlay.us@SD">
-    <display-name>Skwad Play (1080p)</display-name>
-  </channel>
-  <channel id="SlopesTV.us@SD">
-    <display-name>Slopes TV (720p)</display-name>
-  </channel>
-  <channel id="SmartLifeStyleTV.us@SD">
-    <display-name>Smart LifeStyle TV (720p)</display-name>
-  </channel>
-  <channel id="SmurfTV.us@SD">
-    <display-name>Smurf TV (480p)</display-name>
-  </channel>
-  <channel id="SNLVault.us@SD">
-    <display-name>SNL Vault (1080p)</display-name>
-  </channel>
-  <channel id="SonicTV.us@SD">
-    <display-name>Sonic TV (720p)</display-name>
-  </channel>
-  <channel id="SportsGrid.us@SD">
-    <display-name>SportsGrid (1080p)</display-name>
-  </channel>
-  <channel id="Stadium.us@SD">
-    <display-name>Stadium (720p)</display-name>
-  </channel>
-  <channel id="StarzCinema.us@East">
-    <display-name>Starz Cinema (720p)</display-name>
-  </channel>
-  <channel id="StarzComedy.us@East">
-    <display-name>Starz Comedy (1080p)</display-name>
-  </channel>
-  <channel id="StarzEncoreSpanish.us@East">
-    <display-name>Starz Encore Spanish (720p)</display-name>
-  </channel>
-  <channel id="StarzKidsFamily.us@East">
-    <display-name>Starz Kids &amp; Family (1080p)</display-name>
-  </channel>
-  <channel id="StingrayGreatestHolidayHits.us@SD">
-    <display-name>Stingray Greatest Holiday Hits</display-name>
-  </channel>
-  <channel id="StoriesbyAMC.us@SD">
-    <display-name>Stories by AMC</display-name>
-  </channel>
-  <channel id="StrykTV.us@HD">
-    <display-name>Stryk TV (1080p)</display-name>
-  </channel>
-  <channel id="STV.us@HD">
-    <display-name>STV (United States) (360p)</display-name>
-  </channel>
-  <channel id="SuperSimpleSongs.us@SD">
-    <display-name>Super Simple Songs (1080p)</display-name>
-  </channel>
-  <channel id="Survivor.us@SD">
-    <display-name>Survivor (1080p)</display-name>
-  </channel>
-  <channel id="SwamijiTVAmerican.at@SD">
-    <display-name>Swamiji TV American (1080p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="SwerveCombat.us@SD">
-    <display-name>Swerve Combat (1080p)</display-name>
-  </channel>
-  <channel id="SwerveSports.us@SD">
-    <display-name>Swerve Sports (720p)</display-name>
-  </channel>
-  <channel id="SYFY.us@East">
-    <display-name>SYFY (720p)</display-name>
-  </channel>
-  <channel id="TaiwanPlusTV.tw@SD">
-    <display-name>Taiwan Plus TV (1080p)</display-name>
-  </channel>
-  <channel id="TalkinLiveClassicsTV.us@SD">
-    <display-name>Talkin Live Classics TV (480p)</display-name>
-  </channel>
-  <channel id="Tastemade.us@US">
-    <display-name>Tastemade (1080p)</display-name>
-  </channel>
-  <channel id="TastemadeTravel.us@SD">
-    <display-name>Tastemade Travel (1080p)</display-name>
-  </channel>
-  <channel id="TBNArmenia.us@SD">
-    <display-name>TBN Armenia</display-name>
-  </channel>
-  <channel id="TBNPacific.us@SD">
-    <display-name>TBN Pacific</display-name>
-  </channel>
-  <channel id="TBNUkraine.us@SD">
-    <display-name>TBN Ukraine (720p)</display-name>
-  </channel>
-  <channel id="TBS.us@East">
-    <display-name>TBS (720p)</display-name>
-  </channel>
-  <channel id="TCT.us@SD">
-    <display-name>TCT (1080p)</display-name>
-  </channel>
-  <channel id="TED.us@SD">
-    <display-name>TED (1080p)</display-name>
-  </channel>
-  <channel id="TelePam.us@SD">
-    <display-name>Tele Pam (1080p)</display-name>
-  </channel>
-  <channel id="Telemundo.us@East">
-    <display-name>Telemundo (720p)</display-name>
-  </channel>
-  <channel id="Telemundo.us@EastHD">
-    <display-name>Telemundo East HD (1080p)</display-name>
-  </channel>
-  <channel id="Telemundo.us@West">
-    <display-name>Telemundo West (2160p)</display-name>
-  </channel>
-  <channel id="TennisChannel2.us@SD">
-    <display-name>Tennis Channel 2 (1080p)</display-name>
-  </channel>
-  <channel id="TennisChannel.us@SD">
-    <display-name>Tennis Channel (1080p)</display-name>
-  </channel>
-  <channel id="TerraMaterWILD.de@English">
-    <display-name>Terra Mater WILD English (1080p)</display-name>
-  </channel>
-  <channel id="TGJunior.us@SD">
-    <display-name>TG Junior (720p)</display-name>
-  </channel>
-  <channel id="TheArchive.us@SD">
-    <display-name>The Archive (1080p)</display-name>
-  </channel>
-  <channel id="TheAsylum.us@US">
-    <display-name>The Asylum (1080p)</display-name>
-  </channel>
-  <channel id="TheBobRossChannel.us@SD">
-    <display-name>The Bob Ross Channel (720p)</display-name>
-  </channel>
-  <channel id="TheCarolBurnettShow.us@SD">
-    <display-name>The Carol Burnett Show (1080p)</display-name>
-  </channel>
-  <channel id="TheChatShowChannel.uk@SD">
-    <display-name>The Chat Show Channel (1080p)</display-name>
-  </channel>
-  <channel id="TheConners.us@SD">
-    <display-name>The Conners</display-name>
-  </channel>
-  <channel id="TheCountryNetwork.us@SD">
-    <display-name>The Country Network (1080p)</display-name>
-  </channel>
-  <channel id="TheDesignNetwork.us@SD">
-    <display-name>The Design Network (1080p)</display-name>
-  </channel>
-  <channel id="TheDoctors.us@HD">
-    <display-name>The Doctors (720p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="TheFilmDetective.us@SD">
-    <display-name>The Film Detective (720p)</display-name>
-  </channel>
-  <channel id="TheFirstTV.us@SD">
-    <display-name>The First TV (1080p)</display-name>
-  </channel>
-  <channel id="TheGrahamNortonShow.uk@SD">
-    <display-name>The Graham Norton Show (1080p)</display-name>
-  </channel>
-  <channel id="TheHillTV.us@SD">
-    <display-name>The Hill TV (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="TheJamieOliverChannel.us@SD">
-    <display-name>The Jamie Oliver Channel (1080p)</display-name>
-  </channel>
-  <channel id="TheNest.us@SD">
-    <display-name>The Nest (1080p)</display-name>
-  </channel>
-  <channel id="ThePetCollective.us@US">
-    <display-name>The Pet Collective (720p)</display-name>
-  </channel>
-  <channel id="ThePriceIsRightTheBarkerEra.us@SD">
-    <display-name>The Price Is Right: The Barker Era (720p)</display-name>
-  </channel>
-  <channel id="TheWalkTV.us@SD">
-    <display-name>The Walk TV</display-name>
-  </channel>
-  <channel id="TheYoungTurks.us@SD">
-    <display-name>The Young Turks (720p)</display-name>
-  </channel>
-  <channel id="ThisOldHouse.us@SD">
-    <display-name>This Old House (1080p)</display-name>
-  </channel>
-  <channel id="TimelessTV.us@SD">
-    <display-name>Timeless TV</display-name>
-  </channel>
-  <channel id="TinyHouseNation.us@SD">
-    <display-name>Tiny House Nation (720p)</display-name>
-  </channel>
-  <channel id="TMZ.us@SD">
-    <display-name>TMZ (720p)</display-name>
-  </channel>
-  <channel id="TNT.us@East">
-    <display-name>TNT (United States) (720p)</display-name>
-  </channel>
-  <channel id="TODAYAllDay.us@SD">
-    <display-name>TODAY All Day (1080p)</display-name>
-  </channel>
-  <channel id="TomAndJerry.do@HD">
-    <display-name>Tom And Jerry (720p)</display-name>
-  </channel>
-  <channel id="ToonamiAftermath.us@East">
-    <display-name>Toonami Aftermath (480p)</display-name>
-  </channel>
-  <channel id="ToonamiAftermath.us@West">
-    <display-name>Toonami Aftermath West (480p)</display-name>
-  </channel>
-  <channel id="Tooncast.us@SD">
-    <display-name>Tooncast (1080p)</display-name>
-  </channel>
-  <channel id="ToonGoggles.us@SD">
-    <display-name>ToonGoggles (720p)</display-name>
-  </channel>
-  <channel id="TopStoriesbyNewsy.us@SD">
-    <display-name>Top Stories by Newsy (720p)</display-name>
-  </channel>
-  <channel id="TransformersTV.us@SD">
-    <display-name>Transformers TV (720p)</display-name>
-  </channel>
-  <channel id="TribecaChannel.us@SD">
-    <display-name>Tribeca Channel (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="TrueCrimeNetwork.us@SD">
-    <display-name>True Crime Network (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="TrueCrimeNow.us@SD">
-    <display-name>True Crime Now (1080p)</display-name>
-  </channel>
-  <channel id="TrueHistory.us@SD">
-    <display-name>True History (720p)</display-name>
-  </channel>
-  <channel id="truTV.us@East">
-    <display-name>truTV (720p)</display-name>
-  </channel>
-  <channel id="TSTV.us@SD">
-    <display-name>TSTV (720p)</display-name>
-  </channel>
-  <channel id="TurismoHD.do@HD">
-    <display-name>Turismo HD (720p)</display-name>
-  </channel>
-  <channel id="TVPanou.ht@SD">
-    <display-name>TV Panou (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="TVSBowlingNetwork.us@SD">
-    <display-name>TVS Bowling Network (720p)</display-name>
-  </channel>
-  <channel id="TVSBoxing.us@SD">
-    <display-name>TVS Boxing (360p)</display-name>
-  </channel>
-  <channel id="TVSCipherNetwork.us@SD">
-    <display-name>TVS Cipher Network (360p)</display-name>
-  </channel>
-  <channel id="TVSClassicMovies.us@SD">
-    <display-name>TVS Classic Movies (288p)</display-name>
-  </channel>
-  <channel id="TVSClassicSports.us@SD">
-    <display-name>TVS Classic Sports (360p)</display-name>
-  </channel>
-  <channel id="TVSComedyNetwork.us@SD">
-    <display-name>TVS Comedy Network (720p)</display-name>
-  </channel>
-  <channel id="TVSConsumerDirect.us@SD">
-    <display-name>TVS Consumer Direct (720p)</display-name>
-  </channel>
-  <channel id="TVSDriveInMovie.us@SD">
-    <display-name>TVS Drive In Movie (360p)</display-name>
-  </channel>
-  <channel id="TVSFamilyChannel.us@SD">
-    <display-name>TVS Family Channel (360p)</display-name>
-  </channel>
-  <channel id="TVSFilmNoirNetwork.us@SD">
-    <display-name>TVS Film Noir Network (720p)</display-name>
-  </channel>
-  <channel id="TVSFlashbackNetwork.us@SD">
-    <display-name>TVS Flashback Network (360p)</display-name>
-  </channel>
-  <channel id="TVSHiTops.us@SD">
-    <display-name>TVS Hi Tops (720p)</display-name>
-  </channel>
-  <channel id="TVSHollywoodHistory.us@SD">
-    <display-name>TVS Hollywood History (582p)</display-name>
-  </channel>
-  <channel id="TVSMainstreet.us@SD">
-    <display-name>TVS Mainstreet (360p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="TVSMusicNetwork.us@SD">
-    <display-name>TVS Music Network (720p)</display-name>
-  </channel>
-  <channel id="TVSNostalgia.us@SD">
-    <display-name>TVS Nostalgia (472p)</display-name>
-  </channel>
-  <channel id="TVSNostalgiaMovies.us@SD">
-    <display-name>TVS Nostalgia Movies (480p)</display-name>
-  </channel>
-  <channel id="TVSPetParadeNetwork.us@SD">
-    <display-name>TVS Pet Parade Network (360p)</display-name>
-  </channel>
-  <channel id="TVSPinballNetwork.us@SD">
-    <display-name>TVS Pinball Network (480p)</display-name>
-  </channel>
-  <channel id="TVSQuizShowNetwork.us@SD">
-    <display-name>TVS Quiz Show Network (720p)</display-name>
-  </channel>
-  <channel id="TVSSelectNetwork.us@SD">
-    <display-name>TVS Select Network (720p)</display-name>
-  </channel>
-  <channel id="TVSSports.us@SD">
-    <display-name>TVS Sports (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="TVSSportsBureau.us@SD">
-    <display-name>TVS Sports Bureau (720p)</display-name>
-  </channel>
-  <channel id="TVSTalkNetwork.us@SD">
-    <display-name>TVS Talk Network (360p)</display-name>
-  </channel>
-  <channel id="TVSTallyHo.us@SD">
-    <display-name>TVS Tally Ho (360p)</display-name>
-  </channel>
-  <channel id="TVSTavern.us@SD">
-    <display-name>TVS Tavern (480p)</display-name>
-  </channel>
-  <channel id="TVSTelevisionNetwork.us@SD">
-    <display-name>TVS Television Network (480p)</display-name>
-  </channel>
-  <channel id="TVSTravelNetwork.us@SD">
-    <display-name>TVS Travel Network (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="TVSTurbo.us@SD">
-    <display-name>TVS Turbo (360p)</display-name>
-  </channel>
-  <channel id="TVSVintageNetwork.us@SD">
-    <display-name>TVS Vintage Network (360p)</display-name>
-  </channel>
-  <channel id="TVSWesternMovie.us@SD">
-    <display-name>TVS Western Movie (270p)</display-name>
-  </channel>
-  <channel id="TVSWomenSports.us@SD">
-    <display-name>TVS Women Sports (720p)</display-name>
-  </channel>
-  <channel id="UCTV.us@SD">
-    <display-name>UCTV (720p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="Unbeaten.us@SD">
-    <display-name>Unbeaten (1080p)</display-name>
-  </channel>
-  <channel id="Unidentified.us@SD">
-    <display-name>Unidentified (1080p)</display-name>
-  </channel>
-  <channel id="UniMas.us@Central">
-    <display-name>UniMas Central (720p)</display-name>
-  </channel>
-  <channel id="UniversalCinema.us@SD">
-    <display-name>Universal Cinema (1080p)</display-name>
-  </channel>
-  <channel id="UniversalComedy.us@SD">
-    <display-name>Universal Comedy (1080p)</display-name>
-  </channel>
-  <channel id="UniversalCrime.us@East">
-    <display-name>Universal Crime (1080p)</display-name>
-  </channel>
-  <channel id="Univision.us@East">
-    <display-name>Univision (1080p)</display-name>
-  </channel>
-  <channel id="Univision.us@EastHD">
-    <display-name>Univision East HD (1080p)</display-name>
-  </channel>
-  <channel id="Univision.us@West">
-    <display-name>Univision West (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="UnsolvedMysteries.us@US">
-    <display-name>Unsolved Mysteries (720p)</display-name>
-  </channel>
-  <channel id="USANetwork.us@East">
-    <display-name>USA Network (720p)</display-name>
-  </channel>
-  <channel id="USATODAY.us@SD">
-    <display-name>USA TODAY (1080p)</display-name>
-  </channel>
-  <channel id="VegasLifeTV.us@HD">
-    <display-name>Vegas Life TV (1080p)</display-name>
-  </channel>
-  <channel id="Vevo2K.us@SD">
-    <display-name>Vevo 2K (1080p)</display-name>
-  </channel>
-  <channel id="Vevo70s.us@SD">
-    <display-name>Vevo '70s (1080p)</display-name>
-  </channel>
-  <channel id="Vevo80s.us@SD">
-    <display-name>Vevo '80s (1080p)</display-name>
-  </channel>
-  <channel id="Vevo90s.us@SD">
-    <display-name>Vevo '90s (1080p)</display-name>
-  </channel>
-  <channel id="VevoCountry.us@SD">
-    <display-name>Vevo Country (1080p)</display-name>
-  </channel>
-  <channel id="VevoHipHop.us@SD">
-    <display-name>Vevo Hip Hop (1080p)</display-name>
-  </channel>
-  <channel id="VevoLatino.us@SD">
-    <display-name>Vevo Latino (1080p)</display-name>
-  </channel>
-  <channel id="VevoPop.us@SD">
-    <display-name>Vevo Pop (1080p)</display-name>
-  </channel>
-  <channel id="VevoRB.us@SD">
-    <display-name>Vevo R&amp;B (1080p)</display-name>
-  </channel>
-  <channel id="VevoRetroRock.us@SD">
-    <display-name>Vevo Retro Rock (1080p)</display-name>
-  </channel>
-  <channel id="VH1.us@East">
-    <display-name>VH1 (432p)</display-name>
-  </channel>
-  <channel id="VICETV.us@SD">
-    <display-name>VICE TV (1080p)</display-name>
-  </channel>
-  <channel id="VideoMixTV.us@SD">
-    <display-name>Video Mix TV</display-name>
-  </channel>
-  <channel id="VoATV.us@SD">
-    <display-name>VoA TV (1080p)</display-name>
-  </channel>
-  <channel id="VSiN.us@SD">
-    <display-name>VSiN (720p)</display-name>
-  </channel>
-  <channel id="WantedDeadorAlive.us@SD">
-    <display-name>Wanted: Dead or Alive (720p)</display-name>
-  </channel>
-  <channel id="WatchitKID.us@SD">
-    <display-name>Watch it KID! (720p)</display-name>
-  </channel>
-  <channel id="WatchitScream.us@SD">
-    <display-name>Watch it Scream! (720p)</display-name>
-  </channel>
-  <channel id="WaypointTV.us@SD">
-    <display-name>Waypoint TV (1080p)</display-name>
-  </channel>
-  <channel id="WeTV.us@East">
-    <display-name>We TV (1080p)</display-name>
-  </channel>
-  <channel id="WeatherNation.us@SD">
-    <display-name>WeatherNation (1080p)</display-name>
-  </channel>
-  <channel id="WeatherSpy.us@SD">
-    <display-name>WeatherSpy (United States) (720p)</display-name>
-  </channel>
-  <channel id="WeedsNurseJackie.us@SD">
-    <display-name>Weeds &amp; Nurse Jackie (720p)</display-name>
-  </channel>
-  <channel id="Westerns4U.us@SD">
-    <display-name>Westerns 4U (1080p)</display-name>
-  </channel>
-  <channel id="Whiplash.us@HD">
-    <display-name>Whiplash (720p)</display-name>
-  </channel>
-  <channel id="WhiplashCinema.us@SD">
-    <display-name>Whiplash Cinema (480p)</display-name>
-  </channel>
-  <channel id="WhiplashII.us@SD">
-    <display-name>Whiplash II (480p)</display-name>
-  </channel>
-  <channel id="WhitePlainsCommunityMedia.us@SD">
-    <display-name>White Plains Community Media (360p)</display-name>
-  </channel>
-  <channel id="Willow.us@SD">
-    <display-name>Willow (720p)</display-name>
-  </channel>
-  <channel id="WillowSports.us@SD">
-    <display-name>Willow Sports (1080p)</display-name>
-  </channel>
-  <channel id="WindowTV.us@SD">
-    <display-name>Window TV (720p)</display-name>
-  </channel>
-  <channel id="WineWatchesWhiskey.us@HD">
-    <display-name>Wine Watches &amp; Whiskey (1080p)</display-name>
-  </channel>
-  <channel id="WipeoutXtra.us@SD">
-    <display-name>Wipeout Xtra (1080p)</display-name>
-  </channel>
-  <channel id="Wired2FishTV.us@SD">
-    <display-name>Wired2FishTV (720p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="WLNGRadio.us@SD">
-    <display-name>WLNG Radio (410p) [Not 24/7]</display-name>
-  </channel>
-  <channel id="WomensSportsNetwork.us@SD">
-    <display-name>Women's Sports Network (1080p)</display-name>
-  </channel>
-  <channel id="WorldChannel.us@SD">
-    <display-name>World Channel (1080p)</display-name>
-  </channel>
-  <channel id="WorldHarvestTV.us@SD">
-    <display-name>World Harvest TV (360p)</display-name>
-  </channel>
-  <channel id="WorldPokerTour.us@US">
-    <display-name>World Poker Tour (1080p)</display-name>
-  </channel>
-  <channel id="WSOCNow.us@SD">
-    <display-name>WSOC Now (1080p) [Geo-blocked]</display-name>
-  </channel>
-  <channel id="WuTangCollection.us@SD">
-    <display-name>Wu Tang Collection (720p)</display-name>
-  </channel>
-  <channel id="WVCULP.us@SD">
-    <display-name>WVCU-LP (1080p)</display-name>
-  </channel>
-  <channel id="WWENetwork.us@SD">
-    <display-name>WWE Network (1080p)</display-name>
-  </channel>
-  <channel id="XFCTV.us@SD">
-    <display-name>XFC TV (720p)</display-name>
-  </channel>
-  <channel id="XITE90sThrowback.us@SD">
-    <display-name>XITE 90's Throwback (1080p)</display-name>
-  </channel>
-  <channel id="XITEJustChill.nl@US">
-    <display-name>XITE Just Chill (1080p)</display-name>
-  </channel>
-  <channel id="XITEReggaeVibes.nl@HD">
-    <display-name>XITE Reggae Vibes (1080p)</display-name>
-  </channel>
-  <channel id="XITERockxMetal.nl@US">
-    <display-name>XITE Rock x Metal (1080p)</display-name>
-  </channel>
-  <channel id="XploreTV.us@SD">
-    <display-name>Xplore TV (1080p)</display-name>
-  </channel>
-  <channel id="YahooFinance.us@SD">
-    <display-name>Yahoo! Finance (1080p)</display-name>
-  </channel>
-  <channel id="YesNetwork.us@SD">
-    <display-name>Yes Network (720p)</display-name>
-  </channel>
-  <channel id="YoungHollywood.us@SD">
-    <display-name>Young Hollywood (720p)</display-name>
-  </channel>
-  <channel id="YTATV.us@SD">
-    <display-name>YTA TV (720p)</display-name>
-  </channel>
-  <channel id="YuGiOh.us@SD">
-    <display-name>Yu-Gi-Oh! (1080p)</display-name>
-  </channel>
-  <channel id="YuGiOhenespanol.us@SD">
-    <display-name>Yu-Gi-Oh! en espanol (1080p)</display-name>
-  </channel>
   <programme channel="00sReplay.us@SD" start="20261008180000 +0000" stop="20261008183000 +0000">
     <title>Live programming — 00s Replay</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
@@ -85299,7 +85285,7 @@
     <title>Live programming — FNX (1080p)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
-  <programme channel="ForeverKids.us@SD" start="20261008180000 +0000" stop="20261008182600 +0000">
+  <programme channel="ForeverKids.us@SD" start="20261008180000 +0000" stop="20261008185600 +0000">
     <title>Live programming — Forever Kids</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
