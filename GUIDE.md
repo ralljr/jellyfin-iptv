@@ -12,3 +12,7 @@ guide-report.json records coverage and the last scheduled programme time.
 Channels outside this source (including local affiliates) remain in the playlist
 but do not yet have programme listings. Short or stale guide downloads fail the
 update before publishing, preserving the previous published files.
+
+Every curated channel receives clearly labeled "Live programming" placeholders
+in hourly blocks wherever real schedules are absent, covering the next 48 hours.
+These blocks never overlap real programmes and make no claims about show titles.

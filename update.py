@@ -8,7 +8,7 @@ import base64
 import time
 import copy
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 def build_guide(kept, mappings):
     source = ET.fromstring(fetch('https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml'))
@@ -39,9 +39,48 @@ def build_guide(kept, mappings):
             programmes += 1
     if len(matched) < 50 or future < 100 or (latest - datetime.now(timezone.utc)).total_seconds() < 3600:
         raise ValueError('Guide incomplete or stale; preserving published files')
+    # Fill only schedule gaps, never overlap or replace real programmes.
+    names = {}
+    for block in kept:
+        header = block.splitlines()[0]
+        channel_id = re.search(r'tvg-id="([^"]+)"', header).group(1)
+        names.setdefault(channel_id, header.rsplit(',', 1)[-1])
+    defined = {c.get('id') for c in output.findall('channel')}
+    for channel_id, name in names.items():
+        if channel_id not in defined:
+            channel = ET.SubElement(output, 'channel', {'id': channel_id})
+            ET.SubElement(channel, 'display-name').text = name
+    intervals = {channel_id: [] for channel_id in names}
+    for item in output.findall('programme'):
+        intervals[item.get('channel')].append(tuple(datetime.strptime(item.get(k), '%Y%m%d%H%M%S %z') for k in ('start', 'stop')))
+    beginning = datetime.now(timezone.utc).replace(minute=0, second=0, microsecond=0)
+    ending = beginning + timedelta(hours=48)
+    placeholders = 0
+    placeholder_channels = set()
+    for channel_id, name in names.items():
+        cursor = beginning
+        gaps = []
+        for start, stop in sorted(intervals[channel_id]):
+            if stop <= cursor or start >= ending:
+                continue
+            if start > cursor:
+                gaps.append((cursor, min(start, ending)))
+            cursor = max(cursor, min(stop, ending))
+        if cursor < ending:
+            gaps.append((cursor, ending))
+        for start, stop in gaps:
+            while start < stop:
+                boundary = start.replace(minute=0, second=0, microsecond=0) + timedelta(hours=1)
+                finish = min(boundary, stop)
+                item = ET.SubElement(output, 'programme', {'channel': channel_id, 'start': start.strftime('%Y%m%d%H%M%S %z'), 'stop': finish.strftime('%Y%m%d%H%M%S %z')})
+                ET.SubElement(item, 'title').text = 'Live programming — ' + name
+                ET.SubElement(item, 'desc').text = 'Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.'
+                placeholders += 1
+                placeholder_channels.add(channel_id)
+                start = finish
     ET.indent(output)
     xml = ET.tostring(output, encoding='utf-8', xml_declaration=True)
-    return xml, {'matched_playlist_ids': sum(map(len, matched.values())), 'programmes': programmes, 'schedule_through_utc': latest.isoformat(), 'source': 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml'}
+    return xml, {'matched_playlist_ids': sum(map(len, matched.values())), 'programmes': programmes, 'placeholder_programmes': placeholders, 'placeholder_channels': len(placeholder_channels), 'total_guide_channels': len(names), 'placeholder_through_utc': ending.isoformat(), 'schedule_through_utc': latest.isoformat(), 'source': 'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml'}
 
 ROOT = Path(__file__).resolve().parent
 def fetch(url):
