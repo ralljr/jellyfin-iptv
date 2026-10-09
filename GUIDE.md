@@ -21,3 +21,9 @@ The WSL user crontab runs run-refresh.sh at minute 23 of every hour. Cron is
 enabled under systemd. WSL and the Windows computer must remain running and
 online for scheduled updates. GitHub Actions remains available for manual runs
 but no longer has a recurring schedule. Jellyfin reloads the guide hourly.
+
+Toonami Aftermath East and West use real show and episode listings from
+https://api.toonamiaftermath.com, covering up to three days. West is delayed
+three hours, following the iptv-org schedule configuration. Schedule gaps
+still receive placeholders. An incomplete Toonami download preserves the
+previous published guide. No images, media files, or server paths are copied.

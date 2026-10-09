@@ -9,6 +9,40 @@ import time
 import copy
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
+from urllib.parse import urlencode
+
+def toonami_programmes(channel_ids):
+    now = datetime.now(timezone.utc)
+    end = now + timedelta(days=3)
+    parse = lambda value: datetime.fromisoformat(value.replace('Z', '+00:00'))
+    playlists = {}
+    for offset in range(4):
+        day = (now - timedelta(hours=3) + timedelta(days=offset)).replace(hour=0, minute=0, second=0, microsecond=0)
+        query = urlencode({'scheduleName': 'Toonami Aftermath EST', 'startDate': day.isoformat(), 'thisWeek': 'true', 'weekStartDay': 'monday'})
+        for playlist in json.loads(fetch('https://api.toonamiaftermath.com/playlists?' + query)):
+            if parse(playlist['endDate']) + timedelta(hours=3) > now and parse(playlist['startDate']) < end:
+                playlists[playlist['_id']] = playlist
+    entries = {}
+    for playlist_id in playlists:
+        data = json.loads(fetch('https://api.toonamiaftermath.com/playlist?' + urlencode({'id': playlist_id, 'addInfo': 'true'})))
+        for block in data['playlist']['blocks']:
+            for media in block['mediaList']:
+                start, stop = parse(media['startDate']), parse(media['endDate'])
+                title = media.get('name') or block.get('name') or 'Toonami Aftermath'
+                for channel_id, delay in [('ToonamiAftermath.us@East', 0), ('ToonamiAftermath.us@West', 180)]:
+                    a, b = start + timedelta(minutes=delay), stop + timedelta(minutes=delay)
+                    if channel_id not in channel_ids or b <= now or a >= end or b <= a:
+                        continue
+                    item = ET.Element('programme', {'channel': channel_id, 'start': a.strftime('%Y%m%d%H%M%S %z'), 'stop': b.strftime('%Y%m%d%H%M%S %z')})
+                    ET.SubElement(item, 'title').text = title
+                    info = media.get('info') or {}
+                    for tag, key in [('desc', 'fullname'), ('sub-title', 'episode')]:
+                        if info.get(key):
+                            ET.SubElement(item, tag).text = str(info[key])
+                    entries[(channel_id, a, b)] = item
+    if channel_ids and len(entries) < 10:
+        raise ValueError('Toonami schedule incomplete; preserving published guide')
+    return list(entries.values())
 
 def build_guide(kept, mappings):
     source = ET.fromstring(fetch('https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml'))
@@ -50,6 +84,8 @@ def build_guide(kept, mappings):
         if channel_id not in defined:
             channel = ET.SubElement(output, 'channel', {'id': channel_id})
             ET.SubElement(channel, 'display-name').text = name
+    toonami = toonami_programmes(set(names) & {'ToonamiAftermath.us@East', 'ToonamiAftermath.us@West'})
+    output.extend(toonami)
     intervals = {channel_id: [] for channel_id in names}
     for item in output.findall('programme'):
         intervals[item.get('channel')].append(tuple(datetime.strptime(item.get(k), '%Y%m%d%H%M%S %z') for k in ('start', 'stop')))
