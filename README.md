@@ -4,6 +4,8 @@ Personal selection from [iptv-org](https://github.com/iptv-org/iptv), retaining 
 
 Use `us-curated.m3u` as the Jellyfin M3U tuner source via its raw GitHub URL.
 
+RetroStrange is a personal addition using its public Owncast HLS stream. The updater preserves it on every run and generates hourly placeholder guide entries; these do not identify the actual show airing.
+
 ## Current lineup
 
 802 stream entries from 1,457 source entries. Local streams currently available in the source: CBS KCCI, NBC KSHB-TV, and Ace TV KCKS-LD. The source does not currently provide a complete set of Iowa/Kansas City affiliates.

@@ -2607,20 +2607,9 @@
   <channel id="YuGiOhenespanol.us@SD">
     <display-name>Yu-Gi-Oh! en espanol (1080p)</display-name>
   </channel>
-  <programme channel="LittleStarsUniverse.us@SD" start="20261009121500 +0000" stop="20261009124400 +0000">
-    <title>The wubbulous world of Dr. Seuss</title>
-    <episode-num system="onscreen">S01E05</episode-num>
-    <episode-num system="pluto">667323ab946b360013045b40</episode-num>
-    <episode-num system="original-air-date">19961110000000 +0000</episode-num>
-    <desc>Larry Nooly and his family are going to the Lodge at beautiful Lake Mulloon.</desc>
-    <icon src="https://images.pluto.tv/series/66731f70c3f49b0013e59059/tile_1783365481863.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19961110</date>
-    <series-id system="pluto">66731f70c3f49b0013e59059</series-id>
-    <sub-title>The guest</sub-title>
-    <category>Animated</category>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
+  <channel id="RetroStrange.us">
+    <display-name>RetroStrange</display-name>
+  </channel>
   <programme channel="LittleStarsUniverse.us@SD" start="20261009124400 +0000" stop="20261009131300 +0000">
     <title>The wubbulous world of Dr. Seuss</title>
     <episode-num system="onscreen">S01E15</episode-num>
@@ -5176,16 +5165,6 @@
     <category>Country</category>
     <category>Music</category>
   </programme>
-  <programme channel="BETCinema.us@SD" start="20261009100000 +0000" stop="20261009124500 +0000">
-    <title>Dreamgirls</title>
-    <episode-num system="original-air-date">20061110000000 +0000</episode-num>
-    <desc>With showstopping performances by a star-studded cast, Dreamgirls soars with the amazing story of three female singers who learn that anything is possible when you hold on to your dreams.</desc>
-    <icon src="https://images.pluto.tv/episodes/6887b669df1220b535831a09/poster_1786569121526.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20061110</date>
-    <series-id system="pluto">6887b668df1220b5358319e5</series-id>
-    <category>Movie</category>
-    <category>Musical</category>
-  </programme>
   <programme channel="BETCinema.us@SD" start="20261009124500 +0000" stop="20261009151500 +0000">
     <title>Harlem Nights</title>
     <episode-num system="original-air-date">19891117000000 +0000</episode-num>
@@ -5317,19 +5296,6 @@
     <series-id system="pluto">5f04113471fca2001a6b8487</series-id>
     <category>Movie</category>
     <category>Action</category>
-  </programme>
-  <programme channel="PlutoTVHistory.us@US" start="20261009114900 +0000" stop="20261009124900 +0000">
-    <title>Nazi Hunters</title>
-    <episode-num system="onscreen">S01E03</episode-num>
-    <episode-num system="pluto">6127f30288b83100139a22c4</episode-num>
-    <episode-num system="original-air-date">20111205000000 +0000</episode-num>
-    <desc>As the Gestapo chief in Lyon, Klaus Barbie has the blood of 10,000 French Jews on his hands.</desc>
-    <icon src="https://images.pluto.tv/series/611ec0bc73019a0013ec7a78/tile_1782326882475.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20111205</date>
-    <series-id system="pluto">611ec0bc73019a0013ec7a78</series-id>
-    <sub-title>Klaus Barbie</sub-title>
-    <category>Documentary</category>
-    <category>Series</category>
   </programme>
   <programme channel="PlutoTVHistory.us@US" start="20261009124900 +0000" stop="20261009134900 +0000">
     <title>Nazi Hunters</title>
@@ -5499,17 +5465,6 @@
     <sub-title>The Moskova</sub-title>
     <category>Documentary</category>
     <category>Series</category>
-  </programme>
-  <programme channel="PlutoTVComedy.us@US" start="20261009104500 +0000" stop="20261009124500 +0000">
-    <title>Hot Rod</title>
-    <episode-num system="original-air-date">20070803000000 +0000</episode-num>
-    <desc>A comedy about a stunt man who’s never successfully landed a jump without wiping out and his attempt to master the biggest stunt of his life.</desc>
-    <icon src="https://images.pluto.tv/episodes/5d4dc3f53b96b9ab66d17662/poster_1789419973273.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20070803</date>
-    <series-id system="pluto">5d4dc3f33b96b9ab66d1765b</series-id>
-    <category>Movie</category>
-    <category>Comedy</category>
-    <category>Screwball</category>
   </programme>
   <programme channel="PlutoTVComedy.us@US" start="20261009124500 +0000" stop="20261009141500 +0000">
     <title>Mac &amp; Devin Go to High School</title>
@@ -8568,18 +8523,6 @@
     <category>Series</category>
     <category>Children</category>
   </programme>
-  <programme channel="NickJrPlutoTV.us@US" start="20261009120600 +0000" stop="20261009123200 +0000">
-    <title>PAW Patrol</title>
-    <live />
-    <episode-num system="original-air-date">20261009120600 +0000</episode-num>
-    <desc>Ryder, Chase and Rubble plan to help sea turtle hatchlings cross the road safely; the PAW Patrol must work together to save a beached baby whale.</desc>
-    <icon src="https://images.pluto.tv/series/630d28eb04308c00135c1547/tile_1783494030063.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">630d28eb04308c00135c1547</series-id>
-    <sub-title>Pups Save the Sea Turtles; Pup and the Very Big Baby</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
   <programme channel="NickJrPlutoTV.us@US" start="20261009123200 +0000" stop="20261009125800 +0000">
     <title>PAW Patrol</title>
     <live />
@@ -9014,20 +8957,6 @@
     <category>Movie</category>
     <category>Comedy</category>
     <category>Dark Humor &amp; Black Comedies</category>
-  </programme>
-  <programme channel="LogoPlutoTV.us@SD" start="20261009114500 +0000" stop="20261009124500 +0000">
-    <title>RuPaul's Drag Race</title>
-    <episode-num system="onscreen">S06E03</episode-num>
-    <episode-num system="pluto">6273dcac725d0900149672b9</episode-num>
-    <episode-num system="original-air-date">20140310000000 +0000</episode-num>
-    <desc>The queens put the 'fear' in 'fierce' as they act in a drag horror movie franchise. With guest judges Lena Headey (Game Of Thrones) and Linda Blair (The Exorcist).</desc>
-    <icon src="https://images.pluto.tv/series/5ce866c56b9da01d635d2f18/tile_1781813885732.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20140310</date>
-    <series-id system="pluto">5ce866c56b9da01d635d2f18</series-id>
-    <sub-title>Scream Queens</sub-title>
-    <category>Series</category>
-    <category>Competition Reality</category>
-    <category>Reality</category>
   </programme>
   <programme channel="LogoPlutoTV.us@SD" start="20261009124500 +0000" stop="20261009134500 +0000">
     <title>RuPaul's Drag Race</title>
@@ -11372,19 +11301,6 @@
     <category>Music</category>
     <category>Latino</category>
   </programme>
-  <programme channel="DCCMakingtheTeam.us@SD" start="20261009121500 +0000" stop="20261009124500 +0000">
-    <title>Dallas Cowboys Cheerleaders: Making the Team</title>
-    <episode-num system="onscreen">S05E503</episode-num>
-    <episode-num system="pluto">5d3baaa419b703edbd66f834</episode-num>
-    <episode-num system="original-air-date">20190813110000 +0000</episode-num>
-    <desc>This is the inside story of selecting this year's Dallas Cowboys Cheerleaders squad with all the emotion and drama as thousands of women hope to make the team.</desc>
-    <icon src="https://images.pluto.tv/series/5d38e7647a290bd0ba154ccb/tile_1770055202124.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20190813</date>
-    <series-id system="pluto">5d38e7647a290bd0ba154ccb</series-id>
-    <sub-title>Episode 503</sub-title>
-    <category>Documentary</category>
-    <category>Series</category>
-  </programme>
   <programme channel="DCCMakingtheTeam.us@SD" start="20261009124500 +0000" stop="20261009131500 +0000">
     <title>Dallas Cowboys Cheerleaders: Making the Team</title>
     <episode-num system="onscreen">S05E504</episode-num>
@@ -13112,20 +13028,6 @@
     <category>Series</category>
     <category>Reality</category>
   </programme>
-  <programme channel="Nickelodeonenespanol.us@SD" start="20261009120600 +0000" stop="20261009123400 +0000">
-    <title>Dora la exploradora</title>
-    <episode-num system="onscreen">S08E809</episode-num>
-    <episode-num system="pluto">633b4be9cfefb2001318ba6e</episode-num>
-    <episode-num system="original-air-date">20130927000000 +0000</episode-num>
-    <desc>Dora ayuda a un caballo herido, Sparky, a recuperarse, y ahora pueden hacer una última cabalgata antes de que se vaya a casa.</desc>
-    <icon src="https://images.pluto.tv/series/5d925f740978d94a759cf892/tile_1783671841885.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20130927</date>
-    <series-id system="pluto">5d925f740978d94a759cf892</series-id>
-    <sub-title>La cabalgata de Sparky y Dora</sub-title>
-    <category>Animated</category>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
   <programme channel="Nickelodeonenespanol.us@SD" start="20261009123400 +0000" stop="20261009130200 +0000">
     <title>Dora la exploradora</title>
     <episode-num system="onscreen">S08E810</episode-num>
@@ -14338,18 +14240,6 @@
     <category>News</category>
     <category>Series</category>
     <category>News &amp; Information</category>
-  </programme>
-  <programme channel="GameShowCentral.us@SD" start="20261009120900 +0000" stop="20261009123400 +0000">
-    <title>Person, Place or Thing</title>
-    <live />
-    <episode-num system="original-air-date">20261009120900 +0000</episode-num>
-    <desc>Based on the parlor game 20 Questions, three contestants compete to see who knows more about famous people, places and things.</desc>
-    <icon src="https://images.pluto.tv/series/69c78a9a2a202dc93b7c761b/tile_1774684827381.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19700101</date>
-    <series-id system="pluto">69c78a9a2a202dc93b7c761b</series-id>
-    <sub-title>Person, Place or Thing 1096</sub-title>
-    <category>Game show</category>
-    <category>Series</category>
   </programme>
   <programme channel="GameShowCentral.us@SD" start="20261009123400 +0000" stop="20261009130000 +0000">
     <title>Pictionary</title>
@@ -17270,19 +17160,6 @@
     <category>Series</category>
     <category>Classic Sci-Fi &amp; Fantasy</category>
   </programme>
-  <programme channel="ClassicTVComedy.us@SD" start="20261009120048 +0000" stop="20261009123048 +0000">
-    <title>Taxi</title>
-    <episode-num system="onscreen">S02E15</episode-num>
-    <episode-num system="pluto">613f90fdf3d10f0016f1e88a</episode-num>
-    <episode-num system="original-air-date">19800108000000 +0000</episode-num>
-    <desc>The cabbies try to make Tony a family man when they convince him to adopt the adorably precocious eight-year-old boy named Brian whom he befriended.</desc>
-    <icon src="https://images.pluto.tv/series/613a6a0462aa0500144ef1d1/tile_1785435841790.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19800108</date>
-    <series-id system="pluto">613a6a0462aa0500144ef1d1</series-id>
-    <sub-title>Tony And Brian</sub-title>
-    <category>Comedy</category>
-    <category>Series</category>
-  </programme>
   <programme channel="ClassicTVComedy.us@SD" start="20261009123048 +0000" stop="20261009130048 +0000">
     <title>Taxi</title>
     <episode-num system="onscreen">S02E16</episode-num>
@@ -18709,17 +18586,6 @@
     <category>Series</category>
     <category>Drama</category>
     <category>Inspirational Drama</category>
-  </programme>
-  <programme channel="PlutoTVCrimeMovies.us@SD" start="20261009094500 +0000" stop="20261009124500 +0000">
-    <title>City of God</title>
-    <episode-num system="original-air-date">20020830000000 +0000</episode-num>
-    <desc>This critically acclaimed global hit film is a true story of crime and redemption set in one of the most notorious slums: Rio de Janeiro's "City of God."</desc>
-    <icon src="https://images.pluto.tv/episodes/69caa0d827ed3c42e3335f7a/poster_1774887129274.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=1000&amp;q=75&amp;w=694" />
-    <date>20020830</date>
-    <series-id system="pluto">69caa0d627ed3c42e3335f59</series-id>
-    <category>Movie</category>
-    <category>Drama</category>
-    <category>Independent Drama</category>
   </programme>
   <programme channel="PlutoTVCrimeMovies.us@SD" start="20261009124500 +0000" stop="20261009144500 +0000">
     <title>8 Heads in a Duffel Bag</title>
@@ -20694,19 +20560,6 @@
     <category>Sports</category>
     <category>Series</category>
   </programme>
-  <programme channel="ParamountPlusPicks.us@SD" start="20261009114400 +0000" stop="20261009124400 +0000">
-    <title>NCIS</title>
-    <episode-num system="onscreen">S02E20</episode-num>
-    <episode-num system="pluto">6ab4545fd6f47f9aa7d17651</episode-num>
-    <episode-num system="original-air-date">20050426000000 +0000</episode-num>
-    <desc>Gibbs and the team head back to school when a Marine in an ROTC program is found murdered on a college campus.  (TV-PG)</desc>
-    <icon src="https://images.pluto.tv/series/6331c8966cb7a00013a9025b/tile_1782846722425.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20050426</date>
-    <series-id system="pluto">6331c8966cb7a00013a9025b</series-id>
-    <sub-title>Red Cell</sub-title>
-    <category>Series</category>
-    <category>Drama</category>
-  </programme>
   <programme channel="ParamountPlusPicks.us@SD" start="20261009124400 +0000" stop="20261009134400 +0000">
     <title>NCIS</title>
     <episode-num system="onscreen">S02E21</episode-num>
@@ -21916,19 +21769,6 @@
     <date>20200121</date>
     <series-id system="pluto">6074cac1f6870e001a5c8f68</series-id>
     <sub-title>Ink Master Teamwork Makes the Dream Work</sub-title>
-    <category>Series</category>
-    <category>Reality</category>
-  </programme>
-  <programme channel="JerseyShore.us@SD" start="20261009114500 +0000" stop="20261009124500 +0000">
-    <title>Jersey Shore Family Vacation</title>
-    <episode-num system="onscreen">S06E35</episode-num>
-    <episode-num system="pluto">6740bf45a5d22084e57cf3be</episode-num>
-    <episode-num system="original-air-date">20231207000000 +0000</episode-num>
-    <desc>The family reunion fun day continues! Margaritas are mixed, tables are flipped - but which roommate takes a twirl on the stripper pole? Find out on part two of the Jersey Shore: Family Vacation reunion!</desc>
-    <icon src="https://images.pluto.tv/series/5dfbcfa7cfdeaca57d49f857/tile_1786349881123.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20231207</date>
-    <series-id system="pluto">5dfbcfa7cfdeaca57d49f857</series-id>
-    <sub-title>Reunion Part 2</sub-title>
     <category>Series</category>
     <category>Reality</category>
   </programme>
@@ -23488,20 +23328,6 @@
     <sub-title>A Visit From Lena Horne</sub-title>
     <category>Comedy</category>
     <category>Series</category>
-  </programme>
-  <programme channel="LEGOKidsTV.us@SD" start="20261009121200 +0000" stop="20261009123900 +0000">
-    <title>LEGO Ninjago: Masters of Spinjitzu</title>
-    <episode-num system="onscreen">S02E22</episode-num>
-    <episode-num system="pluto">6179dcc7b8333a001adab4e3</episode-num>
-    <episode-num system="original-air-date">20121017000000 +0000</episode-num>
-    <desc>The Ninjas, Lloyd, Sensei Wu and Misako journey to the Dark Island to find a ‘Temple of Light’ that can restore the Ninjas’ elemental powers but are attacked by Starteeth (barnacle-like star fish) that start eating through their ship.</desc>
-    <icon src="https://images.pluto.tv/series/61798b32b8333a001ada9f34/tile_1775689208395.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20121017</date>
-    <series-id system="pluto">61798b32b8333a001ada9f34</series-id>
-    <sub-title>The Last Voyage</sub-title>
-    <category>Animated</category>
-    <category>Series</category>
-    <category>Children</category>
   </programme>
   <programme channel="LEGOKidsTV.us@SD" start="20261009123900 +0000" stop="20261009130600 +0000">
     <title>LEGO Ninjago: Masters of Spinjitzu</title>
@@ -25629,20 +25455,6 @@
     <category>Movie</category>
     <category>Science fiction</category>
     <category>Action</category>
-  </programme>
-  <programme channel="PerryMason.us@SD" start="20261009114500 +0000" stop="20261009124500 +0000">
-    <title>Perry Mason</title>
-    <episode-num system="onscreen">S01E20</episode-num>
-    <episode-num system="pluto">61d5e01ef30167001a679c43</episode-num>
-    <episode-num system="original-air-date">19580201000000 +0000</episode-num>
-    <desc>A rich, revenge-seeking young woman engages Perry Mason to defend her when a new facet of an old con game erupts into murder.</desc>
-    <icon src="https://images.pluto.tv/series/61c5041b12f2e7001ab7ef34/tile_1790638922926.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19580201</date>
-    <series-id system="pluto">61c5041b12f2e7001ab7ef34</series-id>
-    <sub-title>The Case of the Lonely Heiress</sub-title>
-    <category>Series</category>
-    <category>Courtroom Drama</category>
-    <category>Drama</category>
   </programme>
   <programme channel="PerryMason.us@SD" start="20261009124500 +0000" stop="20261009134500 +0000">
     <title>Perry Mason</title>
@@ -29542,19 +29354,6 @@
     <category>Series</category>
     <category>Children</category>
   </programme>
-  <programme channel="90sKidsTV2.us@SD" start="20261009120800 +0000" stop="20261009123500 +0000">
-    <title>Big Time Rush</title>
-    <episode-num system="onscreen">S04E05</episode-num>
-    <episode-num system="pluto">688d1724fd92ab53e8eb9db6</episode-num>
-    <episode-num system="original-air-date">20130101000000 +0000</episode-num>
-    <desc>BTR is making a cameo on a popular kid’s TV show, but Carlos’ pursuit of the show’s teen star puts him and Kendall in the crosshairs of her evil stage mother. Logan &amp; James battle Yo Gabba Gabba over their amazing snack table.</desc>
-    <icon src="https://images.pluto.tv/series/688cdc1399a2f3e74ad90c4e/tile_1781088481545.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20130101</date>
-    <series-id system="pluto">688cdc1399a2f3e74ad90c4e</series-id>
-    <sub-title>Big Time Cameo</sub-title>
-    <category>Series</category>
-    <category>Children</category>
-  </programme>
   <programme channel="90sKidsTV2.us@SD" start="20261009123500 +0000" stop="20261009130200 +0000">
     <title>Big Time Rush</title>
     <episode-num system="onscreen">S04E06</episode-num>
@@ -30667,20 +30466,6 @@
     <sub-title>I'm sorry</sub-title>
     <category>Documentary</category>
     <category>Series</category>
-  </programme>
-  <programme channel="DatingDisasters.us@SD" start="20261009121500 +0000" stop="20261009124500 +0000">
-    <title>Studs</title>
-    <episode-num system="onscreen">S01E35</episode-num>
-    <episode-num system="pluto">64c94f35d0d032001356babe</episode-num>
-    <episode-num system="original-air-date">19910101000000 +0000</episode-num>
-    <desc>Will the surfer or the cowboy be crowned King Stud?</desc>
-    <icon src="https://images.pluto.tv/series/64c93ce0d0d03200135690e5/tile_1768872241070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19910101</date>
-    <series-id system="pluto">64c93ce0d0d03200135690e5</series-id>
-    <sub-title>California Boys</sub-title>
-    <category>Game show</category>
-    <category>Series</category>
-    <category>Reality</category>
   </programme>
   <programme channel="DatingDisasters.us@SD" start="20261009124500 +0000" stop="20261009134500 +0000">
     <title>Double Shot at Love with DJ Pauly D &amp; Vinny</title>
@@ -33382,20 +33167,6 @@
     <category>Dramedy</category>
     <category>Drama</category>
   </programme>
-  <programme channel="PlutoTVTheTwilightZone.us@SD" start="20261009121500 +0000" stop="20261009124500 +0000">
-    <title>The Twilight Zone</title>
-    <episode-num system="onscreen">S05E08</episode-num>
-    <episode-num system="pluto">63a1e5ead2583200073fe6c0</episode-num>
-    <episode-num system="original-air-date">19631115000000 +0000</episode-num>
-    <desc>Barbara accidentally causes her cruel Uncle Simon's death. His will stipulates that she must care for his latest invention - a robot. The robot begins to take on Uncle Simon's traits.</desc>
-    <icon src="https://images.pluto.tv/series/5ef0d81d146bc5001ae9f7d0/tile_1790980055461.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>19631115</date>
-    <series-id system="pluto">5ef0d81d146bc5001ae9f7d0</series-id>
-    <sub-title>Uncle Simon</sub-title>
-    <category>Science fiction</category>
-    <category>Series</category>
-    <category>Classic Sci-Fi &amp; Fantasy</category>
-  </programme>
   <programme channel="PlutoTVTheTwilightZone.us@SD" start="20261009124500 +0000" stop="20261009140000 +0000">
     <title>The Twilight Zone</title>
     <episode-num system="onscreen">S04E01</episode-num>
@@ -34941,20 +34712,6 @@
     <sub-title>The Cyrano Episode</sub-title>
     <category>Comedy</category>
     <category>Series</category>
-  </programme>
-  <programme channel="AmericasNextTopModel.us@SD" start="20261009114500 +0000" stop="20261009124500 +0000">
-    <title>America's Next Top Model</title>
-    <episode-num system="onscreen">S09E10</episode-num>
-    <episode-num system="pluto">61003c4997de650014a24e5c</episode-num>
-    <episode-num system="original-air-date">20071114000000 +0000</episode-num>
-    <desc>When the models arrive in China they are introduced to their new penthouse suite, and one model who is left without a place to sleep becomes very upset.</desc>
-    <icon src="https://images.pluto.tv/series/5f28ddb250e989001a509e98/tile_1780308001393.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20071114</date>
-    <series-id system="pluto">5f28ddb250e989001a509e98</series-id>
-    <sub-title>The Girls Go To Shanghai</sub-title>
-    <category>Series</category>
-    <category>Competition Reality</category>
-    <category>Reality</category>
   </programme>
   <programme channel="AmericasNextTopModel.us@SD" start="20261009124500 +0000" stop="20261009134500 +0000">
     <title>America's Next Top Model</title>
@@ -36953,20 +36710,6 @@
     <category>Comedy</category>
     <category>Series</category>
   </programme>
-  <programme channel="PlutoTVHometownDrama.us@SD" start="20261009114500 +0000" stop="20261009124500 +0000">
-    <title>Everwood</title>
-    <episode-num system="onscreen">S04E08</episode-num>
-    <episode-num system="pluto">6a039bd828834670fba4e14a</episode-num>
-    <episode-num system="original-air-date">20051117000000 +0000</episode-num>
-    <desc>Bright and Amy take Hannah's pending departure harder than they expected. Jake sets out on a high-risk bike trip that takes a near fatal turn.</desc>
-    <icon src="https://images.pluto.tv/series/69ebdb3b24d9b7beb52cd3cc/tile_1779911642171.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20051117</date>
-    <series-id system="pluto">69ebdb3b24d9b7beb52cd3cc</series-id>
-    <sub-title>So Long, Farewell…</sub-title>
-    <category>Series</category>
-    <category>Drama</category>
-    <category>Independent Drama</category>
-  </programme>
   <programme channel="PlutoTVHometownDrama.us@SD" start="20261009124500 +0000" stop="20261009134500 +0000">
     <title>Everwood</title>
     <episode-num system="onscreen">S04E09</episode-num>
@@ -37517,20 +37260,6 @@
     <category>Science fiction</category>
     <category>Series</category>
   </programme>
-  <programme channel="PlutoTVReality.us@US" start="20261009113000 +0000" stop="20261009124500 +0000">
-    <title>The L Word</title>
-    <episode-num system="onscreen">S02E11</episode-num>
-    <episode-num system="pluto">6a0b98a38eee0f23e7a3bd50</episode-num>
-    <episode-num system="original-air-date">20050501000000 +0000</episode-num>
-    <desc>Against the backdrop of a gay-pride parade, shocking secrets are revealed about Dana's brother and Jenny's past, while Bette and Kit deal with their rapidly deteriorating father.</desc>
-    <icon src="https://images.pluto.tv/series/5fb49e4c924702001a464e60/tile_1791226441539.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=900" />
-    <date>20050501</date>
-    <series-id system="pluto">5fb49e4c924702001a464e60</series-id>
-    <sub-title>Loud &amp; Proud</sub-title>
-    <category>Series</category>
-    <category>Drama</category>
-    <category>Independent Drama</category>
-  </programme>
   <programme channel="PlutoTVReality.us@US" start="20261009124500 +0000" stop="20261009140000 +0000">
     <title>The L Word</title>
     <episode-num system="onscreen">S02E12</episode-num>
@@ -37705,17 +37434,9 @@
     <title>What A Cartoon! Show</title>
     <sub-title>Larry and Steve</sub-title>
   </programme>
-  <programme channel="ToonamiAftermath.us@East" start="20261009123017 +0000" stop="20261009123652 +0000">
-    <title>Cow and Chicken</title>
-    <sub-title>The Legend of Sailcat</sub-title>
-  </programme>
   <programme channel="ToonamiAftermath.us@West" start="20261009153017 +0000" stop="20261009153652 +0000">
     <title>Cow and Chicken</title>
     <sub-title>The Legend of Sailcat</sub-title>
-  </programme>
-  <programme channel="ToonamiAftermath.us@East" start="20261009123710 +0000" stop="20261009124403 +0000">
-    <title>I Am Weasel</title>
-    <sub-title>I Are Gladiator</sub-title>
   </programme>
   <programme channel="ToonamiAftermath.us@West" start="20261009153710 +0000" stop="20261009154403 +0000">
     <title>I Am Weasel</title>
@@ -39106,6 +38827,10 @@
     <sub-title>The Water Flowers of Cerulean City</sub-title>
   </programme>
   <programme channel="ToonamiAftermath.us@East" start="20261012094132 +0000" stop="20261012100705 +0000">
+    <title>Teen Titans</title>
+    <sub-title>Deep Six</sub-title>
+  </programme>
+  <programme channel="ToonamiAftermath.us@West" start="20261012124132 +0000" stop="20261012130705 +0000">
     <title>Teen Titans</title>
     <sub-title>Deep Six</sub-title>
   </programme>
@@ -42895,7 +42620,7 @@
     <title>Live programming — 90's Kids</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
-  <programme channel="90sKidsTV2.us@SD" start="20261009120000 +0000" stop="20261009120800 +0000">
+  <programme channel="90sKidsTV2.us@SD" start="20261009120000 +0000" stop="20261009123500 +0000">
     <title>Live programming — 90s Kids TV 2</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
@@ -48641,6 +48366,10 @@
   </programme>
   <programme channel="AMC.us@EastHD" start="20261011110000 +0000" stop="20261011120000 +0000">
     <title>Live programming — AMC (United States) (720p)</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="AmericasNextTopModel.us@SD" start="20261009120000 +0000" stop="20261009124500 +0000">
+    <title>Live programming — America's Next Top Model</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
   <programme channel="AmericasNextTopModel.us@SD" start="20261010014500 +0000" stop="20261010020000 +0000">
@@ -57681,6 +57410,10 @@
   </programme>
   <programme channel="BestofDrPhil.us@SD" start="20261011110000 +0000" stop="20261011120000 +0000">
     <title>Live programming — Best of Dr Phil</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="BETCinema.us@SD" start="20261009120000 +0000" stop="20261009124500 +0000">
+    <title>Live programming — BET Cinema</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
   <programme channel="BETCinema.us@SD" start="20261010033000 +0000" stop="20261010040000 +0000">
@@ -72015,7 +71748,7 @@
     <title>Live programming — Classic Movies Channel</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
-  <programme channel="ClassicTVComedy.us@SD" start="20261009120000 +0000" stop="20261009120048 +0000">
+  <programme channel="ClassicTVComedy.us@SD" start="20261009120000 +0000" stop="20261009123048 +0000">
     <title>Live programming — Classic TV Comedy</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
@@ -78399,7 +78132,7 @@
     <title>Live programming — Dateline 24/7 (1080p)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
-  <programme channel="DatingDisasters.us@SD" start="20261009120000 +0000" stop="20261009121500 +0000">
+  <programme channel="DatingDisasters.us@SD" start="20261009120000 +0000" stop="20261009124500 +0000">
     <title>Live programming — Dating Disasters</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
@@ -78543,7 +78276,7 @@
     <title>Live programming — Dating Disasters</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
-  <programme channel="DCCMakingtheTeam.us@SD" start="20261009120000 +0000" stop="20261009121500 +0000">
+  <programme channel="DCCMakingtheTeam.us@SD" start="20261009120000 +0000" stop="20261009124500 +0000">
     <title>Live programming — DCC: Making the Team</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
@@ -91047,7 +90780,7 @@
     <title>Live programming — Galxy TV (720p)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
-  <programme channel="GameShowCentral.us@SD" start="20261009120000 +0000" stop="20261009120900 +0000">
+  <programme channel="GameShowCentral.us@SD" start="20261009120000 +0000" stop="20261009123400 +0000">
     <title>Live programming — Game Show Central (720p)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
@@ -101383,6 +101116,10 @@
     <title>Live programming — Iron Chef</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
+  <programme channel="JerseyShore.us@SD" start="20261009120000 +0000" stop="20261009124500 +0000">
+    <title>Live programming — Jersey Shore (United States)</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
   <programme channel="JerseyShore.us@SD" start="20261010014500 +0000" stop="20261010020000 +0000">
     <title>Live programming — Jersey Shore (United States)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
@@ -105119,7 +104856,7 @@
     <title>Live programming — Lego Channel (1080p)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
-  <programme channel="LEGOKidsTV.us@SD" start="20261009120000 +0000" stop="20261009121200 +0000">
+  <programme channel="LEGOKidsTV.us@SD" start="20261009120000 +0000" stop="20261009123900 +0000">
     <title>Live programming — LEGO Kids TV</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
@@ -105839,7 +105576,7 @@
     <title>Live programming — Little Guyana TV (1080p)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
-  <programme channel="LittleStarsUniverse.us@SD" start="20261009120000 +0000" stop="20261009121500 +0000">
+  <programme channel="LittleStarsUniverse.us@SD" start="20261009120000 +0000" stop="20261009124400 +0000">
     <title>Live programming — Little Stars Universe</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
@@ -106701,6 +106438,10 @@
   </programme>
   <programme channel="Localish.us@SD" start="20261011110000 +0000" stop="20261011120000 +0000">
     <title>Live programming — Localish (1080p)</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="LogoPlutoTV.us@SD" start="20261009120000 +0000" stop="20261009124500 +0000">
+    <title>Live programming — Logo Pluto TV</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
   <programme channel="LogoPlutoTV.us@SD" start="20261010011500 +0000" stop="20261010020000 +0000">
@@ -120883,7 +120624,7 @@
     <title>Live programming — Nick Jr. (United States) East HD (720p)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
-  <programme channel="NickJrPlutoTV.us@US" start="20261009120000 +0000" stop="20261009120600 +0000">
+  <programme channel="NickJrPlutoTV.us@US" start="20261009120000 +0000" stop="20261009123200 +0000">
     <title>Live programming — Nick Jr. Pluto TV (720p)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
@@ -121219,7 +120960,7 @@
     <title>Live programming — Nickelodeon (United States) (720p)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
-  <programme channel="Nickelodeonenespanol.us@SD" start="20261009120000 +0000" stop="20261009120600 +0000">
+  <programme channel="Nickelodeonenespanol.us@SD" start="20261009120000 +0000" stop="20261009123400 +0000">
     <title>Live programming — Nickelodeon en espanol</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
@@ -127211,6 +126952,10 @@
     <title>Live programming — Paramount Network (432p)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
+  <programme channel="ParamountPlusPicks.us@SD" start="20261009120000 +0000" stop="20261009124400 +0000">
+    <title>Live programming — Paramount+ Picks</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
   <programme channel="ParamountPlusPicks.us@SD" start="20261010011200 +0000" stop="20261010020000 +0000">
     <title>Live programming — Paramount+ Picks</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
@@ -129355,6 +129100,10 @@
     <title>Live programming — Peppa Pig</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
+  <programme channel="PerryMason.us@SD" start="20261009120000 +0000" stop="20261009124500 +0000">
+    <title>Live programming — Perry Mason</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
   <programme channel="PerryMason.us@SD" start="20261010014500 +0000" stop="20261010020000 +0000">
     <title>Live programming — Perry Mason</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
@@ -130751,6 +130500,10 @@
     <title>Live programming — Pluto TV Cars</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
+  <programme channel="PlutoTVComedy.us@US" start="20261009120000 +0000" stop="20261009124500 +0000">
+    <title>Live programming — Pluto TV Comedy</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
   <programme channel="PlutoTVComedy.us@US" start="20261010020000 +0000" stop="20261010030000 +0000">
     <title>Live programming — Pluto TV Comedy</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
@@ -131165,6 +130918,10 @@
   </programme>
   <programme channel="PlutoTVCrimeDrama.us@SD" start="20261011110000 +0000" stop="20261011120000 +0000">
     <title>Live programming — Pluto TV Crime Drama</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="PlutoTVCrimeMovies.us@SD" start="20261009120000 +0000" stop="20261009124500 +0000">
+    <title>Live programming — Pluto TV Crime Movies</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
   <programme channel="PlutoTVCrimeMovies.us@SD" start="20261010023000 +0000" stop="20261010030000 +0000">
@@ -131991,6 +131748,10 @@
     <title>Live programming — Pluto TV Game Shows</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
+  <programme channel="PlutoTVHistory.us@US" start="20261009120000 +0000" stop="20261009124900 +0000">
+    <title>Live programming — Pluto TV History</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
   <programme channel="PlutoTVHistory.us@US" start="20261010010400 +0000" stop="20261010020000 +0000">
     <title>Live programming — Pluto TV History</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
@@ -132129,6 +131890,10 @@
   </programme>
   <programme channel="PlutoTVHistory.us@US" start="20261011110000 +0000" stop="20261011120000 +0000">
     <title>Live programming — Pluto TV History</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="PlutoTVHometownDrama.us@SD" start="20261009120000 +0000" stop="20261009124500 +0000">
+    <title>Live programming — Pluto TV Hometown Drama</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
   <programme channel="PlutoTVHometownDrama.us@SD" start="20261010014500 +0000" stop="20261010020000 +0000">
@@ -133129,6 +132894,10 @@
   </programme>
   <programme channel="PlutoTVReaction.us@SD" start="20261011110000 +0000" stop="20261011120000 +0000">
     <title>Live programming — Pluto TV Reaction</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="PlutoTVReality.us@US" start="20261009120000 +0000" stop="20261009124500 +0000">
+    <title>Live programming — Pluto TV Reality (United States)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
   <programme channel="PlutoTVReality.us@US" start="20261010011500 +0000" stop="20261010020000 +0000">
@@ -134291,7 +134060,7 @@
     <title>Live programming — Pluto TV Terror</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
-  <programme channel="PlutoTVTheTwilightZone.us@SD" start="20261009120000 +0000" stop="20261009121500 +0000">
+  <programme channel="PlutoTVTheTwilightZone.us@SD" start="20261009120000 +0000" stop="20261009124500 +0000">
     <title>Live programming — Pluto TV The Twilight Zone</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
@@ -162115,15 +161884,7 @@
     <title>Live programming — Tom And Jerry (720p)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
-  <programme channel="ToonamiAftermath.us@East" start="20261009120000 +0000" stop="20261009123017 +0000">
-    <title>Live programming — Toonami Aftermath (480p)</title>
-    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
-  </programme>
-  <programme channel="ToonamiAftermath.us@East" start="20261009123652 +0000" stop="20261009123710 +0000">
-    <title>Live programming — Toonami Aftermath (480p)</title>
-    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
-  </programme>
-  <programme channel="ToonamiAftermath.us@East" start="20261009124403 +0000" stop="20261009124413 +0000">
+  <programme channel="ToonamiAftermath.us@East" start="20261009120000 +0000" stop="20261009124413 +0000">
     <title>Live programming — Toonami Aftermath (480p)</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
@@ -186297,6 +186058,198 @@
   </programme>
   <programme channel="YuGiOhenespanol.us@SD" start="20261011110000 +0000" stop="20261011120000 +0000">
     <title>Live programming — Yu-Gi-Oh! en espanol (1080p)</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261009120000 +0000" stop="20261009130000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261009130000 +0000" stop="20261009140000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261009140000 +0000" stop="20261009150000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261009150000 +0000" stop="20261009160000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261009160000 +0000" stop="20261009170000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261009170000 +0000" stop="20261009180000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261009180000 +0000" stop="20261009190000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261009190000 +0000" stop="20261009200000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261009200000 +0000" stop="20261009210000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261009210000 +0000" stop="20261009220000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261009220000 +0000" stop="20261009230000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261009230000 +0000" stop="20261010000000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010000000 +0000" stop="20261010010000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010010000 +0000" stop="20261010020000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010020000 +0000" stop="20261010030000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010030000 +0000" stop="20261010040000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010040000 +0000" stop="20261010050000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010050000 +0000" stop="20261010060000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010060000 +0000" stop="20261010070000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010070000 +0000" stop="20261010080000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010080000 +0000" stop="20261010090000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010090000 +0000" stop="20261010100000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010100000 +0000" stop="20261010110000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010110000 +0000" stop="20261010120000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010120000 +0000" stop="20261010130000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010130000 +0000" stop="20261010140000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010140000 +0000" stop="20261010150000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010150000 +0000" stop="20261010160000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010160000 +0000" stop="20261010170000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010170000 +0000" stop="20261010180000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010180000 +0000" stop="20261010190000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010190000 +0000" stop="20261010200000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010200000 +0000" stop="20261010210000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010210000 +0000" stop="20261010220000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010220000 +0000" stop="20261010230000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261010230000 +0000" stop="20261011000000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261011000000 +0000" stop="20261011010000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261011010000 +0000" stop="20261011020000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261011020000 +0000" stop="20261011030000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261011030000 +0000" stop="20261011040000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261011040000 +0000" stop="20261011050000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261011050000 +0000" stop="20261011060000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261011060000 +0000" stop="20261011070000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261011070000 +0000" stop="20261011080000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261011080000 +0000" stop="20261011090000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261011090000 +0000" stop="20261011100000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261011100000 +0000" stop="20261011110000 +0000">
+    <title>Live programming — RetroStrange</title>
+    <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
+  </programme>
+  <programme channel="RetroStrange.us" start="20261011110000 +0000" stop="20261011120000 +0000">
+    <title>Live programming — RetroStrange</title>
     <desc>Schedule unavailable. This is a placeholder for tuning to the live channel; it does not identify the show currently airing.</desc>
   </programme>
 </tv>

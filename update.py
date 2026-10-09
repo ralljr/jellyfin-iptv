@@ -197,6 +197,10 @@ def main():
             kept.append(block.strip() + '\n')
             if re.search(r'\banime\b|HIDIVE|Crunchyroll', name, re.I):
                 anime.append(name)
+    # Personal additions are reapplied on every refresh, outside upstream filters.
+    retrostrange_url = 'https://live.retrostrange.com/hls/stream.m3u8'
+    kept = [block for block in kept if retrostrange_url not in block and 'tvg-id="RetroStrange.us"' not in block]
+    kept.append('#EXTINF:-1 tvg-id="RetroStrange.us" tvg-name="RetroStrange" group-title="Movies",RetroStrange\n' + retrostrange_url + '\n')
     assert kept, 'Refusing to publish an empty playlist'
     assert not any('3ABNFrench.us' in b for b in kept)
     assert not any(re.search(r'group-title="[^"]*Religious', b, re.I) for b in kept)
