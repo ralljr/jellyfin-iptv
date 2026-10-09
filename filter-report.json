@@ -1,6 +1,6 @@
 {
-  "source_entries": 1457,
-  "kept_entries": 802,
+  "source_entries": 1467,
+  "kept_entries": 811,
   "refreshed_pluto_entries": 174,
   "unmatched_pluto_channels": [
     "Best of Dr Phil",
@@ -23,7 +23,7 @@
     "Weeds & Nurse Jackie (720p)"
   ],
   "removed_by_reason": {
-    "religious channel": 128,
+    "religious channel": 129,
     "local station outside Iowa/Kansas City": 386,
     "non-English; English subtitles unverified": 136,
     "affiliate location outside selection or unspecified": 5
@@ -329,11 +329,6 @@
       "id": "AlMahdiTV.us@SD",
       "name": "Al-Mahdi TV (1080p)",
       "reason": "religious channel"
-    },
-    {
-      "id": "AlhurraIraq.us@SD",
-      "name": "Alhurra Iraq (720p)",
-      "reason": "non-English; English subtitles unverified"
     },
     {
       "id": "AlientoVision.us@SD",
@@ -884,6 +879,11 @@
       "id": "CMTV.us@SD",
       "name": "CMTV (720p)",
       "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CNNChile.cl@SD",
+      "name": "CNN Chile (1080p)",
+      "reason": "non-English; English subtitles unverified"
     },
     {
       "id": "CollierTV.us@SD",
@@ -2664,6 +2664,11 @@
       "id": "RTN.us@SD",
       "name": "RTN (United States)",
       "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "RTNChicago.us@SD",
+      "name": "RTN Chicago (480p)",
+      "reason": "religious channel"
     },
     {
       "id": "RTViUS.us@SD",
