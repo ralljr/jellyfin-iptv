@@ -1,6 +1,6 @@
 {
   "source_entries": 1467,
-  "kept_entries": 812,
+  "kept_entries": 811,
   "refreshed_pluto_entries": 174,
   "unmatched_pluto_channels": [
     "Best of Dr Phil",
@@ -25,7 +25,7 @@
   "removed_by_reason": {
     "religious channel": 129,
     "local station outside Iowa/Kansas City": 386,
-    "non-English; English subtitles unverified": 136,
+    "non-English; English subtitles unverified": 137,
     "affiliate location outside selection or unspecified": 5
   },
   "local_channels": [
@@ -883,6 +883,11 @@
     {
       "id": "CNNChile.cl@SD",
       "name": "CNN Chile (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "CNNenEspanol.us@SD",
+      "name": "CNN en Espanol (1080p)",
       "reason": "non-English; English subtitles unverified"
     },
     {
