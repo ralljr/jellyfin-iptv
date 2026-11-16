@@ -1,7 +1,7 @@
 {
-  "source_entries": 1483,
-  "kept_entries": 826,
-  "refreshed_pluto_entries": 174,
+  "source_entries": 1497,
+  "kept_entries": 843,
+  "refreshed_pluto_entries": 173,
   "unmatched_pluto_channels": [
     "Best of Dr Phil",
     "CBS News 24/7 (720p)",
@@ -23,10 +23,10 @@
     "Weeds & Nurse Jackie (720p)"
   ],
   "removed_by_reason": {
-    "religious channel": 129,
-    "local station outside Iowa/Kansas City": 387,
-    "non-English; English subtitles unverified": 137,
-    "affiliate location outside selection or unspecified": 5
+    "religious channel": 131,
+    "local station outside Iowa/Kansas City": 384,
+    "non-English; English subtitles unverified": 136,
+    "affiliate location outside selection or unspecified": 4
   },
   "local_channels": [
     "Ace TV KCKS-LD (720p)",
@@ -42,17 +42,17 @@
   "removed": [
     {
       "id": "3ABNEnglish.us@SD",
-      "name": "3ABN English",
+      "name": "3ABN English (720p)",
       "reason": "religious channel"
     },
     {
       "id": "3ABNFrench.us@SD",
-      "name": "3ABN French",
+      "name": "3ABN French (720p)",
       "reason": "religious channel"
     },
     {
       "id": "3ABNKids.us@SD",
-      "name": "3ABN Kids",
+      "name": "3ABN Kids (720p)",
       "reason": "religious channel"
     },
     {
@@ -62,12 +62,17 @@
     },
     {
       "id": "3ABNPraiseHimMusicNetwork.us@SD",
-      "name": "3ABN Praise Him Music Network",
+      "name": "3ABN Praise Him Music Network (720p)",
       "reason": "religious channel"
     },
     {
       "id": "3ABNProclaimNetwork.us@SD",
-      "name": "3ABN Proclaim! Network",
+      "name": "3ABN Proclaim! Network (720p)",
+      "reason": "religious channel"
+    },
+    {
+      "id": "AasthaInternational.in@SD",
+      "name": "Aastha International (576p)",
       "reason": "religious channel"
     },
     {
@@ -107,7 +112,7 @@
     },
     {
       "id": "ABC.us@KRGVTV",
-      "name": "ABC KRGV-TV",
+      "name": "ABC KRGV-TV (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -197,7 +202,7 @@
     },
     {
       "id": "ABC.us@WWAY",
-      "name": "ABC WWAY",
+      "name": "ABC WWAY (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -277,12 +282,12 @@
     },
     {
       "id": "ACECountryRadio.us@KPVMLD",
-      "name": "ACE Country Radio KPVM-LD",
+      "name": "ACE Country Radio KPVM-LD (480p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "ACTV.us@SD",
-      "name": "ACTV (United States)",
+      "name": "ACTV (United States) (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -452,7 +457,7 @@
     },
     {
       "id": "AWEPlus.us@KPVMLD",
-      "name": "AWE Plus KPVM-LD",
+      "name": "AWE Plus KPVM-LD (484p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -472,12 +477,12 @@
     },
     {
       "id": "BATVEducationalChannel.us@SD",
-      "name": "BATV Educational Channel",
+      "name": "BATV Educational Channel (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "BATVGovernmentChannel.us@SD",
-      "name": "BATV Government Channel",
+      "name": "BATV Government Channel (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -487,7 +492,7 @@
     },
     {
       "id": "BATVPublicChannel.us@SD",
-      "name": "BATV Public Channel",
+      "name": "BATV Public Channel (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -512,7 +517,7 @@
     },
     {
       "id": "BestofBATVChannel.us@SD",
-      "name": "Best of BATV Channel",
+      "name": "Best of BATV Channel (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -542,7 +547,7 @@
     },
     {
       "id": "Binge.us@SD",
-      "name": "Binge",
+      "name": "Binge (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -562,13 +567,18 @@
     },
     {
       "id": "BPXTVRadio.us@SD",
-      "name": "BPX TV Radio",
+      "name": "BPX TV Radio (720p)",
       "reason": "non-English; English subtitles unverified"
     },
     {
       "id": "BrevardGovernmentAccessTV.us@SD",
       "name": "Brevard Government Access TV (720p)",
       "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "BTLTV.nl@SD",
+      "name": "BTL TV (Netherlands) (1080p)",
+      "reason": "religious channel"
     },
     {
       "id": "BUTV10.us@SD",
@@ -881,11 +891,6 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
-      "id": "CNNChile.cl@SD",
-      "name": "CNN Chile (1080p)",
-      "reason": "non-English; English subtitles unverified"
-    },
-    {
       "id": "CNNenEspanol.us@SD",
       "name": "CNN en Espanol (1080p)",
       "reason": "non-English; English subtitles unverified"
@@ -937,7 +942,7 @@
     },
     {
       "id": "Create.us@WMPT",
-      "name": "Create WMPT",
+      "name": "Create WMPT (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -962,7 +967,7 @@
     },
     {
       "id": "CruzTV.us@SD",
-      "name": "Cruz TV",
+      "name": "Cruz TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -1017,7 +1022,7 @@
     },
     {
       "id": "DareToDreamNetwork.us@SD",
-      "name": "Dare To Dream Network",
+      "name": "Dare To Dream Network (720p)",
       "reason": "religious channel"
     },
     {
@@ -1116,11 +1121,6 @@
       "reason": "non-English; English subtitles unverified"
     },
     {
-      "id": "ElSembradorNuevaEvangelizacionESNE.us@SD",
-      "name": "El Sembrador Nueva Evangelizacion ESNE",
-      "reason": "religious channel"
-    },
-    {
       "id": "ElbesharaGTV.us@SD",
       "name": "Elbeshara GTV (1080p) [Not 24/7]",
       "reason": "religious channel"
@@ -1132,7 +1132,7 @@
     },
     {
       "id": "ESNETV.us@SD",
-      "name": "ESNE TV (1080p)",
+      "name": "ESNE TV (720p)",
       "reason": "religious channel"
     },
     {
@@ -1154,11 +1154,6 @@
       "id": "EstrellaTV.us@SD",
       "name": "Estrella TV (1080p)",
       "reason": "non-English; English subtitles unverified"
-    },
-    {
-      "id": "EstrellaTV.us@WMBCTV",
-      "name": "Estrella TV WMBC-TV (720p)",
-      "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "EWTN.us@English",
@@ -1206,6 +1201,11 @@
       "reason": "non-English; English subtitles unverified"
     },
     {
+      "id": "FMHKids.us@SD",
+      "name": "FMH Kids (720p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
       "id": "FNX.us@KVCRDT",
       "name": "FNX KVCR-DT [Geo-blocked]",
       "reason": "local station outside Iowa/Kansas City"
@@ -1214,11 +1214,6 @@
       "id": "ForensicFiles.us@SD",
       "name": "Forensic Files",
       "reason": "non-English; English subtitles unverified"
-    },
-    {
-      "id": "Fox.us@East",
-      "name": "Fox (United States) (720p)",
-      "reason": "affiliate location outside selection or unspecified"
     },
     {
       "id": "Fox.us@KBSI",
@@ -1303,11 +1298,6 @@
     {
       "id": "Fox.us@WNYW",
       "name": "Fox (United States) WNYW (1080p)",
-      "reason": "local station outside Iowa/Kansas City"
-    },
-    {
-      "id": "Fox.us@WSVN",
-      "name": "Fox (United States) WSVN (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -1517,7 +1507,7 @@
     },
     {
       "id": "HopeChannelInterAmerica.us@SD",
-      "name": "Hope Channel Inter-America",
+      "name": "Hope Channel Inter-America (1080p)",
       "reason": "religious channel"
     },
     {
@@ -1537,7 +1527,7 @@
     },
     {
       "id": "iHolyfieldTV.us@WHPSCD",
-      "name": "iHolyfield TV WHPS-CD",
+      "name": "iHolyfield TV WHPS-CD (614p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -1554,6 +1544,11 @@
       "id": "InstantSaga.us@US",
       "name": "Instant Saga",
       "reason": "non-English; English subtitles unverified"
+    },
+    {
+      "id": "InTouchPlus.us@HD",
+      "name": "InTouch+ (1080p) [Geo-blocked]",
+      "reason": "religious channel"
     },
     {
       "id": "IraneFardaTV.uk@SD",
@@ -1637,7 +1632,7 @@
     },
     {
       "id": "KernCountyTV.us@SD",
-      "name": "Kern County TV",
+      "name": "Kern County TV (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -1697,12 +1692,12 @@
     },
     {
       "id": "KPVMLD251.us@HD",
-      "name": "KPVM-LD 25.1",
+      "name": "KPVM-LD 25.1 (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "KRGVTV52.us@HD",
-      "name": "KRGV-TV 5.2 [Geo-blocked]",
+      "name": "KRGV-TV 5.2 (720p) [Geo-blocked]",
       "reason": "non-English; English subtitles unverified"
     },
     {
@@ -1717,7 +1712,7 @@
     },
     {
       "id": "KTOO360TV.us@KTOOTV",
-      "name": "KTOO 360TV KTOO-TV",
+      "name": "KTOO 360TV KTOO-TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -1742,12 +1737,12 @@
     },
     {
       "id": "LaVozdeJesusHD.do@HD",
-      "name": "La Voz de Jesus HD (720p)",
+      "name": "La Voz de Jesus HD (720p) [Not 24/7]",
       "reason": "religious channel"
     },
     {
       "id": "LakeHavasuCity4.us@SD",
-      "name": "Lake Havasu City 4",
+      "name": "Lake Havasu City 4 (360p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -1957,7 +1952,7 @@
     },
     {
       "id": "MCPSSTV.us@SD",
-      "name": "MCPSS TV",
+      "name": "MCPSS TV (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2026,8 +2021,8 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
-      "id": "MNT.us@WWORTV",
-      "name": "MNT WWOR-TV",
+      "id": "MNT.us@WOIO",
+      "name": "MNT WOIO (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2057,7 +2052,7 @@
     },
     {
       "id": "Movies.us@KPVMLD",
-      "name": "Movies! KPVM-LD",
+      "name": "Movies! KPVM-LD (480p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2196,6 +2191,11 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "NBC.us@WKYC",
+      "name": "NBC WKYC (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "NBC.us@WLIO",
       "name": "NBC WLIO (720p) [Not 24/7]",
       "reason": "local station outside Iowa/Kansas City"
@@ -2233,11 +2233,6 @@
     {
       "id": "NBC.us@WRDELD",
       "name": "NBC WRDE-LD (720p) [Not 24/7]",
-      "reason": "local station outside Iowa/Kansas City"
-    },
-    {
-      "id": "NBC.us@WTLV",
-      "name": "NBC WTLV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2317,7 +2312,7 @@
     },
     {
       "id": "Newsmax2.us@KPVMLD",
-      "name": "Newsmax 2 KPVM-LD",
+      "name": "Newsmax 2 KPVM-LD (484p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2497,7 +2492,7 @@
     },
     {
       "id": "PHXTV.us@SD",
-      "name": "PHXTV",
+      "name": "PHXTV (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2587,7 +2582,7 @@
     },
     {
       "id": "RadioTeleSentinel.us@SD",
-      "name": "Radio Tele Sentinel",
+      "name": "Radio Tele Sentinel (720p)",
       "reason": "religious channel"
     },
     {
@@ -2622,7 +2617,7 @@
     },
     {
       "id": "RealAmericasVoice.us@KPVMLD",
-      "name": "Real America's Voice KPVM-LD",
+      "name": "Real America's Voice KPVM-LD (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2717,17 +2712,17 @@
     },
     {
       "id": "SCCurrents.us@SD",
-      "name": "SC Currents",
+      "name": "SC Currents (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "ScientologyNetwork.us@KSCNTV",
-      "name": "Scientology Network KSCN-TV",
+      "name": "Scientology Network KSCN-TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "ScientologyNetwork.us@WFTTTV",
-      "name": "Scientology Network WFTT-TV",
+      "name": "Scientology Network WFTT-TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2842,7 +2837,7 @@
     },
     {
       "id": "StoryTelevision.us@KPVMLD",
-      "name": "Story Television KPVM-LD",
+      "name": "Story Television KPVM-LD (480p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2928,11 +2923,6 @@
     {
       "id": "TelemundoCorpusChristi.us@SD",
       "name": "Telemundo Corpus Christi (720p)",
-      "reason": "non-English; English subtitles unverified"
-    },
-    {
-      "id": "TeleXitos.us@SD",
-      "name": "TeleXitos (1080p)",
       "reason": "non-English; English subtitles unverified"
     },
     {
@@ -3037,7 +3027,7 @@
     },
     {
       "id": "TUDN.us@SD",
-      "name": "TUDN (United States) (1080p)",
+      "name": "TUDN (United States) (1080p) [Geo-blocked]",
       "reason": "non-English; English subtitles unverified"
     },
     {
@@ -3067,7 +3057,7 @@
     },
     {
       "id": "TVEInternacionalAmerica.es@SD",
-      "name": "TVE Internacional America (576p) [Geo-blocked]",
+      "name": "TVE Internacional America (720p)",
       "reason": "non-English; English subtitles unverified"
     },
     {
@@ -3092,12 +3082,12 @@
     },
     {
       "id": "UniMas.us@KFTRDT",
-      "name": "UniMas KFTR-DT [Geo-blocked]",
+      "name": "UniMas KFTR-DT (1080p) [Geo-blocked]",
       "reason": "non-English; English subtitles unverified"
     },
     {
       "id": "UniMas.us@KUVNDT",
-      "name": "UniMas KUVN-DT",
+      "name": "UniMas KUVN-DT (1080p)",
       "reason": "non-English; English subtitles unverified"
     },
     {
@@ -3106,23 +3096,18 @@
       "reason": "non-English; English subtitles unverified"
     },
     {
-      "id": "UniMas.us@WAMIDT",
-      "name": "UniMas WAMI-DT (1080p)",
-      "reason": "local station outside Iowa/Kansas City"
-    },
-    {
       "id": "UniMas.us@WFUTDT",
       "name": "UniMas WFUT-DT (720p) [Geo-blocked]",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "UniMas.us@WXTVDT",
-      "name": "UniMas WXTV-DT",
+      "name": "UniMas WXTV-DT (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "Univision.us@KMEXDT",
-      "name": "Univision KMEX-DT [Geo-blocked]",
+      "name": "Univision KMEX-DT (1080p) [Geo-blocked]",
       "reason": "non-English; English subtitles unverified"
     },
     {
@@ -3187,12 +3172,12 @@
     },
     {
       "id": "W14DKD141.us@HD",
-      "name": "W14DK-D 14.1",
+      "name": "W14DK-D 14.1 (720p)",
       "reason": "religious channel"
     },
     {
       "id": "W14DKD142.us@SD",
-      "name": "W14DK-D 14.2",
+      "name": "W14DK-D 14.2 (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -3261,6 +3246,11 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "WOXTV.us@SD",
+      "name": "WOX TV (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
       "id": "WPLG101.us@HD",
       "name": "WPLG 10.1 (720p)",
       "reason": "local station outside Iowa/Kansas City"
@@ -3292,7 +3282,7 @@
     },
     {
       "id": "YouDotGov.us@SD",
-      "name": "YouDotGov",
+      "name": "YouDotGov (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -3323,11 +3313,6 @@
     {
       "id": "ZoomNews.us@SD",
       "name": "Zoom News (720p)",
-      "reason": "non-English; English subtitles unverified"
-    },
-    {
-      "id": "ZTV.us@SD",
-      "name": "ZTV (1080p)",
       "reason": "non-English; English subtitles unverified"
     }
   ]
