@@ -1,5 +1,5 @@
 {
-  "source_entries": 1497,
+  "source_entries": 1498,
   "kept_entries": 843,
   "refreshed_pluto_entries": 173,
   "unmatched_pluto_channels": [
@@ -24,9 +24,9 @@
   ],
   "removed_by_reason": {
     "religious channel": 131,
+    "affiliate location outside selection or unspecified": 5,
     "local station outside Iowa/Kansas City": 384,
-    "non-English; English subtitles unverified": 136,
-    "affiliate location outside selection or unspecified": 4
+    "non-English; English subtitles unverified": 136
   },
   "local_channels": [
     "Ace TV KCKS-LD (720p)",
@@ -74,6 +74,11 @@
       "id": "AasthaInternational.in@SD",
       "name": "Aastha International (576p)",
       "reason": "religious channel"
+    },
+    {
+      "id": "ABC.us@East",
+      "name": "ABC (1080p)",
+      "reason": "affiliate location outside selection or unspecified"
     },
     {
       "id": "ABC.us@KAAL",
