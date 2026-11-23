@@ -1,13 +1,11 @@
 {
-  "source_entries": 1498,
-  "kept_entries": 843,
-  "refreshed_pluto_entries": 173,
+  "source_entries": 1559,
+  "kept_entries": 861,
+  "refreshed_pluto_entries": 170,
   "unmatched_pluto_channels": [
-    "Best of Dr Phil",
     "CBS News 24/7 (720p)",
     "Comedy Central Animation",
     "Concert Channel (720p)",
-    "Crime 360 (720p)",
     "Farscape",
     "Garfield and Friends",
     "Girlfriends Films",
@@ -18,20 +16,20 @@
     "Runtime (720p)",
     "The Conners",
     "The Price Is Right: The Barker Era (720p)",
-    "Tiny House Nation (720p)",
     "Transformers TV (720p)",
     "Weeds & Nurse Jackie (720p)"
   ],
   "removed_by_reason": {
-    "religious channel": 131,
+    "religious channel": 130,
+    "local station outside Iowa/Kansas City": 429,
     "affiliate location outside selection or unspecified": 5,
-    "local station outside Iowa/Kansas City": 384,
-    "non-English; English subtitles unverified": 136
+    "non-English; English subtitles unverified": 135
   },
   "local_channels": [
     "Ace TV KCKS-LD (720p)",
     "CBS KCCI (720p)",
-    "NBC KSHB-TV (720p)"
+    "MNT KCTV (1080p) [Geo-blocked]",
+    "NBC KSHB-TV (1080p)"
   ],
   "anime_channels": [
     "Anime x HIDIVE",
@@ -71,6 +69,11 @@
       "reason": "religious channel"
     },
     {
+      "id": "3TV.us@KTVK",
+      "name": "3TV (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "AasthaInternational.in@SD",
       "name": "Aastha International (576p)",
       "reason": "religious channel"
@@ -86,23 +89,33 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "ABC.us@KATC",
+      "name": "ABC KATC (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "ABC.us@KEROTV",
-      "name": "ABC KERO-TV (720p)",
+      "name": "ABC KERO-TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "ABC.us@KGTV",
-      "name": "ABC KGTV (720p)",
+      "name": "ABC KGTV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "ABC.us@KGUNTV",
-      "name": "ABC KGUN-TV (720p)",
+      "name": "ABC KGUN-TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "ABC.us@KITV",
       "name": "ABC KITV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@KIVITV",
+      "name": "ABC KIVI-TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -127,7 +140,12 @@
     },
     {
       "id": "ABC.us@KXXV",
-      "name": "ABC KXXV (720p)",
+      "name": "ABC KXXV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WBAYTV",
+      "name": "ABC WBAY-TV (1080p) [Geo-blocked]",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -141,8 +159,18 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "ABC.us@WCPOTV",
+      "name": "ABC WCPO-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "ABC.us@WDIODT",
       "name": "ABC WDIO-DT (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WEWSTV",
+      "name": "ABC WEWS-TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -167,7 +195,7 @@
     },
     {
       "id": "ABC.us@WMARTV",
-      "name": "ABC WMAR-TV (720p)",
+      "name": "ABC WMAR-TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -178,6 +206,11 @@
     {
       "id": "ABC.us@WPDETV",
       "name": "ABC WPDE-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WSBTV",
+      "name": "ABC WSB-TV (1080p) [Geo-blocked]",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -202,12 +235,17 @@
     },
     {
       "id": "ABC.us@WTXLTV",
-      "name": "ABC WTXL-TV (720p)",
+      "name": "ABC WTXL-TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "ABC.us@WWAY",
       "name": "ABC WWAY (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "ABC.us@WWSB",
+      "name": "ABC WWSB (1080p) [Geo-blocked]",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -247,12 +285,12 @@
     },
     {
       "id": "Access4PAC.us@SD",
-      "name": "Access 4 PAC",
+      "name": "Access 4 PAC (480p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "Access19.us@SD",
-      "name": "Access 19",
+      "name": "Access 19 (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -397,7 +435,7 @@
     },
     {
       "id": "AMCenEspanol.us@SD",
-      "name": "AMC en Espanol",
+      "name": "AMC en Espanol (1080p)",
       "reason": "non-English; English subtitles unverified"
     },
     {
@@ -542,12 +580,12 @@
     },
     {
       "id": "BIGCivicChannel.us@SD",
-      "name": "BIG Civic Channel",
+      "name": "BIG Civic Channel (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "BIGCommunityChannel.us@SD",
-      "name": "BIG Community Channel",
+      "name": "BIG Community Channel (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -676,13 +714,43 @@
       "reason": "religious channel"
     },
     {
+      "id": "CBS.us@KBZK",
+      "name": "CBS KBZK (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "CBS.us@KIROTV",
       "name": "CBS KIRO-TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "CBS.us@KMOV",
+      "name": "CBS KMOV (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "CBS.us@KMTVTV",
-      "name": "CBS KMTV-TV (720p)",
+      "name": "CBS KMTV-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@KOLDTV",
+      "name": "CBS KOLD-TV (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@KPAXTV",
+      "name": "CBS KPAX-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@KRTV",
+      "name": "CBS KRTV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@KTVQ",
+      "name": "CBS KTVQ (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -701,13 +769,28 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "CBS.us@WANF",
+      "name": "CBS WANF (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "CBS.us@WCBITV",
       "name": "CBS WCBI-TV (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "CBS.us@WDBJ",
+      "name": "CBS WDBJ (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "CBS.us@WDEFTV",
       "name": "CBS WDEF-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@WFSB",
+      "name": "CBS WFSB (1080p) [Geo-blocked]",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -726,13 +809,28 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "CBS.us@WKYTTV",
+      "name": "CBS WKYT-TV (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "CBS.us@WPEC",
       "name": "CBS WPEC (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "CBS.us@WTKR",
+      "name": "CBS WTKR (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "CBS.us@WTVRTV",
-      "name": "CBS WTVR-TV (720p)",
+      "name": "CBS WTVR-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "CBS.us@WVLTTV",
+      "name": "CBS WVLT-TV (1080p) [Geo-blocked]",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -762,7 +860,7 @@
     },
     {
       "id": "Channel18GAC.us@SD",
-      "name": "Channel 18 GAC",
+      "name": "Channel 18 GAC (480p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -817,7 +915,7 @@
     },
     {
       "id": "CityofMonroeGovernmentChannel.us@SD",
-      "name": "City of Monroe Government Channel",
+      "name": "City of Monroe Government Channel (1280p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -942,7 +1040,7 @@
     },
     {
       "id": "COStv.us@SD",
-      "name": "COStv",
+      "name": "COStv (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -1082,22 +1180,22 @@
     },
     {
       "id": "DetroitChannel10.us@SD",
-      "name": "Detroit Channel 10",
+      "name": "Detroit Channel 10 (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "DetroitChannel21.us@SD",
-      "name": "Detroit Channel 21",
+      "name": "Detroit Channel 21 (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "DetroitChannel22.us@SD",
-      "name": "Detroit Channel 22",
+      "name": "Detroit Channel 22 (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "DetroitChannel68.us@SD",
-      "name": "Detroit Channel 68",
+      "name": "Detroit Channel 68 (720p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -1211,6 +1309,11 @@
       "reason": "non-English; English subtitles unverified"
     },
     {
+      "id": "FMHMovies.us@SD",
+      "name": "FMH Movies (1080p)",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
       "id": "FNX.us@KVCRDT",
       "name": "FNX KVCR-DT [Geo-blocked]",
       "reason": "local station outside Iowa/Kansas City"
@@ -1227,7 +1330,7 @@
     },
     {
       "id": "Fox.us@KCPQ",
-      "name": "Fox (United States) KCPQ (720p)",
+      "name": "Fox (United States) KCPQ (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -1238,6 +1341,11 @@
     {
       "id": "Fox.us@KMPHTV",
       "name": "Fox (United States) KMPH-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@KMSPTV",
+      "name": "Fox (United States) KMSP-TV (1080p) [Geo-blocked]",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -1256,6 +1364,11 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "Fox.us@KSTU",
+      "name": "Fox (United States) KSTU (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "Fox.us@KTBC",
       "name": "Fox (United States) KTBC (1080p)",
       "reason": "local station outside Iowa/Kansas City"
@@ -1266,8 +1379,28 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "Fox.us@KVVUTV",
+      "name": "Fox (United States) KVVU-TV (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WAGATV",
+      "name": "Fox (United States) WAGA-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WALATV",
+      "name": "Fox (United States) WALA-TV (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "Fox.us@WBFF",
       "name": "Fox (United States) WBFF (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WBRC",
+      "name": "Fox (United States) WBRC (1080p) [Geo-blocked]",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -1288,6 +1421,11 @@
     {
       "id": "Fox.us@WHBQTV",
       "name": "Fox (United States) WHBQ-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WHNS",
+      "name": "Fox (United States) WHNS (1080p) [Geo-blocked]",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -1321,8 +1459,38 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "Fox.us@WVUEDT",
+      "name": "Fox (United States) WVUE-DT (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WXIXTV",
+      "name": "Fox (United States) WXIX-TV (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Fox.us@WXMI",
+      "name": "Fox (United States) WXMI (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "Fox.us@WXXVTV",
       "name": "Fox (United States) WXXV-TV (720p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "FoxWeather.us@KTVU",
+      "name": "Fox Weather KTVU (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "FoxWeather.us@WFLD",
+      "name": "Fox Weather WFLD (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "FoxWeather.us@WOFL",
+      "name": "Fox Weather WOFL (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -1433,11 +1601,6 @@
     {
       "id": "GuangdongTVAmerica.us@SD",
       "name": "Guangdong TV America",
-      "reason": "non-English; English subtitles unverified"
-    },
-    {
-      "id": "GunAzTV.us@SD",
-      "name": "GunAz TV",
       "reason": "non-English; English subtitles unverified"
     },
     {
@@ -1682,7 +1845,7 @@
     },
     {
       "id": "KNXVTV611.us@HD",
-      "name": "KNXV-TV 61.1 (720p)",
+      "name": "KNXV-TV 61.1 (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -1861,19 +2024,9 @@
       "reason": "religious channel"
     },
     {
-      "id": "LogosTVEstudio.es@SD",
-      "name": "Logos TV Estudio (720p) [Not 24/7]",
-      "reason": "religious channel"
-    },
-    {
       "id": "LogosTVKids.es@SD",
       "name": "Logos TV Kids (720p) [Not 24/7]",
       "reason": "religious channel"
-    },
-    {
-      "id": "LogosTVSalud.es@SD",
-      "name": "Logos TV Salud (720p) [Not 24/7]",
-      "reason": "non-English; English subtitles unverified"
     },
     {
       "id": "LoneStar.us@SD",
@@ -2016,6 +2169,11 @@
       "reason": "non-English; English subtitles unverified"
     },
     {
+      "id": "MNT.us@KPTV",
+      "name": "MNT KPTV (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "MNT.us@WCIV",
       "name": "MNT WCIV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
@@ -2037,12 +2195,12 @@
     },
     {
       "id": "MonroeCommunityMediaEducationChannel.us@SD",
-      "name": "Monroe Community Media Education Channel",
+      "name": "Monroe Community Media Education Channel (1920p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "MonroeCommunityMediaPublicAccessChannel.us@SD",
-      "name": "Monroe Community Media Public Access Channel",
+      "name": "Monroe Community Media Public Access Channel (1920p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2052,7 +2210,7 @@
     },
     {
       "id": "MontgomeryChannel.us@SD",
-      "name": "Montgomery Channel",
+      "name": "Montgomery Channel (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2126,8 +2284,18 @@
       "reason": "affiliate location outside selection or unspecified"
     },
     {
+      "id": "NBC.us@KJRHTV",
+      "name": "NBC KJRH-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "NBC.us@KNTV",
       "name": "NBC KNTV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@KOAATV",
+      "name": "NBC KOAA-TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2142,12 +2310,17 @@
     },
     {
       "id": "NBC.us@KSBY",
-      "name": "NBC KSBY (720p)",
+      "name": "NBC KSBY (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
       "id": "NBC.us@KSNV",
       "name": "NBC KSNV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "NBC.us@KTVHDT",
+      "name": "NBC KTVH-DT (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2177,7 +2350,7 @@
     },
     {
       "id": "NBC.us@WGBATV",
-      "name": "NBC WGBA-TV (720p)",
+      "name": "NBC WGBA-TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2211,6 +2384,11 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "NBC.us@WMCTV",
+      "name": "NBC WMC-TV (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "NBC.us@WMGTTV",
       "name": "NBC WMGT-TV (720p)",
       "reason": "local station outside Iowa/Kansas City"
@@ -2227,7 +2405,7 @@
     },
     {
       "id": "NBC.us@WPTVTV",
-      "name": "NBC WPTV-TV (720p)",
+      "name": "NBC WPTV-TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2241,8 +2419,13 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "NBC.us@WSMVTV",
+      "name": "NBC WSMV-TV (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "NBC.us@WTMJTV",
-      "name": "NBC WTMJ-TV (720p)",
+      "name": "NBC WTMJ-TV (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2342,7 +2525,7 @@
     },
     {
       "id": "OANPlus.us@KPVMLD",
-      "name": "OAN Plus KPVM-LD",
+      "name": "OAN Plus KPVM-LD (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2542,7 +2725,7 @@
     },
     {
       "id": "PlutoTVSciFi.us@US",
-      "name": "Pluto TV Sci-Fi (United States)",
+      "name": "Pluto TV Sci-Fi",
       "reason": "non-English; English subtitles unverified"
     },
     {
@@ -2631,6 +2814,11 @@
       "reason": "non-English; English subtitles unverified"
     },
     {
+      "id": "RetrovisionTV.do@HD",
+      "name": "Retro vision TV (720p) [Not 24/7]",
+      "reason": "non-English; English subtitles unverified"
+    },
+    {
       "id": "Roar.us@KCWX",
       "name": "Roar KCWX (720p) [Not 24/7]",
       "reason": "local station outside Iowa/Kansas City"
@@ -2648,6 +2836,11 @@
     {
       "id": "Roar.us@WSBTTV",
       "name": "Roar WSBT-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "Roar.us@WTVF",
+      "name": "Roar WTVF (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
@@ -2956,6 +3149,26 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "TheCW.us@KTNVTV",
+      "name": "The CW KTNV-TV (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TheCW.us@KWCHDT",
+      "name": "The CW KWCH-DT (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TheCW.us@WAVE",
+      "name": "The CW WAVE (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
+      "id": "TheCW.us@WWBT",
+      "name": "The CW WWBT (1080p) [Geo-blocked]",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "TheLoop.us@SD",
       "name": "The Loop (1080p)",
       "reason": "local station outside Iowa/Kansas City"
@@ -3044,11 +3257,6 @@
       "id": "TV4.us@SD",
       "name": "TV4 (United States) (360p)",
       "reason": "local station outside Iowa/Kansas City"
-    },
-    {
-      "id": "TVDaja.do@SD",
-      "name": "TV Daja (1080p) [Not 24/7]",
-      "reason": "non-English; English subtitles unverified"
     },
     {
       "id": "TVHispanic.us@SD",
@@ -3221,6 +3429,11 @@
       "reason": "local station outside Iowa/Kansas City"
     },
     {
+      "id": "WFTSTV321.us@HD",
+      "name": "WFTS-TV 32.1 (1080p)",
+      "reason": "local station outside Iowa/Kansas City"
+    },
+    {
       "id": "WGGSTV161.us@HD",
       "name": "WGGS-TV 16.1",
       "reason": "local station outside Iowa/Kansas City"
@@ -3232,7 +3445,7 @@
     },
     {
       "id": "WillametteFallsMediaCenter.us@SD",
-      "name": "Willamette Falls Media Center",
+      "name": "Willamette Falls Media Center (1080p)",
       "reason": "local station outside Iowa/Kansas City"
     },
     {
